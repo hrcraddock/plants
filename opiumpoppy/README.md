@@ -17,6 +17,10 @@ Papaver somniferum, commonly known as the opium poppy or breadseed poppy, is a s
        zoom="2"
        center="37.88016179341846, 19.156731827963906">
       
-
+<parem ve-image
+       url="https://www.biodiversitylibrary.org/pageImage/40601879"
+       label="Matthioli"
+       description="image from Senensis medici Commentarii in sex libros Pedacii Dioscoridis Anazarbei De medica materia"
+       license="via BHL">
 
 https://juncture-digital.org/hrcraddock/plants/opiumpoppy/
