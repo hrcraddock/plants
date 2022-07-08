@@ -24,8 +24,19 @@ The native range of opium poppy is probably the Eastern Mediterranean, but exten
        description="image from Senensis medici Commentarii in sex libros Pedacii Dioscoridis Anazarbei De medica materia"
        license="via BHL">
        
+ The native range of opium poppy is probably the Eastern Mediterranean, but extensive cultivation and introduction of the species throughout Europe since ancient times have obscured its origin. It has escaped from cultivation, or has been introduced and become naturalized extensively in all regions of the British Isles, particularly in the south and east and in almost all other countries of the world with suitable, temperate climates.
+<param ve-map
+       
 A poppy is a flowering plant in the subfamily Papaveroideae of the family Papaveraceae. Poppies are herbaceous plants, often grown for their colourful flowers. One species of poppy, Papaver somniferum, is the source of the narcotic drug opium which contains powerful medicinal alkaloids such as morphine and has been used since ancient times as an analgesic and narcotic medicinal and recreational drug. It also produces edible seeds. Following the trench warfare in the poppy fields of Flanders, Belgium during World War I, poppies have become a symbol of remembrance of soldiers who have died during wartime, especially in the UK, US, and Canada.
  <param ve-iframe
   src="https://books.google.com/books?id=XKtLDwAAQBAJ&lpg=PP1&pg=PP1&output=embed">
+  
+  The native range of opium poppy is probably the Eastern Mediterranean, but extensive cultivation and introduction of the species throughout Europe since ancient times have obscured its origin. It has escaped from cultivation, or has been introduced and become naturalized extensively in all regions of the British Isles, particularly in the south and east and in almost all other countries of the world with suitable, temperate climates.
+<param ve-knightlab-timeline
+              source="13IY4cYwEoTQJ8Q8fSUF405wptDGpcKk4df-_wG0Q7JY"
+              timenav-position="bottom"
+              hash-bookmark="false"
+              initial-zoom="1"
+              height="750">
 
 https://juncture-digital.org/hrcraddock/plants/opiumpoppy/
