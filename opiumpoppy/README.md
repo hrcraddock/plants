@@ -14,7 +14,7 @@ Papaver somniferum, commonly known as the opium poppy or breadseed poppy, is a s
 The native range of opium poppy is probably the Eastern Mediterranean, but extensive cultivation and introduction of the species throughout Europe since ancient times have obscured its origin. It has escaped from cultivation, or has been introduced and become naturalized extensively in all regions of the British Isles, particularly in the south and east and in almost all other countries of the world with suitable, temperate climates.
 <param ve-map
        Title="Origin of Poppy Plant"
-       zoom="2"
+       zoom="6"
        center="37.88016179341846, 19.156731827963906">
       
 The native range of opium poppy is probably the Eastern Mediterranean, but extensive cultivation and introduction of the species throughout Europe since ancient times have obscured its origin. It has escaped from cultivation, or has been introduced and become naturalized extensively in all regions of the British Isles, particularly in the south and east and in almost all other countries of the world with suitable, temperate climates.
