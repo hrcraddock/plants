@@ -38,5 +38,10 @@ A poppy is a flowering plant in the subfamily Papaveroideae of the family Papave
               hash-bookmark="false"
               initial-zoom="1"
               height="750">
+              
+## Map
+
+Joseph Hooker, later director of Kew Gardens between 1865 and 1885, visited the opium manufactory in Patna in India in 1848 and returned with a series of illustrations displaying the processes of cultivating and manufacturing opium.
+<param ve-map center="25.599042067145163, 85.13514345584765" zoom="11" prefer-geojson>
 
 https://juncture-digital.org/hrcraddock/plants/opiumpoppy/
