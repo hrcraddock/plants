@@ -1,5 +1,5 @@
 <param ve-config
-       title="images"
+       title="Opium Poppy"
        author="Heather Craddock, Carol Chang and Alejandro Garay-Celeita"
        banner="https://upload.wikimedia.org/wikipedia/commons/8/84/Berninis_Apollo_och_Dafne_skapad_1622-25.jpg"
        layout="vertical">
