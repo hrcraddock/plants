@@ -41,7 +41,7 @@ A poppy is a flowering plant in the subfamily Papaveroideae of the family Papave
               
 ## Map
 
-Joseph Hooker, later director of Kew Gardens between 1865 and 1885, visited the opium manufactory in Patna in India in 1848 and returned with a series of illustrations displaying the processes of cultivating and manufacturing opium.
+Joseph Hooker, later director of Kew Gardens between 1865 and 1885, visited the opium manufactory in Patna in India in 1848 and returned with a series of illustrations displaying the processes of cultivating and manufacturing opium. The East India Company managed opium poppy plantations across India, but sold off the product in <span data-mouseover-map-flyto="22.73466141131803, 88.3571440124626, 14">Calcutta</span> to private merchants to transport to China, increasingly disconnecting the opium poppy plant from the drug product it provided.
 <param ve-map center="25.599042067145163, 85.13514345584765" zoom="11" prefer-geojson>
 
 https://juncture-digital.org/hrcraddock/plants/opiumpoppy/
