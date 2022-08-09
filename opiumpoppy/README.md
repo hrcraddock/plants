@@ -19,25 +19,6 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
        Title="Origin of Poppy Plant"
        zoom="6"
        center="37.88016179341846, 19.156731827963906">
-      
-Sample text
-<param ve-image
-       url="https://www.biodiversitylibrary.org/pageImage/40601879"
-       label="Matthioli"
-       description="image from Senensis medici Commentarii in sex libros Pedacii Dioscoridis Anazarbei De medica materia"
-       license="via BHL">
-       
-Sample text
- <param ve-iframe
-  src="https://books.google.com/books?id=XKtLDwAAQBAJ&lpg=PP1&pg=PP1&output=embed">
-  
-Sample timeline
-<param ve-knightlab-timeline
-              source="13IY4cYwEoTQJ8Q8fSUF405wptDGpcKk4df-_wG0Q7JY"
-              timenav-position="bottom"
-              hash-bookmark="false"
-              initial-zoom="1"
-              height="750">
 
 ## 19th Century: A Household Drug 
 
