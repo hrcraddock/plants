@@ -130,3 +130,6 @@ A poppy is a flowering plant in the subfamily Papaveroideae of the family Papave
 
 			  
 https://juncture-digital.org/hrcraddock/plants/opiumpoppy/
+
+## The Cursed Flower in Colombia
+At the end of the 20th century in Colombia, the opium poppy went from being an unknown plant to a metaphor for beauty, the hidden and the forbidden, as well as for consumption, excess and precariousness. Once it flourishes in the mountain ranges, the seeds spread avidly in humid and tropical forest. The plant grows, reproduces and becomes an object of desire for its precious "honey", as the peasants call the latex that oozes from its fruit. This same plant that has been admired for its beauty suddenly transforms and begins to be called “the cursed flower” (La flor maldita). Strangely, after its flower fades, the capsule emerges as a sign of a fortune that needs to be revealed. In a photograph by a Colombian artist Juan Fernando Herrán from 2000, we see the precise moment when the head of the poppy has been delicately cut off, and liquid surges from it. In this art piece, the presence of the plant is transformed into a powerful image that distances itself from certain previous visualities; on the contrary, the photograph shows the opium poppy capsule as a question between the human and the vegetal, the visual and the sensorial, the material and the spiritual.
