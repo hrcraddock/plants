@@ -22,6 +22,7 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
        
 ## Early Modern Poppies
 
+The opium poppy was first given the name papaver somniferum by Linnaeus in his [Species Plantarum](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver)(1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin somnium.
 Georg Wolfgang Wedel's 1682 Opiologia
 <param ve-iframe
 src="https://books.google.co.uk/books?id=YipAAAAAcAAJ&newbks=0&dq=wolff%20opiologia&pg=PP1&output=embed">
