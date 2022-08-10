@@ -53,7 +53,7 @@ The Opium Wars (1839-1841 and 1856-1860) situate the opium poppy within the poli
        description="Satire showing an Englishman ordering the emperor of China to buy opium. "I tell you to immediately buy the gift here. We want you to poison yourself completely, because we need a lot of tea in order to digest our beefsteaks."
        license="public domain">                             
 
-This question of morality was heightened by the use of British India to fuel this drug trade. The East India Company managed opium poppy plantations across India, but sold off the product in to private merchants to transport to China, increasingly disconnecting the opium poppy plant from the drug product it provided. The cultivation of poppies in the nineteenth matches the development of vast global networks of plant transfers, and archival records at Kew describe affiliated experimental plots growing opium poppies in India. These ‘Experimental Poppy Gardens’ sought to examine methods of poppy cultivation, including diseases and soil conditions impacting the plants and the yield of opium they produced. The opium poppy was considered a ‘useful plant’, and a whole volume in the Miscellaneous Reports of Kew is dedicated to it: ‘India: Economic Products: Opium’. This categorisation as an ‘economic product’ and the regulation of opium poppy cultivation by the East India Company situates the plant within the context of colonial economic botany in the nineteenth century; as a plant which produced a product of economic value, the opium poppy is given attention in this collection which records the work of colonial botany in Kew’s network of gardens across the British Empire. 
+This question of morality was heightened by the use of British India to fuel this drug trade. The East India Company managed opium poppy plantations across India, but sold off the product in to private merchants to transport to China, increasingly disconnecting the opium poppy plant from the drug product it provided. [^ref1] The cultivation of poppies in the nineteenth matches the development of vast global networks of plant transfers, and archival records at Kew describe affiliated experimental plots growing opium poppies in India. These ‘Experimental Poppy Gardens’ sought to examine methods of poppy cultivation, including diseases and soil conditions impacting the plants and the yield of opium they produced. The opium poppy was considered a ‘useful plant’, and a whole volume in the Miscellaneous Reports of Kew is dedicated to it: ‘India: Economic Products: Opium’. This categorisation as an ‘economic product’ and the regulation of opium poppy cultivation by the East India Company situates the plant within the context of colonial economic botany in the nineteenth century; as a plant which produced a product of economic value, the opium poppy is given attention in this collection which records the work of colonial botany in Kew’s network of gardens across the British Empire. 
 <param ve-image url="MR146_India_Opium_Spine.jpg">
 <param ve-map center="25.59749394662182, 85.13926332871084" zoom="9" prefer-geojson> 
                               
@@ -115,7 +115,12 @@ A poppy is a flowering plant in the subfamily Papaveroideae of the family Papave
               timenav-position="bottom"
               hash-bookmark="false"
               initial-zoom="1"
-              height="750">             
+              height="750">   
 
+			  
+## References			  
 
+[^ref1]: Julia Lovell. The Opium War: Drugs, Dreams and the Making of China. London: Pan Macmillan, 2011, p. 2.
+
+			  
 https://juncture-digital.org/hrcraddock/plants/opiumpoppy/
