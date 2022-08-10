@@ -37,7 +37,7 @@ The opium poppy was given the name papaver somniferum by Linnaeus in his [Specie
 
 ## 19th Century: A Household Drug 
 
-The nineteenth century saw a conflict between existing conceptions of the opium poppy as a plant of beauty which provided relief and inspiration and increasingly negative attitudes towards the morality of the trade and use of the drug. Nineteenth century herbals such as Köhler's Medizinal-Pflanzen (1890) continued to categorize the opium poppy as a medicinal plant. Often referred to during this period as laudanum, a tincture of opium with wine or water, the relieving effects of opium in medical terms remained well-known and opium was used in commonplace medicines, even for children, to the extent that it was referred to as ‘the poor child’s nurse’ due to its ability to stop babies crying.
+The nineteenth century saw a conflict between existing conceptions of the opium poppy as a plant of beauty which provided relief and inspiration and increasingly negative attitudes towards the morality of the trade and use of the drug. Nineteenth century herbals such as Köhler's [*Medizinal-Pflanzen*](https://www.biodiversitylibrary.org/page/303420) (1890) continued to categorize the opium poppy as a medicinal plant. Often referred to during this period as laudanum, a tincture of opium with wine or water, the relieving effects of opium in medical terms remained well-known and opium was used in commonplace medicines, even for children, to the extent that it was referred to as ‘the poor child’s nurse’ due to its ability to stop babies crying.
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/3/39/%22Poor_child%27s_nurse%22%2C_child_with_opium%2C_Punch%2C_1849_Wellcome_L0003359.jpg"
        label="Poor Child's Nurse"
