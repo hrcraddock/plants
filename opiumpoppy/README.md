@@ -77,7 +77,7 @@ Later in the century, opium played a role both in the inspiration and content of
                               
 ## Decadence, Degeneration, and Racism
 
-In the late nineteenth century opium was deeply entwined with the indulgence and decadence of the fin-de-siecle. In the 1890s, opium was increasingly associated with racist concepts of degeneration. In his Degeneration (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that ‘A race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants’. However, he adds that the West ‘need not concern ourselves about that, since the chief sufferers from them are Eastern peoples, who play no part in the intellectual development of the white races.’ 
+In the late nineteenth century opium was deeply entwined with the indulgence and decadence of the fin-de-siecle. In the 1890s, opium was increasingly associated with racist concepts of degeneration. In his [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that ‘A race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants’. However, he adds that the West ‘need not concern ourselves about that, since the chief sufferers from them are Eastern peoples, who play no part in the intellectual development of the white races.’ 
                               
                               
 ## Practice Samples
