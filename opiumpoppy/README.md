@@ -19,6 +19,13 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
        Title="Origin of Poppy Plant"
        zoom="6"
        center="37.88016179341846, 19.156731827963906">
+       
+## Early Modern Poppies
+
+Georg Wolfgang Wedel's 1682 Opiologia
+<param ve-iframe
+src="https://www.google.co.uk/books/edition/Georgii_Wolffgangi_Wedelii_Med_Doctoris/YipAAAAAcAAJ?hl=en&gbpv=1&dq=wolff+opiologia&pg=PP1&printsec=frontcover">
+
 
 ## 19th Century: A Household Drug 
 
