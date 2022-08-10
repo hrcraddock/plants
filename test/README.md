@@ -3,7 +3,7 @@
 <param ve-config
        title="Opium Poppy: A Cursed Beauty"
        author="Heather Craddock, Carol Chang and Alejandro Garay-Celeita"
-       banner="https://upload.wikimedia.org/wikipedia/commons/d/de/Opium_poppies%2C_Hampstead_Norreys_-_geograph.org.uk_-_876353.jpg"
+       banner="Wedel_image.jpg"
        layout="vertical">
        
 Introduction text
