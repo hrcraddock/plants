@@ -143,3 +143,4 @@ In this state of emergency, the police and the military went after the plant and
 
 This delicate staging is doubly displayed by the artist who adds two "natural" capsules, one on each side of the image. The two works, both the photograph and the capsules, are manipulated; the artist himself carefully composes the scene and places these two capsules as two portraits that dialogue with the photograph, almost like a traditional triptych in which each of the parts composes a story. The artist himself conceives the scratching action on each of the capsules as the inscription of a "promise": That promise that comes from the plant itself. It is a promise that is to come and at the same time that is being cut off. The plant itself is a promise of a better future for certain impoverished communities, but it quickly becomes in its opposite as a sign of deception, an injustice, and displacement.
 
+## Displacement, New Landscape, Agencies
