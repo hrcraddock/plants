@@ -23,7 +23,7 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
 ## Early Modern Poppies
 
 The opium poppy was given the name papaver somniferum by Linnaeus in his [Species Plantarum](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver)(1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin somnium. Angelo Sala’s 1618 Opiologia; or a Treatise concerning ... Opium discusses the medicinal properties of opium and evaluates existing knowledge about its effects, primarily its ability to ‘wonderfully and speedily release the body from intolerable pains’. The first chapter is preceded by an image entitled ‘the method of extracting the juice of the poppy’, depicting a Turkish opium picker using his knife to scratch the poppy seed capsule in order to collect the sap. A similar image appears on the title page of Georg Wolfgang Wedel's Opiologia (1682).
-<param ve-compare curtain 
+<param ve-compare 
 	compare="true"
        url="Sala_image.jpg"
        label="Opium Extraction" 
