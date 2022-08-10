@@ -24,7 +24,7 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
 
 Georg Wolfgang Wedel's 1682 Opiologia
 <param ve-iframe
-src="https://www.google.co.uk/books/edition/Georgii_Wolffgangi_Wedelii_Med_Doctoris/YipAAAAAcAAJ?hl=en&gbpv=1&dq=wolff+opiologia&pg=PP1&printsec=frontcover">
+src="https://books.google.co.uk/books?id=YipAAAAAcAAJ&newbks=0&dq=wolff%20opiologia&pg=PP1&output=embed">
 
 
 ## 19th Century: A Household Drug 
