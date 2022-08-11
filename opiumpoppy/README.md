@@ -8,9 +8,9 @@
        
 Introduction text
 <param ve-image
-    url="https://upload.wikimedia.org/wikipedia/commons/4/44/Albrecht_Meyer19.jpg"    
-    label="opium poppy"
-    description="image of poppy"
+    url="Chang_Carol_poppies.jpg"    
+    label="Matilija Poppy"
+    description="Matilija Poppy taken by Carol Chang"
     license="public domain"
     fit="contain">
 
