@@ -148,3 +148,13 @@ This delicate staging is doubly displayed by the artist who adds two "natural" c
 The displacement of peasants and indigenous people was considerably accentuated during the war against the "cursed flower". Entire populations had to flee due to police persecution and the structures of the drug production; for some scholars, displacement should not be understood as an effect but as a weapon of war, a capitalist strategy of accumulation in which both the state and the insurgent groups empty land as a reason to expropriate, to appropriate both the territories and their resources. The truth is that, in these politics of domination, the whole landscape was being transformed. Not only was violence being wrought on the human, but also on the plant and the other organisms that coexisted with the opium poppy. The aerial spraying fell from the air and reached every corner of the surface. Those Edenic scenes of an almost virginal landscape of the mountains began to change into a codified space where the machine with its noise and its poison began to become an integral part of that new colonizing gaze. 
 
 Carlos Uribe's (1999) work entitled Horizons with Glyphosate (Horizonte con glifosato) makes direct reference to these political and environmental issues that were amid a broad public and private debate about the increasingly notorious presence of drug money in Colombian society. The work is a quotation and an extension of a 1913 painting of the same name made by Antonio Cano, already considered emblematic for regional visuality in Colombia.  On the one hand, Cano shows a peasant family extending their hand in an act of promise in front of the immensity of a territory that as an act of creation needs to be occupied. The religious, patriarchal and dominion over the territory allusions made the work an unsurpassable example of a certain identity that was beginning to be defined and defended in the region of Antioquia in Colombia, one of the most prosperous and richest regions of the country and at the same time one of the most violent and most marked by drug trafficking. On the other hand, in Uribe's work, in addition to making an artistic appropriation, he also makes a historical reference to an environmental situation that was happening once the airplanes spilled glyphosate.
+<param ve-compare curtain 
+	compare="true"
+url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Horizonte%2C_Francisco_Antonio_Cano%2C_1913.jpg"
+label="Horizontes" 
+description="Horizontes by Antonio Cano"
+<param ve-compare 
+url=https://upload.wikimedia.org/wikipedia/commons/b/b4/Horizontes_%28Horizonts%29_by_Carlos_Uribe_%281997%29_%285083038746%29.jpg"
+label="Horizontes con glifosato" 
+description="Horizontes con glifosato"
+
