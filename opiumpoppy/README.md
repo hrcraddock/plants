@@ -25,7 +25,13 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
        
 ## Divine Remedies
  
- Like most plants used for hallucinogenic effects, opium poppies were first used for ritual and sacrifice purposes. Presence of opium poppies were found as early as the Paleolithic Era. Both seed deposits and representations of the opium poppy seed pod were found in artifacts from western Europe, more specifically the Mediterranean and parts of what is now the Middle East. Many artifacts with representations of the seed pods were found in Greece, Crete, Cyprus, Egypt, Palestine, and Syria. Poppy seed capsules were precious, magical, and even divine. The poppy flower had yet to make much of an entrance until the Roman empire, when barley and poppy are both associated with “Persephone and the promise of perpetual rebirth,” the Minoan goddess of poppies and Demeter/Isis, goddess of agriculture. Statues, stelae, and other artwork depict opium poppies, often in the form of seed capsules, accompany these gods.
+Like most plants used for hallucinogenic effects, opium poppies were first used for ritual and sacrifice purposes. Presence of opium poppies were found as early as the Paleolithic Era. Both seed deposits and representations of the opium poppy seed pod were found in artifacts from western Europe, more specifically the Mediterranean and parts of what is now the Middle East. Many artifacts with representations of the seed pods were found in Greece, Crete, Cyprus, Egypt, Palestine, and Syria. Poppy seed capsules were precious, magical, and even divine. The poppy flower had yet to make much of an entrance until the Roman empire, when barley and poppy are both associated with “Persephone and the promise of perpetual rebirth,” the Minoan goddess of poppies and Demeter/Isis, goddess of agriculture. Statues, stelae, and other artwork depict opium poppies, often in the form of seed capsules, accompany these gods.
+<param ve-image
+       	url="https://upload.wikimedia.org/wikipedia/commons/4/43/Roman_silver_denarius_of_Vespasian_dating_from_AD_73_%28FindID_613177%29.jpg"
+	label="Roman Silver Denarius of Vespasian, 73 AD"
+       description="Roman silver coin with laureate bust and clasped hands holding caduceus, two poppy heads and two corn ears, most likely referencing Demeter"
+       fit="contain">
+
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Mycenae_gold_ring.jpg"
        label="Mycenae Gold Ring"
@@ -33,6 +39,12 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
        license="public domain"
        fit="contain">
        
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/4/45/Terracottas_from_Gazi_in_AM_Heraklion%2C_1300-1100_BC%2C_145278.jpg"
+       label="Terracottas from Gazi in AM Heraklion, 1300-1100 BC"
+       description="This collection of terracottas depict iterations of the Minoan Poppy Goddes, as indicated by their crowns covered in upright poppy capsules."
+       license="public domain"
+       fit="contain">
  
 Another notable example of this valorization comes from Anatolia during the Mycenaean period of two gold pins resembling dried poppy capsules from the Robert Schimmel collection in the Met. While scholars disagree about whether or not these bulbous single-stemmed plants are poppy seed capsules or pomegranates, there is some consensus that both were depicted in ancient reliefs.
        
