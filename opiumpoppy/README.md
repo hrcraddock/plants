@@ -54,7 +54,6 @@ Another notable example of this valorization comes from Anatolia during the Myce
        license="public domain"
        fit="contain">
 
- 
 ## New Geographies and Meanings
  
 During the Holy Inquisition, use of anything related to the East was banned including the use of the opium poppy. From the 12th to the 15th century, western Europe opposed any Eastern influence. Meanwhile, India, the Middle East, and China participated in the naturalization of the opium poppy. Arab traders were thought to have spread the opium poppy to Tang Dynasty China, where opium was integrated into various medicinal concoctions and dietary recipes.[^ref3] In China, opium poppies were integrated into dietary, medicinal, and recreational use. Integration of opium poppies into diet and medicine originated in Southern China and its countryside, where Buddhist monasteries often concocted remedies for ailments related to the throat and stomach and spread recipes to rural neighborhoods. Despite European writing on the hardiness of the poppy plant, in [1061](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6733759/) Su Song writes that, “[Poppies] are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.”
@@ -71,6 +70,7 @@ During the Holy Inquisition, use of anything related to the East was banned incl
        url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_botanical_atlas_%28Plate_XIII%29_%287349116188%29.jpg"
        label="Barberry and Poppy Plate"
        description="Barberry and Poppy Plate XIII, from The Botanical Atlas: a guide to the practical study of plants containing representatives of the leading forms of plant life with explanatory letterpress, 1883"
+       license="public domain"
        fit="contain">
  
 ## Rebranding: Value in Aesthetics
@@ -99,14 +99,15 @@ The opium poppy was given the name papaver somniferum by Linnaeus in his [*Speci
 	url="Sala_image.jpg"
 	label="Opium Extraction" 
 	description="Image from Sala's Opiologia"
-	license="CC BY-SA 4.0"
-	fit="contain">
-<param ve-compare 
+	license="CC BY-SA 4.0">
+	
+<param ve-compare
+        curtain="true"
 	url="Wedel_image.jpg"
 	label="Opium Extraction" 
 	description="Image from Wedel’s Opiologia"
-	license="CC BY-SA 4.0"
-       	fit="contain">
+	license="CC BY-SA 4.0">
+      
 
 ## 19th Century: A Household Drug 
 
