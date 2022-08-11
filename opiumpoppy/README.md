@@ -33,7 +33,7 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
 Another notable example of this valorization comes from Anatolia during the Mycenaean period of two gold pins resembling dried poppy capsules from the Robert Schimmel collection in the Met. While scholars disagree about whether or not these bulbous single-stemmed plants are poppy seed capsules or pomegranates, there is some consensus that both were depicted in ancient reliefs.
        
 <param ve-image
-       url="[https://www.metmuseum.org/art/collection/search/327404](https://images.metmuseum.org/CRDImages/an/original/sd1989_281_14,15.jpg)"
+       url="https://images.metmuseum.org/CRDImages/an/original/sd1989_281_14,15.jpg"
        label="Gold Pin with Spherical Head"
        description="From the Hittite Empire (ca. 14-13 century BC), in Central Anatolia. From the Norbert Schimmel Collection on loan to the Metropolitan Museum."
        license="public domain">
