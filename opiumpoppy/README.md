@@ -3,7 +3,7 @@
 <param ve-config
        title="Opium Poppy: A Cursed Beauty"
        author="Heather Craddock, Carol Chang and Alejandro Garay-Celeita"
-       banner="https://upload.wikimedia.org/wikipedia/commons/d/de/Opium_poppies%2C_Hampstead_Norreys_-_geograph.org.uk_-_876353.jpg"
+       banner="[https://upload.wikimedia.org/wikipedia/commons/d/de/Opium_poppies%2C_Hampstead_Norreys_-_geograph.org.uk_-_876353.jpg](https://upload.wikimedia.org/wikipedia/commons/1/10/A_naturalist_in_Western_China_-_with_vasculum%2C_camera%2C_and_gun%2C_being_some_account_of_eleven_year%27s_travel%2C_exploration%2C_and_observation_in_the_more_remote_parts_of_the_flowery_kingdom%3B_%281913%29_%2814782677905%29.jpg)"
        layout="vertical">
        
 ## Poppies
