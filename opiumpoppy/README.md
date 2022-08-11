@@ -82,6 +82,10 @@ While prehistoric and ancient depictions of opium poppies mostly referred to see
        label="Papaver somniferum"
        description="Artist unknown, Pencil on paper, circa 18th century"
        fit="contain">
+<param ve-image
+       url="Besler_Poppy.jpg"
+       label="Papaver flor. luteo. Cornicu. latum, or Papaver purpureo color."
+       description="Basilius Besler, 1713">
 
        
 ## Early Modern Poppies
