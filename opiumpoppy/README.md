@@ -25,7 +25,7 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
        
 ## Divine Remedies
  
-Like most plants used for hallucinogenic effects, opium poppies were first used for ritual and sacrifice purposes. Presence of opium poppies were found as early as the Paleolithic Era. Both seed deposits and representations of the opium poppy seed pod were found in artifacts from western Europe, more specifically the Mediterranean and parts of what is now the Middle East. Many artifacts with representations of the seed pods were found in Greece, Crete, Cyprus, Egypt, Palestine, and Syria. Poppy seed capsules were precious, magical, and even divine. The poppy flower had yet to make much of an entrance until the Roman empire, when barley and poppy are both associated with “Persephone and the promise of perpetual rebirth,” the Minoan goddess of poppies and Demeter/Isis, goddess of agriculture. Statues, stelae, and other artwork depict opium poppies, often in the form of seed capsules, accompany these gods.
+Like most plants used for hallucinogenic effects, opium poppies were first used for ritual and sacrifice purposes. Presence of opium poppies were found as early as the Paleolithic Era. Both seed deposits and representations of the opium poppy seed pod were found in artifacts from western Europe, more specifically the Mediterranean and parts of what is now the Middle East. Many artifacts with representations of the seed pods were found in Greece, Crete, Cyprus, Egypt, Palestine, and Syria.[^ref2]  Poppy seed capsules were precious, magical, and even divine. The poppy flower had yet to make much of an entrance until the Roman empire, when barley and poppy are both associated with [*“Persephone and the promise of perpetual rebirth,”*] (https://jstor.org/stable/community.11658624) the Minoan goddess of poppies and Demeter/Isis, goddess of agriculture. Statues, stelae, and other artwork depict opium poppies, often in the form of seed capsules, accompany these gods.
 <param ve-image
        	url="https://upload.wikimedia.org/wikipedia/commons/4/43/Roman_silver_denarius_of_Vespasian_dating_from_AD_73_%28FindID_613177%29.jpg"
 	label="Roman Silver Denarius of Vespasian, 73 AD"
@@ -46,7 +46,7 @@ Like most plants used for hallucinogenic effects, opium poppies were first used 
        license="public domain"
        fit="contain">
  
-Another notable example of this valorization comes from Anatolia during the Mycenaean period of two gold pins resembling dried poppy capsules from the Robert Schimmel collection in the Met. While scholars disagree about whether or not these bulbous single-stemmed plants are poppy seed capsules or pomegranates, there is some consensus that both were depicted in ancient reliefs.
+Another notable example of this valorization comes from Anatolia during the Mycenaean period of two gold pins resembling dried poppy capsules from the Robert Schimmel collection in the Met. While scholars disagree about whether or not these bulbous single-stemmed plants are poppy seed capsules or pomegranates, there is some consensus that both were depicted in [*ancient reliefs.*] (http://www.artepreistorica.com/2010/01/sacred-opium-botany-in-daunia-italy-from-the-7-to-6-centuries-bc/)
        
 <param ve-image
        url="https://images.metmuseum.org/CRDImages/an/original/sd1989_281_14,15.jpg"
@@ -58,7 +58,7 @@ Another notable example of this valorization comes from Anatolia during the Myce
  
 ## New Geographies and Meanings
  
-During the Holy Inquisition, use of anything related to the East was banned including the use of the opium poppy. From the 12th to the 15th century, western Europe opposed any Eastern influence. Meanwhile, India, the Middle East, and China participated in the naturalization of the opium poppy. Arab traders were thought to have spread the opium poppy to Tang Dynasty China, where opium was integrated into various medicinal concoctions and dietary recipes. In China, opium poppies were integrated into dietary, medicinal, and recreational use. Integration of opium poppies into diet and medicine originated in Southern China and its countryside, where Buddhist monasteries often concocted remedies for ailments related to the throat and stomach and spread recipes to rural neighborhoods. Despite European writing on the hardiness of the poppy plant, in 1061 Su Song writes about poppies that “They are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.”
+During the Holy Inquisition, use of anything related to the East was banned including the use of the opium poppy. From the 12th to the 15th century, western Europe opposed any Eastern influence. Meanwhile, India, the Middle East, and China participated in the naturalization of the opium poppy. Arab traders were thought to have spread the opium poppy to Tang Dynasty China, where opium was integrated into various medicinal concoctions and dietary recipes.[^ref3] In China, opium poppies were integrated into dietary, medicinal, and recreational use. Integration of opium poppies into diet and medicine originated in Southern China and its countryside, where Buddhist monasteries often concocted remedies for ailments related to the throat and stomach and spread recipes to rural neighborhoods. Despite European writing on the hardiness of the poppy plant, in 1061 Su Song writes about poppies that “They are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.”
 
 <param ve-image
 	url="https://iiif.wellcomecollection.org/image/V0043635ER/full/880%2C/0/default.jpg" 
@@ -195,6 +195,8 @@ Curiously, the eyes of the pilots had to direct their gazes to the beauty of the
 ## References			  
 
 [^ref1]: See William Robinson, The Wild Garden Or, “Our Grove and Shrubberies Made Beautiful By The Naturalization of Hardy Exotic Plants: With A Chapter On The Garden of British Wild Flowers” (London: John Murray), 1870. 1st edition; See William Robinson, The English Flower Garden and Home Grounds of Hardy Trees and Flowers Only (London: John Murray), 1933. 11th Edition.
+[^ref2]: M. D. Merlin. “Archaeological Evidence for the Tradition of Psychoactive Plant Use in the Old World.” Economic Botany 57, no. 3 (2003): 295–323. http://www.jstor.org/stable/4256701.
+[^ref3]: Zheng, Yangwen. “The Social Life of Opium in China, 1483-1999.” Modern Asian Studies 37, no. 1 (2003): 5. http://www.jstor.org/stable/3876550.
 
 [^ref]: Julia Lovell. The Opium War: Drugs, Dreams and the Making of China. London: Pan Macmillan, 2011, p. 2.
 [^ref]: Royal Botanic Gardens Kew Archives, Miscellaneous Reports, MCR/5/1/45, India: Economic Products: Opium, f. 209.
