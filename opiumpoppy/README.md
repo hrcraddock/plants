@@ -48,8 +48,9 @@ During the Holy Inquisition, use of anything related to the East was banned incl
 <param ve-image
 	url="https://iiif.wellcomecollection.org/image/V0043635ER/full/300,/0/default.jpg"
 	label="An Opium Poppy: Seed Capsule, Watercolor"
-	description="From wellcome collection: 'Unripe seed capsules of the opium poppy yield opium. Oil from the seeds is used in artist's paints, salad oil and soap.' Illustration found in book on vegetables and usese."
-	license="public domain">
+	description="From wellcome collection: 'Unripe seed capsules of the opium poppy yield opium. Oil from the seeds is used in artist's paints, salad oil and soap.' Illustration found in book on vegetables and their uses."
+	license="public domain"
+       	fit="contain">
  
  In 1913, author and naturalist George Birdwood writes of Indian opium as, “the luxury of the rich in China, as champagne is in Europe and America.” Yet, century after century, cultural meaning of the opium poppy changed drastically. In the 13th century, Paracelsus, a physician and scholar, repopularized the opium poppy as the drug “laudanum,” and western societies continued their use of the opium poppy as medicine. Links to Asian and Middle Eastern use of the morphine content in opium distinguished western use of opium. In the 16th century, even Dutch sailors who smoked opium were considered “primitive people” for partaking. 
  
