@@ -100,15 +100,17 @@ The opium poppy was given the name papaver somniferum by Linnaeus in his [*Speci
 	label="Opium Extraction" 
 	description="Image from Sala's Opiologia"
 	license="CC BY-SA 4.0"
-        width"600"=
-       	length="400>
+        width="600"
+       	length="400">
 	
 <param ve-compare
         curtain="true"
 	url="Wedel_image.jpg"
 	label="Opium Extraction" 
 	description="Image from Wedel’s Opiologia"
-	license="CC BY-SA 4.0">
+	license="CC BY-SA 4.0"
+	width="600"
+	length="400">
       
 
 ## 19th Century: A Household Drug 
