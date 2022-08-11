@@ -23,6 +23,8 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
 ## Divine Remedies
  
  Like most plants used for hallucinogenic effects, opium poppies were first used for ritual and sacrifice purposes. Presence of opium poppies were found as early as the Paleolithic Era. Both seed deposits and representations of the opium poppy seed pod were found in artifacts from western Europe, more specifically the Mediterranean and parts of what is now the Middle East. Many artifacts with representations of the seed pods were found in Greece, Crete, Cyprus, Egypt, Palestine, and Syria. Poppy seed capsules were precious, magical, and even divine. The poppy flower had yet to make much of an entrance until the Roman empire, when barley and poppy are both associated with “Persephone and the promise of perpetual rebirth,” the Minoan goddess of poppies and Demeter/Isis, goddess of agriculture. Statues, stelae, and other artwork depict opium poppies, often in the form of seed capsules, accompany these gods.
+
+       
  
  Another notable example of this valorization comes from Anatolia during the Mycenaean period of two gold pins resembling dried poppy capsules from the Robert Schimmel collection in the Met. While scholars disagree about whether or not these bulbous single-stemmed plants are poppy seed capsules or pomegranates, there is some consensus that both were depicted in ancient reliefs.
 
@@ -30,6 +32,12 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
 ## New Geographies and Meanings
  
  During the Holy Inquisition, use of anything related to the East was banned including the use of the opium poppy. From the 12th to the 15th century, western Europe opposed any Eastern influence. Meanwhile, India, the Middle East, and China participated in the naturalization of the opium poppy. Arab traders were thought to have spread the opium poppy to Tang Dynasty China, where opium was integrated into various medicinal concoctions and dietary recipes. In China, opium poppies were integrated into dietary, medicinal, and recreational use. Integration of opium poppies into diet and medicine originated in Southern China and its countryside, where Buddhist monasteries often concocted remedies for ailments related to the throat and stomach and spread recipes to rural neighborhoods. Despite European writing on the hardiness of the poppy plant, in 1061 Su Song writes about poppies that “They are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.”
+
+<param ve-image
+	url="https://wellcomecollection.org/works/uh9nqtrn"
+	label="An Opium Poppy: Seed Capsule, Watercolor"
+	description="From wellcome collection: 'Unripe seed capsules of the opium poppy yield opium. Oil from the seeds is used in artist's paints, salad oil and soap.' Illustration found in book on vegetables and usese."
+	license="public domain">
  
  In 1913, author and naturalist George Birdwood writes of Indian opium as, “the luxury of the rich in China, as champagne is in Europe and America.” Yet, century after century, cultural meaning of the opium poppy changed drastically. In the 13th century, Paracelsus, a physician and scholar, repopularized the opium poppy as the drug “laudanum,” and western societies continued their use of the opium poppy as medicine. Links to Asian and Middle Eastern use of the morphine content in opium distinguished western use of opium. In the 16th century, even Dutch sailors who smoked opium were considered “primitive people” for partaking. 
  
