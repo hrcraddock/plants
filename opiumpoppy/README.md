@@ -7,7 +7,7 @@
        layout="vertical">
        
 ## Intro to Opium Poppies
-Poppies are known by many names: papaver somniferum (the opium poppy), papaver rhoeas, papaver hortense (common poppy), papaver somniferum laciiniatum (feather poppies). Modern forms of the opium poppy come from a long history of man-made cultivation and coevolution. Not only was the opium poppy a thing of beauty, but also an extremely foundational resource in medical and recreational use. As cultural values of opium poppies changed with economic practices, poppies became emblematic of different geographic locations and constantly changing positive and negative connotations. Artist ___.
+Poppies are known by many names: papaver somniferum (the opium poppy), papaver rhoeas, papaver hortense (common poppy), papaver somniferum laciniatum (feather poppies). Modern forms of the opium poppy come from a long history of man-made cultivation and coevolution. Not only was the opium poppy a thing of beauty, but also an extremely foundational resource in medical and recreational use. As cultural values of opium poppies changed with economic practices, poppies became emblematic of different geographic locations and constantly changing positive and negative connotations. Artist ___.
 
 <param ve-image
     url="Chang_Carol_poppies.jpg"    
@@ -25,7 +25,7 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
        
 ## Divine Remedies
  
-Like most plants used for hallucinogenic effects, opium poppies were first used for ritual and sacrifice purposes. Presence of opium poppies were found as early as the Paleolithic Era. Both seed deposits and representations of the opium poppy seed pod were found in artifacts from western Europe, more specifically the Mediterranean and parts of what is now the Middle East. Many artifacts with representations of the seed pods were found in Greece, Crete, Cyprus, Egypt, Palestine, and Syria.[^ref2]  Poppy seed capsules were precious, magical, and even divine. The poppy flower had yet to make much of an entrance until the Roman empire, when barley and poppy are both associated with [*“Persephone and the promise of perpetual rebirth,”*](https://jstor.org/stable/community.11658624) the Minoan goddess of poppies and Demeter/Isis, goddess of agriculture. Statues, stelae, and other artwork depict opium poppies, often in the form of seed capsules, accompany these gods.
+Like most plants used for hallucinogenic effects, opium poppies were first used for ritual and sacrifice purposes. Presence of opium poppies were found as early as the Paleolithic Era. Both seed deposits and representations of the opium poppy seed pod were found in artifacts from western Europe, more specifically the Mediterranean and parts of what is now the Middle East. Many artifacts with representations of the seed pods were found in Greece, Crete, Cyprus, Egypt, Palestine, and Syria.[^ref2]  Poppy seed capsules were precious, magical, and even divine. The poppy flower had yet to make much of an entrance until the Roman empire, when barley and poppy are both associated with [“Persephone and the promise of perpetual rebirth,”](https://jstor.org/stable/community.11658624) the Minoan goddess of poppies and Demeter/Isis, goddess of agriculture. Statues, stelae, and other artwork depict opium poppies, often in the form of seed capsules, accompany these gods.
 <param ve-image
        	url="https://upload.wikimedia.org/wikipedia/commons/4/43/Roman_silver_denarius_of_Vespasian_dating_from_AD_73_%28FindID_613177%29.jpg"
 	label="Roman Silver Denarius of Vespasian, 73 AD"
@@ -46,7 +46,7 @@ Like most plants used for hallucinogenic effects, opium poppies were first used 
        license="public domain"
        fit="contain">
  
-Another notable example of this valorization comes from Anatolia during the Mycenaean period of two gold pins resembling dried poppy capsules from the Robert Schimmel collection in the Met. While scholars disagree about whether or not these bulbous single-stemmed plants are poppy seed capsules or pomegranates, there is some consensus that both were depicted in [*ancient reliefs.*](http://www.artepreistorica.com/2010/01/sacred-opium-botany-in-daunia-italy-from-the-7-to-6-centuries-bc/)
+Another notable example of this valorization comes from Anatolia during the Mycenaean period of two gold pins resembling dried poppy capsules from the Robert Schimmel collection in the Met. While scholars disagree about whether or not these bulbous single-stemmed plants are poppy seed capsules or pomegranates, there is some consensus that both were depicted in [ancient reliefs.](http://www.artepreistorica.com/2010/01/sacred-opium-botany-in-daunia-italy-from-the-7-to-6-centuries-bc/)
        
 <param ve-image
        url="https://images.metmuseum.org/CRDImages/an/original/sd1989_281_14,15.jpg"
@@ -58,7 +58,7 @@ Another notable example of this valorization comes from Anatolia during the Myce
  
 ## New Geographies and Meanings
  
-During the Holy Inquisition, use of anything related to the East was banned including the use of the opium poppy. From the 12th to the 15th century, western Europe opposed any Eastern influence. Meanwhile, India, the Middle East, and China participated in the naturalization of the opium poppy. Arab traders were thought to have spread the opium poppy to Tang Dynasty China, where opium was integrated into various medicinal concoctions and dietary recipes.[^ref3] In China, opium poppies were integrated into dietary, medicinal, and recreational use. Integration of opium poppies into diet and medicine originated in Southern China and its countryside, where Buddhist monasteries often concocted remedies for ailments related to the throat and stomach and spread recipes to rural neighborhoods. Despite European writing on the hardiness of the poppy plant, in [*1061*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6733759/) Su Song writes that, “[Poppies] are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.”
+During the Holy Inquisition, use of anything related to the East was banned including the use of the opium poppy. From the 12th to the 15th century, western Europe opposed any Eastern influence. Meanwhile, India, the Middle East, and China participated in the naturalization of the opium poppy. Arab traders were thought to have spread the opium poppy to Tang Dynasty China, where opium was integrated into various medicinal concoctions and dietary recipes.[^ref3] In China, opium poppies were integrated into dietary, medicinal, and recreational use. Integration of opium poppies into diet and medicine originated in Southern China and its countryside, where Buddhist monasteries often concocted remedies for ailments related to the throat and stomach and spread recipes to rural neighborhoods. Despite European writing on the hardiness of the poppy plant, in [1061](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6733759/) Su Song writes that, “[Poppies] are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.”
 
 <param ve-image
 	url="https://iiif.wellcomecollection.org/image/V0043635ER/full/880%2C/0/default.jpg" 
@@ -67,7 +67,7 @@ During the Holy Inquisition, use of anything related to the East was banned incl
 	license="public domain"
        	fit="contain">
  
- In 1913, author and naturalist [*George Birdwood writes*](https://books.google.com/books?id=29jqCZ6nXZIC&pg=PA764&lpg=PA764&dq=george+birdwood+the+drying+up+of+indian+opium+revenue&source=bl&ots=qp88O5DPRL&sig=ACfU3U0Siv-8UvhY3KWY55PFNCEYUaIzqA&hl=en&sa=X&ved=2ahUKEwjP-vbMyr_5AhWgIDQIHTLaBJkQ6AF6BAgCEAM#v=onepage&q&f=false)of Indian opium as, “the luxury of the rich in China, as champagne is in Europe and America.” Yet, century after century, cultural meaning of the opium poppy changed drastically. In the 13th century, Paracelsus, a physician and scholar, repopularized the opium poppy as the drug “laudanum,” and western societies continued their use of the opium poppy as medicine. Links to Asian and Middle Eastern use of the morphine content in opium distinguished western use of opium. In the 16th century, even Dutch sailors who smoked opium were considered “primitive people” for partaking.[^ref4]
+ In 1913, author and naturalist [George Birdwood writes](https://books.google.com/books?id=29jqCZ6nXZIC&pg=PA764&lpg=PA764&dq=george+birdwood+the+drying+up+of+indian+opium+revenue&source=bl&ots=qp88O5DPRL&sig=ACfU3U0Siv-8UvhY3KWY55PFNCEYUaIzqA&hl=en&sa=X&ved=2ahUKEwjP-vbMyr_5AhWgIDQIHTLaBJkQ6AF6BAgCEAM#v=onepage&q&f=false)of Indian opium as, “the luxury of the rich in China, as champagne is in Europe and America.” Yet, century after century, cultural meaning of the opium poppy changed drastically. In the 13th century, Paracelsus, a physician and scholar, repopularized the opium poppy as the drug “laudanum,” and western societies continued their use of the opium poppy as medicine. Links to Asian and Middle Eastern use of the morphine content in opium distinguished western use of opium. In the 16th century, even Dutch sailors who smoked opium were considered “primitive people” for partaking.[^ref4]
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_botanical_atlas_%28Plate_XIII%29_%287349116188%29.jpg"
        label="Barberry and Poppy Plate"
@@ -85,7 +85,8 @@ While prehistoric and ancient depictions of opium poppies mostly referred to see
 <param ve-image
        url="Besler_Poppy.jpg"
        label="Papaver flor. luteo. Cornicu. latum, or Papaver purpureo color."
-       description="Basilius Besler, 1713">
+       description="Basilius Besler, 1713"
+       [still needs permission]>
 
        
 ## Early Modern Poppies
