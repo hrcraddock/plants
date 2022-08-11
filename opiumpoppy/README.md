@@ -6,7 +6,7 @@
        banner="[https://upload.wikimedia.org/wikipedia/commons/d/de/Opium_poppies%2C_Hampstead_Norreys_-_geograph.org.uk_-_876353.jpg](https://upload.wikimedia.org/wikipedia/commons/1/10/A_naturalist_in_Western_China_-_with_vasculum%2C_camera%2C_and_gun%2C_being_some_account_of_eleven_year%27s_travel%2C_exploration%2C_and_observation_in_the_more_remote_parts_of_the_flowery_kingdom%3B_%281913%29_%2814782677905%29.jpg)"
        layout="vertical">
        
-## Poppies
+## Intro to Opium Poppies
 Poppies are known by many names: papaver somniferum (the opium poppy), papaver rhoeas, papaver hortense (common poppy), papaver somniferum laciiniatum (feather poppies). Modern forms of the opium poppy come from a long history of human-made cultivation and coevolution. Not only was the opium poppy a thing of beauty, but also an extremely foundational resource in medical and recreational use. As cultural values of opium poppies changed with economic practices, poppies became emblematic of different geographic locations and constantly changing positive and negative connotations. Artist ___.
 
 <param ve-image
@@ -30,7 +30,8 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Mycenae_gold_ring.jpg"
        label="Mycenae Gold Ring"
        description="Drawing of the motif of a gold ring from Mycenae depicting a goddess holding three poppies, in the background a labrys (double axe), Greece."
-       license="public domain">
+       license="public domain"
+       fit="contain">
        
  
 Another notable example of this valorization comes from Anatolia during the Mycenaean period of two gold pins resembling dried poppy capsules from the Robert Schimmel collection in the Met. While scholars disagree about whether or not these bulbous single-stemmed plants are poppy seed capsules or pomegranates, there is some consensus that both were depicted in ancient reliefs.
