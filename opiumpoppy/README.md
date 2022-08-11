@@ -46,7 +46,7 @@ Another notable example of this valorization comes from Anatolia during the Myce
 During the Holy Inquisition, use of anything related to the East was banned including the use of the opium poppy. From the 12th to the 15th century, western Europe opposed any Eastern influence. Meanwhile, India, the Middle East, and China participated in the naturalization of the opium poppy. Arab traders were thought to have spread the opium poppy to Tang Dynasty China, where opium was integrated into various medicinal concoctions and dietary recipes. In China, opium poppies were integrated into dietary, medicinal, and recreational use. Integration of opium poppies into diet and medicine originated in Southern China and its countryside, where Buddhist monasteries often concocted remedies for ailments related to the throat and stomach and spread recipes to rural neighborhoods. Despite European writing on the hardiness of the poppy plant, in 1061 Su Song writes about poppies that “They are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.”
 
 <param ve-image
-	url="https://iiif.wellcomecollection.org/image/V0043635ER/full/300,/0/default.jpg"
+	url="https://iiif.wellcomecollection.org/image/V0043635ER/full/880%2C/0/default.jpg" 
 	label="An Opium Poppy: Seed Capsule, Watercolor"
 	description="From wellcome collection: 'Unripe seed capsules of the opium poppy yield opium. Oil from the seeds is used in artist's paints, salad oil and soap.' Illustration found in book on vegetables and their uses."
 	license="public domain"
