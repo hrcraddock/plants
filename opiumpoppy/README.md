@@ -37,7 +37,7 @@ Another notable example of this valorization comes from Anatolia during the Myce
        label="Gold Pin with Spherical Head"
        description="From the Hittite Empire (ca. 14-13 century BC), in Central Anatolia. From the Norbert Schimmel Collection on loan to the Metropolitan Museum."
        license="public domain"
-       layout="horizontal">
+       fit="contain">
 
  
 ## New Geographies and Meanings
