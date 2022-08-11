@@ -83,53 +83,7 @@ Later in the century, opium played a role both in the inspiration and content of
 ## Decadence, Degeneration, and Racism
 
 In the late nineteenth century opium was deeply entwined with the indulgence and decadence of the fin-de-siecle. In the 1890s, opium was increasingly associated with racist concepts of degeneration. In his [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that ‘A race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants’. However, he adds that the West ‘need not concern ourselves about that, since the chief sufferers from them are Eastern peoples, who play no part in the intellectual development of the white races.’ 
-                              
-                              
-## Practice Samples
-
-Papaver somniferum, commonly known as the opium poppy or breadseed poppy, is a species of flowering plant in the family Papaveraceae. It is the species of plant from which both opium and poppy seeds are derived and is also a valuable ornamental plant, grown in gardens. Its native range is probably the eastern Mediterranean, but is now obscured by ancient introductions and cultivation, being naturalized across much of Europe and Asia.
-       <param ve-image
-    url="https://upload.wikimedia.org/wikipedia/commons/4/44/Albrecht_Meyer19.jpg"    
-    label="opium poppy"
-    description="image of poppy"
-    license="public domain">
-   
-The native range of opium poppy is probably the Eastern Mediterranean, but extensive cultivation and introduction of the species throughout Europe since ancient times have obscured its origin. It has escaped from cultivation, or has been introduced and become naturalized extensively in all regions of the British Isles, particularly in the south and east and in almost all other countries of the world with suitable, temperate climates.
-<param ve-map
-       Title="Origin of Poppy Plant"
-       zoom="6"
-       center="37.88016179341846, 19.156731827963906">
-      
-The native range of opium poppy is probably the Eastern Mediterranean, but extensive cultivation and introduction of the species throughout Europe since ancient times have obscured its origin. It has escaped from cultivation, or has been introduced and become naturalized extensively in all regions of the British Isles, particularly in the south and east and in almost all other countries of the world with suitable, temperate climates.
-<param ve-image
-       url="https://www.biodiversitylibrary.org/pageImage/40601879"
-       label="Matthioli"
-       description="image from Senensis medici Commentarii in sex libros Pedacii Dioscoridis Anazarbei De medica materia"
-       license="via BHL">
-       
- The native range of opium poppy is probably the Eastern Mediterranean, but extensive cultivation and introduction of the species throughout Europe since ancient times have obscured its origin. It has escaped from cultivation, or has been introduced and become naturalized extensively in all regions of the British Isles, particularly in the south and east and in almost all other countries of the world with suitable, temperate climates.
-<param ve-map
-       
-A poppy is a flowering plant in the subfamily Papaveroideae of the family Papaveraceae. Poppies are herbaceous plants, often grown for their colourful flowers. One species of poppy, Papaver somniferum, is the source of the narcotic drug opium which contains powerful medicinal alkaloids such as morphine and has been used since ancient times as an analgesic and narcotic medicinal and recreational drug. It also produces edible seeds. Following the trench warfare in the poppy fields of Flanders, Belgium during World War I, poppies have become a symbol of remembrance of soldiers who have died during wartime, especially in the UK, US, and Canada.
- <param ve-iframe
-  src="https://books.google.com/books?id=XKtLDwAAQBAJ&lpg=PP1&pg=PP1&output=embed">
-  
-  The native range of opium poppy is probably the Eastern Mediterranean, but extensive cultivation and introduction of the species throughout Europe since ancient times have obscured its origin. It has escaped from cultivation, or has been introduced and become naturalized extensively in all regions of the British Isles, particularly in the south and east and in almost all other countries of the world with suitable, temperate climates.
-<param ve-knightlab-timeline
-              source="13IY4cYwEoTQJ8Q8fSUF405wptDGpcKk4df-_wG0Q7JY"
-              timenav-position="bottom"
-              hash-bookmark="false"
-              initial-zoom="1"
-              height="750">   
-
-			  
-## References			  
-
-[^ref1]: Julia Lovell. The Opium War: Drugs, Dreams and the Making of China. London: Pan Macmillan, 2011, p. 2.
-[^ref2]: Royal Botanic Gardens Kew Archives, Miscellaneous Reports, MCR/5/1/45, India: Economic Products: Opium, f. 209.
-
-			  
-https://juncture-digital.org/hrcraddock/plants/opiumpoppy/
+                              			  
 
 ## The Cursed Flower in Colombia
 
@@ -161,3 +115,11 @@ description="Horizontes con glifosato">
 Curiously, the eyes of the pilots had to direct their gazes to the beauty of the opium poppy flower. Wherever they saw red, they had to spray. The plant becomes a translatable sign of its own precariousness and a threat to the vegetation that covers or hides it. Different reports from both the state and organizations warned of the consequences of aerial spraying for both humans and the environment. Artist Maria Elvira Escallon displays the encounter between landscape and herbicide. For 26 days she takes pictures to demonstrate visually the slow and damaging effect of the glyphosate. The art pieces reveal how the opium poppy relates into a small and big scale. The two works of art, both Uribe's and Escallón's, question the relationship that the plant has with the construction of life and of death, with the intimate, the public and the private. The opium poppy becomes an allegory and accumulation of that which is criminal and immoral. Even today we cannot consider the history of Colombia without understanding the agency of these plants, including the opium poppy, and their relationship with the environment, the animals, and the human. 
 <param ve-image url="Paisajedomestico.jpg"> 
 
+
+## References			  
+
+[^ref1]: Julia Lovell. The Opium War: Drugs, Dreams and the Making of China. London: Pan Macmillan, 2011, p. 2.
+[^ref2]: Royal Botanic Gardens Kew Archives, Miscellaneous Reports, MCR/5/1/45, India: Economic Products: Opium, f. 209.
+
+			  
+https://juncture-digital.org/hrcraddock/plants/opiumpoppy/
