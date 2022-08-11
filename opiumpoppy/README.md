@@ -7,7 +7,7 @@
        layout="vertical">
        
 Introduction text
-       <param ve-image
+<param ve-image
     url="https://upload.wikimedia.org/wikipedia/commons/4/44/Albrecht_Meyer19.jpg"    
     label="opium poppy"
     description="image of poppy"
@@ -82,7 +82,12 @@ Later in the century, opium played a role both in the inspiration and content of
                               
 ## Decadence, Degeneration, and Racism
 
-In the late nineteenth century opium was deeply entwined with the indulgence and decadence of the fin-de-siecle. In the 1890s, opium was increasingly associated with racist concepts of degeneration. In his [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that ‘A race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants’. However, he adds that the West ‘need not concern ourselves about that, since the chief sufferers from them are Eastern peoples, who play no part in the intellectual development of the white races.’ 
+In the late nineteenth century opium was deeply entwined with the indulgence and decadence of the fin-de-siecle. In the 1890s, opium was increasingly associated with racist concepts of degeneration. In his [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that ‘A race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants’. However, he adds that the West ‘need not concern ourselves about that, since the chief sufferers from them are Eastern peoples, who play no part in the intellectual development of the white races.’ The nineteenth century saw the opium poppy become intertwined with international wars, and racialised concerns about harmful addiction, forewarning of the sharp downturn of its reputation in the twentieth century. Yet the opium poppy continued to be depicted as a flower of beauty, not always directly associated with the drug it produced; Marianne North (1830-1890), a botanical artist whose extensive paintings are displayed in the gallery she built in the Royal Botanic Gardens, Kew, painted the opium poppy with emphasis on a seedpod in the foreground, unscarred and untouched. 
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Les_fleurs_animees_BHL15481312.jpg"
+       label="Pavot"
+       description="Illustration of humanized poppy by J.J. Grandeville (1847)"
+       license="public domain">			      
                               			  
 
 ## The Cursed Flower in Colombia
