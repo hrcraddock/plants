@@ -6,11 +6,13 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/d/de/Opium_poppies%2C_Hampstead_Norreys_-_geograph.org.uk_-_876353.jpg"
        layout="vertical">
        
-Introduction text
+## Poppies
+Poppies are known by many names: papaver somniferum (the opium poppy), papaver rhoeas, papaver hortense (common poppy), papaver somniferum laciiniatum (feather poppies). Modern forms of the opium poppy come from a long history of human-made cultivation and coevolution. Not only was the opium poppy a thing of beauty, but also an extremely foundational resource in medical and recreational use. As cultural values of opium poppies changed with economic practices, poppies became emblematic of different geographic locations and constantly changing positive and negative connotations. Artist ___.
+
 <param ve-image
     url="Chang_Carol_poppies.jpg"    
     label="Matilija Poppy"
-    description="Matilija Poppy taken by Carol Chang"
+    description="Matilija Poppy taken by Carol Chang. Long Beach, California."
     license="public domain"
     fit="contain">
 
