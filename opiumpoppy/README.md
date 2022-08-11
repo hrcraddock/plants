@@ -11,7 +11,8 @@ Introduction text
     url="https://upload.wikimedia.org/wikipedia/commons/4/44/Albrecht_Meyer19.jpg"    
     label="opium poppy"
     description="image of poppy"
-    license="public domain">
+    license="public domain"
+    fit="contain">
 
 ## Prehistory of the Poppy
 Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” Author and practicing gardener William Robinson described Papaver somniferum as able to “grow[ing] in any soil.” However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.
