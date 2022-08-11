@@ -7,7 +7,7 @@
        layout="vertical">
        
 ## Intro to Opium Poppies
-Poppies are known by many names: papaver somniferum (the opium poppy), papaver rhoeas, papaver hortense (common poppy), papaver somniferum laciiniatum (feather poppies). Modern forms of the opium poppy come from a long history of human-made cultivation and coevolution. Not only was the opium poppy a thing of beauty, but also an extremely foundational resource in medical and recreational use. As cultural values of opium poppies changed with economic practices, poppies became emblematic of different geographic locations and constantly changing positive and negative connotations. Artist ___.
+Poppies are known by many names: papaver somniferum (the opium poppy), papaver rhoeas, papaver hortense (common poppy), papaver somniferum laciiniatum (feather poppies). Modern forms of the opium poppy come from a long history of man-made cultivation and coevolution. Not only was the opium poppy a thing of beauty, but also an extremely foundational resource in medical and recreational use. As cultural values of opium poppies changed with economic practices, poppies became emblematic of different geographic locations and constantly changing positive and negative connotations. Artist ___.
 
 <param ve-image
     url="Chang_Carol_poppies.jpg"    
@@ -68,10 +68,21 @@ During the Holy Inquisition, use of anything related to the East was banned incl
        	fit="contain">
  
  In 1913, author and naturalist George Birdwood writes of Indian opium as, “the luxury of the rich in China, as champagne is in Europe and America.” Yet, century after century, cultural meaning of the opium poppy changed drastically. In the 13th century, Paracelsus, a physician and scholar, repopularized the opium poppy as the drug “laudanum,” and western societies continued their use of the opium poppy as medicine. Links to Asian and Middle Eastern use of the morphine content in opium distinguished western use of opium. In the 16th century, even Dutch sailors who smoked opium were considered “primitive people” for partaking. 
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_botanical_atlas_%28Plate_XIII%29_%287349116188%29.jpg"
+       label="Barberry and Poppy Plate"
+       description="Barberry and Poppy Plate XIII, from The Botanical Atlas: a guide to the practical study of plants containing representatives of the leading forms of plant life with explanatory letterpress, 1883"
+       fit="contain">
  
 ## Rebranding: Value in Aesthetics
 
 While prehistoric and ancient depictions of opium poppies mostly referred to seed capsules and the dried seed heads of poppies, poppies themselves gained notoriety in the 16th and 17th centuries in aesthetic as flowers, especially in botanical illustration, floral arrangements, and other artwork. Illustrations of wild poppies, double red poppies, common poppies, feathery poppies or annual poppies, were common. During the Early Modern Era, poppies gained notoriety as beautiful objects rather than functional tools.
+<param ve-image
+       url="French_School_Poppy.jpg"
+       label="Papaver somniferum"
+       description="Artist unknown, Pencil on paper, circa 18th century"
+       fit="contain">
+
        
 ## Early Modern Poppies
 
