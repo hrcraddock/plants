@@ -10,11 +10,10 @@
 Poppies are known by many names: papaver somniferum (the opium poppy), papaver rhoeas, papaver hortense (common poppy), papaver somniferum laciniatum (feather poppies). Modern forms of the opium poppy come from a long history of man-made cultivation and coevolution. Not only was the opium poppy a thing of beauty, but also an extremely foundational resource in medical and recreational use. As cultural values of opium poppies changed with economic practices, poppies became emblematic of different geographic locations and constantly changing positive and negative connotations. Artist ___.
 
 <param ve-image
-    url="Chang_Carol_poppies.jpg"    
-    label="Matilija Poppy"
-    description="Matilija Poppy taken by Carol Chang. Long Beach, California."
-    license="public domain"
-    fit="contain">
+       url="Besler_Poppy.jpg"
+       label="Papaver flor. luteo. Cornicu. latum, or Papaver purpureo color."
+       description="Basilius Besler, 1713"
+       [still needs permission]>
 
 ## Prehistory of the Poppy
 Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” Author and practicing gardener William Robinson described Papaver somniferum as able to “grow[ing] in any soil.” [^ref1] However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.
@@ -81,12 +80,15 @@ While prehistoric and ancient depictions of opium poppies mostly referred to see
        url="French_School_Poppy.jpg"
        label="Papaver somniferum"
        description="Artist unknown, Pencil on paper, circa 18th century"
-       fit="contain">
+       fit="contain"
+       [permission still needed]>
 <param ve-image
-       url="Besler_Poppy.jpg"
-       label="Papaver flor. luteo. Cornicu. latum, or Papaver purpureo color."
-       description="Basilius Besler, 1713"
-       [still needs permission]>
+       url="Besler_Poppy_2.jpg"
+       label="Papaver flore multiplicipurpura scente"
+       description="Another variety of Papaver somniferum, by Basilius Besler, 1713."
+       fit="contain"
+       [permission still needed]>
+
 
        
 ## Early Modern Poppies
