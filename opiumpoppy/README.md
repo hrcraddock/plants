@@ -104,7 +104,6 @@ The opium poppy was given the name papaver somniferum by Linnaeus in his [*Speci
        	length="400">
 	
 <param ve-compare
-        curtain="true"
 	url="Wedel_image.jpg"
 	label="Opium Extraction" 
 	description="Image from Wedel’s Opiologia"
