@@ -17,7 +17,7 @@ Poppies are known by many names: papaver somniferum (the opium poppy), papaver r
     fit="contain">
 
 ## Prehistory of the Poppy
-Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” Author and practicing gardener William Robinson described Papaver somniferum as able to “grow[ing] in any soil.” However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.
+Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” Author and practicing gardener William Robinson described Papaver somniferum as able to “grow[ing] in any soil.” [^ref1] However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.
 <param ve-map
        Title="Origin of Poppy Plant"
        zoom="6"
@@ -193,6 +193,8 @@ Curiously, the eyes of the pilots had to direct their gazes to the beauty of the
 
 
 ## References			  
+
+[^ref1]: See William Robinson, The Wild Garden Or, “Our Grove and Shrubberies Made Beautiful By The Naturalization of Hardy Exotic Plants: With A Chapter On The Garden of British Wild Flowers” (London: John Murray), 1870. 1st edition; See William Robinson, The English Flower Garden and Home Grounds of Hardy Trees and Flowers Only (London: John Murray), 1933. 11th Edition.
 
 [^ref]: Julia Lovell. The Opium War: Drugs, Dreams and the Making of China. London: Pan Macmillan, 2011, p. 2.
 [^ref]: Royal Botanic Gardens Kew Archives, Miscellaneous Reports, MCR/5/1/45, India: Economic Products: Opium, f. 209.
