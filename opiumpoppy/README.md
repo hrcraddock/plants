@@ -115,7 +115,8 @@ The nineteenth century saw a conflict between existing conceptions of the opium 
        url="https://upload.wikimedia.org/wikipedia/commons/3/39/%22Poor_child%27s_nurse%22%2C_child_with_opium%2C_Punch%2C_1849_Wellcome_L0003359.jpg"
        label="The Poor Child's Nurse"
        description="Image from 1849 edition of Punch magazine"
-       license="public domain">
+       license="public domain"
+       region="170,1484,4071,3238">
        
 ## War and Colonialism
 
