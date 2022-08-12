@@ -50,7 +50,7 @@ Another notable example of this valorization comes from Anatolia during the Myce
 <param ve-image
        url="https://images.metmuseum.org/CRDImages/an/original/sd1989_281_14,15.jpg"
        label="Gold Pin with Spherical Head"
-       description="From the Hittite Empire (ca. 14-13 century BC), in Central Anatolia. From the Norbert Schimmel Collection on loan to the Metropolitan Museum."
+       description="Hittite Empire (ca. 14-13 century BC), in Central Anatolia. From the Norbert Schimmel Collection on loan to the Metropolitan Museum."
        license="public domain"
        fit="contain">
 
@@ -61,7 +61,7 @@ During the Holy Inquisition, use of anything related to the East was banned incl
 <param ve-image
 	url="https://iiif.wellcomecollection.org/image/V0043635ER/full/880%2C/0/default.jpg" 
 	label="An Opium Poppy: Seed Capsule, Watercolor"
-	description="From wellcome collection: 'Unripe seed capsules of the opium poppy yield opium. Oil from the seeds is used in artist's paints, salad oil and soap.' Illustration found in book on vegetables and their uses."
+	description="From Wellcome collection: 'Unripe seed capsules of the opium poppy yield opium. Oil from the seeds is used in artist's paints, salad oil and soap.' Illustration found in book on vegetables and their uses."
 	license="public domain"
        	fit="contain">
  
