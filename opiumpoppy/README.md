@@ -142,16 +142,14 @@ Joseph Hooker, later director of Kew Gardens between 1865 and 1885, visited the 
 
 ## Literary Inspiration, Dreams, and Addiction
 
-Opium’s reputation as a source of artistic inspiration and creative dreams influenced the work of many poets of the Romantic period. Samuel Taylor Coleridge wrote in his preface to the poem fragment [*Kubla Khan*](https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52), of an ‘anodyne […] from the effects of which he fell asleep’, and during this sleep ‘he has the most vivid confidence, that he could not have composed less than from two to three hundred lines’. On awakening, Coleridge wrote the lines of Kubla Khan. Recording this inspirational effect of opium, Thomas De Quincey writes in his [*Confessions of an English Opium Eater*](https://books.google.co.uk/books?id=POREAAAAYAAJ&newbks=0&pg=PA3) (1821) that ‘[i]f opium-eating be a sensual pleasure, [...] I am bound to confess that I have indulged in it to an excess, not yet recorded of any other man’. The poppy is also explicitly associated with femininity in J. J. Grandeville’s [*Les Fleurs Animées*](https://www.biodiversitylibrary.org/page/309170) [The Flowers Personified] (1847), which includes an image of a poppy humanized in the form of a woman sprinkling poppy seeds from the seedpods on insects.
-<param ve-compare
+Opium’s reputation as a source of artistic inspiration and creative dreams influenced the work of many poets of the Romantic period. Samuel Taylor Coleridge described his poem [*Kubla Khan*](https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52), as ‘a fragment [...] composed in a sort of Reverie brought on by two grains of opium’. Recording similar experiences of the inspirational effect of opium, Thomas De Quincey writes in his [*Confessions of an English Opium Eater*](https://books.google.co.uk/books?id=POREAAAAYAAJ&newbks=0&pg=PA3) (1821) that ‘[i]f opium-eating be a sensual pleasure, [...] I am bound to confess that I have indulged in it to an excess, not yet recorded of any other man’. The poppy is also explicitly associated with femininity in J. J. Grandeville’s [*Les Fleurs Animées*](https://www.biodiversitylibrary.org/page/309170) [The Flowers Personified] (1847), which includes an image of a poppy humanized in the form of a woman sprinkling poppy seeds from the seedpods on insects.
+<param ve-image
        url="Coleridge.jpg"
-       curtain="true"
        label="Kubla Khan Manuscript"
        description="Manuscript handwritten by Coleridge describing a 'reverie brought on by two grains of opium."
        license="public domain"
        region="140,977,597,475">
-       
-<param ve-compare
+<param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Les_fleurs_animees_BHL15481312.jpg"
        label="Pavot"
        description="Illustration of humanized poppy by J.J. Grandeville (1847)"
