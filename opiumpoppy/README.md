@@ -144,7 +144,8 @@ Opium’s reputation as a source of artistic inspiration and creative dreams inf
        url="Coleridge.jpg"
        label="Coleridge Manuscript"
        description="Manuscript of Kubla Khan"
-       license="public domain">
+       license="public domain"
+       region="140,977,597,475">
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Les_fleurs_animees_BHL15481312.jpg"
        label="Pavot"
