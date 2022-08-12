@@ -13,6 +13,7 @@ Poppies are known by many names: papaver somniferum (the opium poppy), papaver r
        url="Besler_Poppy.jpg"
        label="Papaver flor. luteo. Cornicu. latum, or Papaver purpureo color."
        description="Basilius Besler, 1713"
+       fit="contain"
        [still needs permission]>
 
 ## Prehistory of the Poppy
@@ -82,6 +83,7 @@ While prehistoric and ancient depictions of opium poppies mostly referred to see
        description="Artist unknown, Pencil on paper, circa 18th century"
        fit="contain"
        [permission still needed]>
+       
 <param ve-image
        url="Besler_Poppy_2.jpg"
        label="Papaver flore multiplicipurpura scente"
@@ -89,8 +91,6 @@ While prehistoric and ancient depictions of opium poppies mostly referred to see
        fit="contain"
        [permission still needed]>
 
-
-       
 ## Early Modern Poppies
 
 The opium poppy was given the name papaver somniferum by Linnaeus in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver)(1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin somnium. Angelo Sala’s 1618 *Opiologia; or a Treatise concerning ... Opium* discusses the medicinal properties of opium and evaluates existing knowledge about its effects, primarily its ability to ‘wonderfully and speedily release the body from intolerable pains’. The first chapter is preceded by an image entitled ‘the method of extracting the juice of the poppy’, depicting a Turkish opium picker using his knife to scratch the poppy seed capsule in order to collect the sap. A similar image appears on the title page of Georg Wolfgang Wedel's *Opiologia* (1682).
