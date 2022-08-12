@@ -6,7 +6,7 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/1/10/A_naturalist_in_Western_China_-_with_vasculum%2C_camera%2C_and_gun%2C_being_some_account_of_eleven_year%27s_travel%2C_exploration%2C_and_observation_in_the_more_remote_parts_of_the_flowery_kingdom%3B_%281913%29_%2814782677905%29.jpg"
        layout="vertical">
        
-## Poppies: Oscillating Symbol Across Time and Space
+## Poppies: Oscillating Symbol
 Poppies are known by many names: papaver somniferum (the opium poppy), papaver rhoeas, papaver hortense (common poppy), papaver somniferum laciniatum (feather poppies). Modern forms of the opium poppy come from a long history of man-made cultivation and coevolution. As cultural values of opium poppies changed with economic practices, poppies became emblematic of different geographic locations with positive and negative connotations..This condemnation of the opium poppy occurred after centuries of shifting attitudes towards the plant, oscillating between a symbol of beauty and a blight on civilized communities. As sources of medicinal relief, opium poppies have been perceived as functional plants with cultural value both as divine remedies and later commonplace drugs. As a recreational drug, opium has been seen as a tool for artistic inspiration, but also as a dangerously addictive substance which has warranted attempts at wholesale eradication of poppy cultivation. These constant shifts in meaning suggest that beneath these layers of human-imposed value, the poppy has retained some agency as a plant of many purposes. 
 
 <param ve-image
