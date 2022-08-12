@@ -167,7 +167,8 @@ However, as opium became entwined with the indulgence and decadence of the fin-d
        url="MarianneNorth.jpg"
        label="Foliage, Flowers and Seed-Vessel of the Opium Poppy"
        description="Painting by Marianne North"
-       license="CC BY-NC 4.0">			      
+       license="CC BY-NC 4.0"
+       region="-269,105,1347,1072">			      
                               			  
 
 ## The Cursed Flower in Colombia
