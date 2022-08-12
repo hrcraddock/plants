@@ -113,7 +113,7 @@ The opium poppy was given the name papaver somniferum by Linnaeus in his [*Speci
 The nineteenth century saw a conflict between existing conceptions of the opium poppy as a plant of beauty which provided relief and inspiration and increasingly negative attitudes towards the morality of the trade and use of the drug. Nineteenth century herbals such as Hermann Adolph Köhler's [*Medizinal-Pflanzen*](https://www.biodiversitylibrary.org/page/303420) (1890) continued to categorize the opium poppy as a medicinal plant. Often referred to during this period as laudanum, a tincture of opium with wine or water, the relieving effects of opium in medical terms remained well-known and opium was used in commonplace medicines, even for children, to the extent that it was referred to as ‘the poor child’s nurse’ due to its ability to stop babies crying.
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/3/39/%22Poor_child%27s_nurse%22%2C_child_with_opium%2C_Punch%2C_1849_Wellcome_L0003359.jpg"
-       label="Poor Child's Nurse"
+       label="The Poor Child's Nurse"
        description="Image from 1849 edition of Punch magazine"
        license="public domain">
        
@@ -122,18 +122,20 @@ The nineteenth century saw a conflict between existing conceptions of the opium 
 The Opium Wars (1839-1841 and 1856-1860) situate the opium poppy within the political conflicts of empire, trade, and regulation in the nineteenth century. Connecting the opium poppy to another primary economic plant of the period, tea, the trade imbalance between Britain and China, with China accepting only silver in exchange for tea, formed the conflict which led to the opium wars. The British response was to illegally smuggle Indian opium into China for payment in silver. Fraught discussions of the ‘Opium Question’ centered on the morality of the trade in light of the addictive properties of the drug, as well as the financial dependence on opium. An 1882 edition of the [*Journal of the Society of Arts*](https://archive.org/details/journalofsociety30soci_0/page/200/mode/2up) records a discussion of this: ‘there was a very painful impression on the minds of some persons as to the morality of this trade [...] many believed that this country [Britain] was not only importing on a large scale a pernicious drug into the most populous country of the world, but also compelling its introduction and use by force of arms.’
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/2/25/Opium_War.jpg"
-       label="Opium Wars"
-       description="Satire showing an Englishman ordering the emperor of China to buy opium. "I tell you to immediately buy the gift here. We want you to poison yourself completely, because we need a lot of tea in order to digest our beefsteaks."
+       label="Satire of Opium Wars"
+       description="Satire showing an Englishman ordering the emperor of China to buy opium. Translation: 'I tell you to immediately buy the gift here. We want you to poison yourself completely, because we need a lot of tea in order to digest our beefsteaks.'"
        license="public domain">                             
 
 This question of morality was heightened by the use of British India to fuel this drug trade. The East India Company managed opium poppy plantations across India, but sold off the product in to private merchants to transport to China, increasingly disconnecting the opium poppy plant from the drug product it provided. [^ref6] Archival records at the Royal Botanic Gardens, Kew describe ‘Experimental Poppy Gardens’ in India, which sought to examine methods of poppy cultivation, including diseases and soil conditions impacting the plants and the yield of opium they produced.[^ref7] The opium poppy was considered a ‘useful plant’, and a whole volume entitled ‘India: Economic Products: Opium’ is dedicated to it in the Miscellaneous Reports of Kew, which record activities in the network of botanical gardens across the British Empire. As an ‘economic product’ of financial value whose cultivation was regulated by the East India Company, it is clear that the opium poppy was of interest in the context of colonial economic botany in the nineteenth century. 
-<param ve-image url="MR146_India_Opium_Spine.jpg">
+<param ve-image 
+       url="MR146_India_Opium_Spine.jpg"
+       label="India: Economic Products: Opium">
 <param ve-map center="25.59749394662182, 85.13926332871084" zoom="9" prefer-geojson> 
                               
 Joseph Hooker, later director of Kew Gardens between 1865 and 1885, visited the opium manufactory in Patna in India in 1848 and returned with a series of illustrations displaying the processes of cultivating and manufacturing opium. In his [*Himalayan Journals*](https://www.google.co.uk/books/edition/Himalayan_Journals/sCYKAQAAIAAJ?hl=en&gbpv=1&printsec=frontcover) Hooker gives an account of the process of cultivation and labour intensive methods of extraction, from the granting of licenses from the East India Company, the flowering of the poppies in late January and early February, the extraction of latex from the seed pods in February and March, the transportation of the opium jars to stores, and the creation of ‘balls’ of opium by men working ‘ten hours a day’ to be sent to market.
 <param ve-image
        url="https://iiif.wellcomecollection.org/image/V0019156/full/1338%2C/0/default.jpg"
-       label="A busy examining hall in the opium factory at Patna, India"
+       label="Opium factory at Patna, India"
        description="Lithograph after W. S. Sherwill, c. 1850"
        license="public domain">
 
@@ -142,8 +144,8 @@ Joseph Hooker, later director of Kew Gardens between 1865 and 1885, visited the 
 Opium’s reputation as a source of artistic inspiration and creative dreams influenced the work of many poets of the Romantic period. Samuel Taylor Coleridge wrote in his preface to the poem fragment [*Kubla Khan*](https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52), of an ‘anodyne […] from the effects of which he fell asleep’, and during this sleep ‘he has the most vivid confidence, that he could not have composed less than from two to three hundred lines’. On awakening, Coleridge wrote the lines of Kubla Khan. Recording this inspirational effect of opium, Thomas De Quincey writes in his [*Confessions of an English Opium Eater*](https://books.google.co.uk/books?id=POREAAAAYAAJ&newbks=0&pg=PA3) (1821) that ‘[i]f opium-eating be a sensual pleasure, [...] I am bound to confess that I have indulged in it to an excess, not yet recorded of any other man’. The poppy is also explicitly associated with femininity in J. J. Grandeville’s [*Les Fleurs Animées*](https://www.biodiversitylibrary.org/page/309170) [The Flowers Personified] (1847), which includes an image of a poppy humanized in the form of a woman sprinkling poppy seeds from the seedpods on insects.
 <param ve-image
        url="Coleridge.jpg"
-       label="Coleridge Manuscript"
-       description="Manuscript of Kubla Khan"
+       label="Kubla Khan Manuscript"
+       description="Manuscript handwritten by Coleridge describing a 'reverie brought on by two grains of opium."
        license="public domain"
        region="140,977,597,475">
 <param ve-image
