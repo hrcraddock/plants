@@ -10,7 +10,7 @@
 Poppies are known by many names: papaver somniferum (the opium poppy), papaver rhoeas, papaver hortense (common poppy), papaver somniferum laciniatum (feather poppies). Modern forms of the opium poppy come from a long history of man-made cultivation and coevolution. Cultural values of opium poppies changed with economic ups and downs. Condemnation of the opium poppy occurred after centuries of shifting attitudes towards the plant, oscillating between a symbol of beauty and a blight on civilizations. As sources of medicinal relief, opium poppies have been perceived as functional plants with cultural value both as divine remedies and later commonplace drugs. As a recreational drug, opium has been seen as a tool for artistic inspiration, but also as a dangerously addictive substance which has warranted attempts at wholesale eradication of poppy cultivation. These constant shifts in meaning suggest that beneath these layers of human-imposed value, the poppy has retained some agency as a plant of many purposes. 
 
 <param ve-image
-       url="Besler_Poppy.jpg"
+       url="Besler_Poppy3.jpg"
        label="Papaver flor. luteo. Cornicu. latum, or Papaver purpureo color."
        description="Basilius Besler, 1713"
        fit="contain"
