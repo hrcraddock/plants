@@ -50,10 +50,10 @@ Another notable example of this valorization comes from Anatolia during the Myce
        
 <param ve-image
        url="https://images.metmuseum.org/CRDImages/an/original/sd1989_281_14,15.jpg"
-       label="Gold Pin with Spherical Head"
+       label="Gold Pins with Spherical Head"
        description="Hittite Empire (ca. 14-13 century BC), in Central Anatolia. From the Norbert Schimmel Collection on loan to the Metropolitan Museum."
        license="public domain"
-       fit="contain">
+       region="-138, 1, 690, 700">
 
 ## New Geographies and Meanings
  
