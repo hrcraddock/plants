@@ -146,7 +146,7 @@ Opium’s reputation as a source of artistic inspiration and creative dreams inf
 <param ve-image
        url="Coleridge.jpg"
        label="Kubla Khan Manuscript"
-       description="Manuscript handwritten by Coleridge describing a 'reverie brought on by two grains of opium."
+       description="Manuscript handwritten by Coleridge describing a 'reverie brought on by two grains of opium.'"
        license="public domain"
        region="140,977,597,475">
 <param ve-image
