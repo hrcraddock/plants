@@ -91,7 +91,7 @@ While prehistoric and ancient depictions of opium poppies mostly referred to see
        fit="contain"
        [permission still needed]>
 
-The opium poppy was given the name papaver somniferum by [Linnaeus](https://www.wikidata.org/wiki/Q1345) in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver) (1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin somnium. [Angelo Sala’s](https://www.wikidata.org/wiki/Q453933) 1618 *Opiologia; or a Treatise concerning ... Opium* discusses the medicinal properties of opium and evaluates existing knowledge about its effects, primarily its ability to ‘wonderfully and speedily release the body from intolerable pains’. The first chapter is preceded by an image entitled ‘the method of extracting the juice of the poppy’, depicting a Turkish opium picker using his knife to scratch the poppy seed capsule in order to collect the sap. A similar image appears on the title page of Georg Wolfgang Wedel's *Opiologia* (1682).
+[Angelo Sala’s](https://www.wikidata.org/wiki/Q453933) 1618 *Opiologia; or a Treatise concerning ... Opium* discusses the medicinal properties of opium and evaluates existing knowledge about its effects, primarily its ability to ‘wonderfully and speedily release the body from intolerable pains’. The first chapter is preceded by an image entitled ‘the method of extracting the juice of the poppy’, depicting a Turkish opium picker using his knife to scratch the poppy seed capsule in order to collect the sap. A similar image appears on the title page of Georg Wolfgang Wedel's *Opiologia* (1682).
 <param ve-compare
         curtain="true"
 	url="Sala_image.jpg"
@@ -105,6 +105,9 @@ The opium poppy was given the name papaver somniferum by [Linnaeus](https://www.
 	description="Image from Wedel’s Opiologia"
 	license="CC BY-SA 4.0">
       
+The opium poppy was given the name papaver somniferum by [Linnaeus](https://www.wikidata.org/wiki/Q1345) in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver) (1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin somnium.
+<param ve-iframe
+src="https://books.google.co.uk/books?id=6A0PAAAAQAAJ&newbks=0&pg=PA497&output=embed>
 
 ## 19th Century: A Household Drug 
 
