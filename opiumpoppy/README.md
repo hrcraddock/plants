@@ -107,7 +107,7 @@ While prehistoric and ancient depictions of opium poppies mostly referred to see
       
 The opium poppy was given the name papaver somniferum by [Linnaeus](https://www.wikidata.org/wiki/Q1345) in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver) (1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin somnium.
 <param ve-iframe
-src="https://books.google.co.uk/books?id=6A0PAAAAQAAJ&newbks=0&pg=PA497&output=embed>
+src="https://archive.org/embed/speciesplantarum00clin_857">
 
 ## 19th Century: A Household Drug 
 
