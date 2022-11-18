@@ -114,7 +114,7 @@ src="https://archive.org/embed/speciesplantarum00clin_857/page/508">
 The nineteenth century saw a conflict between existing conceptions of the opium poppy as a plant of beauty which provided relief and inspiration and increasingly negative attitudes towards the morality of the trade and use of the drug. Nineteenth century herbals such as [Hermann Adolph Köhler's](https://www.wikidata.org/wiki/Q1279282) [*Medizinal-Pflanzen*](https://www.biodiversitylibrary.org/page/303420) (1890) continued to categorize the opium poppy as a medicinal plant. Often referred to during this period as laudanum, a tincture of opium with wine or water, the relieving effects of opium in medical terms remained well-known and opium was used in commonplace medicines, even for children, to the extent that it was referred to as ‘the poor child’s nurse’ due to its ability to stop babies crying.
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/3/39/%22Poor_child%27s_nurse%22%2C_child_with_opium%2C_Punch%2C_1849_Wellcome_L0003359.jpg"
-       label="The Poor Child's Nurse"
+       label="The Poor Child's Nurse, from 1849 edition of Punch magazine"
        description="Image from 1849 edition of Punch magazine"
        license="public domain"
        region="170,1484,4071,3238">
