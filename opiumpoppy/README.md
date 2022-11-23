@@ -123,11 +123,11 @@ The nineteenth century saw a conflict between existing conceptions of the opium 
 
 The Opium Wars (1839-1842 and 1856-1860) situate the opium poppy within the political conflicts of empire, trade, and regulation in the nineteenth century. Connecting the opium poppy to another primary economic plant of the period, [tea](https://www.wikidata.org/wiki/Q6097), the trade imbalance between Britain and China, with China accepting only silver in exchange for tea, formed the conflict which led to the opium wars. The British response was to illegally smuggle Indian opium into China for payment in silver. Fraught discussions of the ‘Opium Question’ centered on the morality of the trade in light of the addictive properties of the drug, as well as the financial dependence on opium. An 1882 edition of the [*Journal of the Society of Arts*](https://archive.org/details/journalofsociety30soci_0/page/200/mode/2up) records a discussion of this: ‘there was a very painful impression on the minds of some persons as to the morality of this trade [...] many believed that this country [Britain] was not only importing on a large scale a pernicious drug into the most populous country of the world, but also compelling its introduction and use by force of arms.’
 <param ve-knightlab-timeline
-source="15lvYjMlhf6M1xYvad7yTbj54DhRo3Flhi_1GlGm6Fhg"
-timenav-position="bottom"
-hash-bookmark="false”
-initial-zoom="1"
-height="750">                            
+	source="15lvYjMlhf6M1xYvad7yTbj54DhRo3Flhi_1GlGm6Fhg"
+	timenav-position="bottom"
+	hash-bookmark="false"
+	initial-zoom="1"
+	height="750">                            
 
 This question of morality was heightened by the use of British India to fuel this drug trade. The [East India Company](https://www.wikidata.org/wiki/Q83164) managed opium poppy plantations across India, but sold off the product to private merchants to transport to China, increasingly disconnecting the opium poppy plant from the drug product it provided.[^ref6] Archival records at the [Royal Botanic Gardens, Kew](https://www.wikidata.org/wiki/Q188617) describe ‘Experimental Poppy Gardens’ in India, which sought to examine methods of poppy cultivation, including diseases and soil conditions impacting the plants and the yield of opium they produced.[^ref7] The opium poppy was considered a ‘useful plant’, and a whole volume entitled ‘India: Economic Products: Opium’ is dedicated to it in the Miscellaneous Reports of Kew, which record activities in the network of botanical gardens across the British Empire. As an ‘economic product’ of financial value whose cultivation was regulated by the East India Company, it is clear that the opium poppy was of interest in the context of colonial economic botany in the nineteenth century. 
 <param ve-image 
