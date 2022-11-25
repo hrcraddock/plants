@@ -164,7 +164,7 @@ Opium’s reputation as a source of artistic inspiration and creative dreams inf
        license="public domain"
        region="140,977,597,475">
 <param ve-iframe
-	src="https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52">
+	src="https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA55&output=embed" width=500 height=500></iframe>">
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Les_fleurs_animees_BHL15481312.jpg"
        label="Pavot"
