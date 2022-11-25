@@ -163,6 +163,8 @@ Opium’s reputation as a source of artistic inspiration and creative dreams inf
        description="Manuscript handwritten by Coleridge describing a 'reverie brought on by two grains of opium.'"
        license="public domain"
        region="140,977,597,475">
+<param ve-iframe
+	src="https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52">
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Les_fleurs_animees_BHL15481312.jpg"
        label="Pavot"
