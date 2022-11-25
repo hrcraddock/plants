@@ -180,6 +180,7 @@ Opium is alluded to, mentioned, and used in the works of a variety of other prom
        url="Wizard_oz.jpeg"
        label="Cover of The Wonderful Wizard of Oz by Frank Baum"
        license="public domain"
+       region="-248,113,1778,1414">
 			                                
 ## Decadence, Degeneration, and Racism
        
