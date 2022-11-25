@@ -107,7 +107,7 @@ Italian doctor, chemist, and promoter of chemical remedies Angelo Sala discusses
 	license="CC BY-SA 4.0">
       
 The opium poppy was given the name papaver somniferum by Carl Linnaeus in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver) (1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin somnium.
-<param ve-entity eid="Q1345" title="Carl Linnaeus" aliases="Carolus Linnaeus">
+<param ve-entity eid="Q1345" title="Linnaeus" aliases="Carolus Linnaeus">
 <param ve-iframe
 src="https://archive.org/embed/speciesplantarum00clin_857/page/508">
 
@@ -138,7 +138,7 @@ This question of morality was heightened by the use of British India to fuel thi
 <param ve-map center="25.622327386898878, 85.15070463626836" zoom="9" prefer-geojson>
 
 Archival records at the Royal Botanic Gardens, Kew describe ‘Experimental Poppy Gardens’ in India, which sought to examine methods of poppy cultivation, including diseases and soil conditions impacting the plants and the yield of opium they produced.[^ref7] The opium poppy was considered a ‘useful plant’, and a whole volume entitled ‘India: Economic Products: Opium’ is dedicated to it in the Miscellaneous Reports of Kew, which record activities in the network of botanical gardens across the British Empire. As an ‘economic product’ of financial value whose cultivation was regulated by the East India Company, it is clear that the opium poppy was of interest in the context of colonial economic botany in the nineteenth century. 
-<param ve-entity eid="Q188617" title="Royal Botanic Gardens, Kew">
+<param ve-entity eid="Q188617" title="Kew">
 <param ve-image 
        url="MR146_India_Opium_Spine.jpg"
        label="India: Economic Products: Opium, from the Miscellaneous Reports of the Royal Botanic Gardens, Kew"
