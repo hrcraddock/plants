@@ -91,7 +91,7 @@ While prehistoric and ancient depictions of opium poppies mostly referred to see
        fit="contain"
        [permission still needed]>
 
-Angelo Sala’s 1618 *Opiologia; or a Treatise concerning ... Opium* discusses the medicinal properties of opium and evaluates existing knowledge about its effects, primarily its ability to ‘wonderfully and speedily release the body from intolerable pains’. The first chapter is preceded by an image entitled ‘the method of extracting the juice of the poppy’, depicting a Turkish opium picker using his knife to scratch the poppy seed capsule in order to collect the sap. A similar image appears on the title page of Georg Wolfgang Wedel's *Opiologia* (1682).
+Italian doctor, chemist, and promoter of chemical remedies Angelo Sala discusses the medicinal properties of opium and evaluates existing knowledge about its effects in his 1618 *Opiologia; or a Treatise concerning ... Opium*, primarily its ability to ‘wonderfully and speedily release the body from intolerable pains’. The first chapter is preceded by an image entitled ‘the method of extracting the juice of the poppy’, depicting a Turkish opium picker using his knife to scratch the poppy seed capsule in order to collect the sap. A similar image appears on the title page of Georg Wolfgang Wedel's *Opiologia* (1682).
 <param ve-entity eid="Q453933" title="Angelo Sala">
 <param ve-compare
         curtain="true"
@@ -106,8 +106,8 @@ Angelo Sala’s 1618 *Opiologia; or a Treatise concerning ... Opium* discusses t
 	description="Image from Wedel’s Opiologia"
 	license="CC BY-SA 4.0">
       
-The opium poppy was given the name papaver somniferum by Linnaeus in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver) (1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin somnium.
-<param ve-entity eid="Q1345" title="Linnaeus">
+The opium poppy was given the name papaver somniferum by Carl Linnaeus in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver) (1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin somnium.
+<param ve-entity eid="Q1345" title="Carl Linnaeus">
 <param ve-iframe
 src="https://archive.org/embed/speciesplantarum00clin_857/page/508">
 
