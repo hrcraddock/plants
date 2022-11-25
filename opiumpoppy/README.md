@@ -174,6 +174,10 @@ Opium’s reputation as a source of artistic inspiration and creative dreams inf
 Later in the century, opium played a role both in the inspiration and content of literary works. ‘A novel written about an experiment with opium written under the influence of opium’, Wilkie Collins’s *The Moonstone* (1868) centers on a mysterious theft unknowingly performed while sleepwalking under the influence of opium and Collins’s own opium addiction reflects that of his character Ezra Jennings.[^ref8] Opium is alluded to, mentioned, and used in the works of a variety of other prominent Victorian novelists, including Charles Dickens ([*Oliver Twist*](https://books.google.co.uk/books?id=Vz8JAAAAQAAJ&newbks=0&pg=RA2-PA72)), Jules Verne ([*Around the World in Eighty Days*](https://books.google.co.uk/books?id=oqw5AQAAIAAJ&newbks=0&dq=around%20the%20world%20in%2080%20days%20book&pg=PA144)), Bram Stoker ([*Dracula*](https://books.google.co.uk/books?id=3BoZEAAAQBAJ&newbks=0&lpg=PP1&pg=PT193)), and Arthur Conan Doyle ([*Sherlock Holmes*](https://books.google.co.uk/books?id=3BoZEAAAQBAJ&newbks=0&lpg=PP1&pg=PT193)). In Frank Baum’s [*The Wonderful Wizard of Oz*](https://books.google.co.uk/books?id=UzmIDwAAQBAJ&newbks=0&lpg=PP1&dq=the%20wonderful%20wizard%20of%20oz&pg=PP1) (1900), the scent of opium poppies puts Dorothy to sleep in the chapter entitled ‘The Deadly Poppy Field’, with some editions of the text portraying these as vivid red poppies on the front cover.
 <param ve-iframe
 	src="https://archive.org/embed/harpersweeklyv12bonn/page/n466"> 
+<param ve-image
+       url="Wizard_oz.jpeg"
+       label="Cover of The Wonderful Wizard of Oz by Frank Baum"
+       license="public domain"
 			                                
 ## Decadence, Degeneration, and Racism
        
