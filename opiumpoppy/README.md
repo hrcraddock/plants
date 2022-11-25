@@ -107,7 +107,7 @@ Italian doctor, chemist, and promoter of chemical remedies Angelo Sala discusses
 	license="CC BY-SA 4.0">
       
 The opium poppy was given the name papaver somniferum by Carl Linnaeus in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver) (1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin somnium.
-<param ve-entity eid="Q1345" title="Linnaeus" aliases="Carolus Linnaeus">
+<param ve-entity eid="Q1043" title="Linnaeus" aliases="Carolus Linnaeus">
 <param ve-iframe
 src="https://archive.org/embed/speciesplantarum00clin_857/page/508">
 
