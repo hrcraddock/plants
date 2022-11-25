@@ -91,7 +91,8 @@ While prehistoric and ancient depictions of opium poppies mostly referred to see
        fit="contain"
        [permission still needed]>
 
-[Angelo Sala’s](https://www.wikidata.org/wiki/Q453933) 1618 *Opiologia; or a Treatise concerning ... Opium* discusses the medicinal properties of opium and evaluates existing knowledge about its effects, primarily its ability to ‘wonderfully and speedily release the body from intolerable pains’. The first chapter is preceded by an image entitled ‘the method of extracting the juice of the poppy’, depicting a Turkish opium picker using his knife to scratch the poppy seed capsule in order to collect the sap. A similar image appears on the title page of Georg Wolfgang Wedel's *Opiologia* (1682).
+Angelo Sala’s 1618 *Opiologia; or a Treatise concerning ... Opium* discusses the medicinal properties of opium and evaluates existing knowledge about its effects, primarily its ability to ‘wonderfully and speedily release the body from intolerable pains’. The first chapter is preceded by an image entitled ‘the method of extracting the juice of the poppy’, depicting a Turkish opium picker using his knife to scratch the poppy seed capsule in order to collect the sap. A similar image appears on the title page of Georg Wolfgang Wedel's *Opiologia* (1682).
+<param ve-entity eid="Q453933" title="Angelo Sala">
 <param ve-compare
         curtain="true"
 	url="Sala_image.jpg"
