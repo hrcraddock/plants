@@ -135,7 +135,7 @@ The Opium Wars (1839-1842 and 1856-1860) situate the opium poppy within the poli
 
 This question of morality was heightened by the use of British India to fuel this drug trade. The East India Company managed opium poppy plantations across India, but sold off the product to private merchants to transport to China, increasingly disconnecting the opium poppy plant from the drug product it provided.[^ref6] 
 <param ve-entity eid="Q83164" title="East India Company">
-<param ve-map title="Experimental poppy gardens were established at Deegah and Meetapore near Bankipore" center="25.622327386898878, 85.15070463626836" zoom="9" prefer-geojson>
+<param ve-map title="Patna, India, home to one of the East India Company's Opium Factories" center="25.622327386898878, 85.15070463626836" zoom="9" prefer-geojson>
 
 Archival records at the Royal Botanic Gardens, Kew describe ‘Experimental Poppy Gardens’ in India, which sought to examine methods of poppy cultivation, including diseases and soil conditions impacting the plants and the yield of opium they produced.[^ref7] The opium poppy was considered a ‘useful plant’, and a whole volume entitled ‘India: Economic Products: Opium’ is dedicated to it in the Miscellaneous Reports of Kew, which record activities in the network of botanical gardens across the British Empire. As an ‘economic product’ of financial value whose cultivation was regulated by the East India Company, it is clear that the opium poppy was of interest in the context of colonial economic botany in the nineteenth century. 
 <param ve-entity eid="Q188617" title="Kew">
