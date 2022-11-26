@@ -186,6 +186,12 @@ Opium is alluded to, mentioned, and used in the works of a variety of other prom
        
 However, as opium became entwined with the indulgence and decadence of the fin de siècle, the drug was also increasingly being associated with racist concepts of degeneration. In his book [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that ‘[a] race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants’. He adds that the West ‘need not concern ourselves about that, since the chief sufferers from them are Eastern peoples, who play no part in the intellectual development of the white races.’
 <param ve-entity eid="Q265581" title="fin de siècle">
+<param ve-image
+       url="EBC_apparatus.jpg"
+       label="Apparatus for Opium Smoking, from RBG, Kew's Economic Botany Collection"
+       description="Consists of a tray, knife, scrapers, and pots."
+       license="Image used with permission of the Board of Trustees of the Royal Botanic Gardens, Kew"
+       fit="contain">
 
 The nineteenth century saw the opium poppy become intertwined with international wars and racialised concerns about harmful addiction, forewarning of the sharp downturn of its reputation in the twentieth century. Yet the opium poppy continued to be depicted as a flower of beauty, not always directly associated with the drug it produced; Marianne North (1830-1890), a botanical artist whose extensive paintings are displayed in the gallery she built in the Royal Botanic Gardens, Kew, painted the [opium poppy](https://artuk.org/discover/artworks/foliage-flowers-and-seed-vessel-of-the-opium-poppy-87954/search/keyword:marianne-opium--referrer:global-search) with emphasis on a seedpod in the foreground, unscarred and untouched.
 <param ve-entity eid="Q271648" title="Marianne North">
