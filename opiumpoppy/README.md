@@ -19,7 +19,7 @@ Poppies are known by many names: *papaver somniferum* (the opium poppy), *papave
        [still needs permission]>
 
 ## Prehistory of the Poppy
-Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” In [*The Wild Garden; Or, Our Groves & Shrubberies Made Beautiful by the Naturalization of Hardy Exotic Plants*] (https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed), author and practicing gardener William Robinson described Papaver somniferum as able to “grow[ing] in any soil.” [^ref1] However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.
+Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” In [*The Wild Garden; Or, Our Groves & Shrubberies Made Beautiful by the Naturalization of Hardy Exotic Plants*] (https://www.google.com/books/edition/The_Wild_Garden_Or_Our_Groves_Shrubberie/1IdaAAAAYAAJ?hl=en&gbpv=1&dq=papaver&pg=PA51&printsec=frontcover), author and practicing gardener William Robinson described Papaver somniferum as able to “grow[ing] in any soil.” [^ref1] However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.
 <param ve-map
        Title="Origin of Poppy Plant"
        zoom="6"
@@ -59,7 +59,7 @@ Another notable example of this valorization comes from Anatolia during the Myce
 <param ve-image
        url="https://images.metmuseum.org/CRDImages/an/original/sd1989_281_14,15.jpg"
        label="Gold Pins with Spherical Head"
-       description="Hittite Empire (ca. 14-13 century BC), in Central Anatolia. From the Norbert Schimmel Collection on loan to the Metropolitan Museum."
+       description="Hittite Empire (ca. 14-13 century BC), in Central Anatolia. From the Norbert Schimmel Collection on loan to the Metropolitan Museum. Courtesy of Metropolitan Museum of Art."
        license="public domain"
        region="-138, 1, 690, 700">
 
