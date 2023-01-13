@@ -74,7 +74,7 @@ Century after century, cultural meaning of the opium poppy changed drastically. 
        license="public domain"
        fit="contain">
  
-## Rebranding: Value in Aesthetics
+## Rebranding: From Value in Aesthetics to a Household Drug
 
 While prehistoric and ancient depictions of opium poppies mostly referred to seed capsules and the dried seed heads of poppies, poppies themselves gained notoriety in the 16th and 17th centuries in aesthetic as flowers, especially in botanical illustration, floral arrangements, and other artwork. Illustrations of wild poppies, double red poppies, common poppies, feathery poppies or annual poppies, were common. During the Early Modern Era, poppies gained notoriety as beautiful objects rather than functional tools.[^ref5]
 <param ve-image
@@ -91,7 +91,7 @@ While prehistoric and ancient depictions of opium poppies mostly referred to see
        fit="contain"
        [permission still needed]>
 
-Italian doctor, chemist, and promoter of chemical remedies Angelo Sala discusses the medicinal properties of opium and evaluates existing knowledge about its effects in his 1618 *Opiologia; or a Treatise concerning ... Opium*, primarily its ability to ‘wonderfully and speedily release the body from intolerable pains’. The first chapter is preceded by an image entitled ‘the method of extracting the juice of the poppy’, depicting a Turkish opium picker using his knife to scratch the poppy seed capsule in order to collect the sap. A similar image appears on the title page of Georg Wolfgang Wedel's *Opiologia* (1682).
+Italian doctor, chemist, and promoter of chemical remedies Angelo Sala discusses the medicinal properties of opium and evaluates existing knowledge about its effects in his 1618 *Opiologia; or a Treatise concerning ... Opium*, primarily its ability to ‘wonderfully and speedily release the body from intolerable pains’. The first chapter is preceded by an image entitled ‘the method of extracting the juice of the poppy’, shown here, depicting a Turkish opium picker using his knife to scratch the poppy seed capsule in order to collect the sap. A similar image, shown behind Sala’s image here, appears on the title page of Georg Wolfgang Wedel's *Opiologia* (1682).
 <param ve-entity eid="Q453933" title="Angelo Sala">
 <param ve-compare
         curtain="true"
@@ -106,14 +106,12 @@ Italian doctor, chemist, and promoter of chemical remedies Angelo Sala discusses
 	description="Image from Wedel’s Opiologia"
 	license="CC BY-SA 4.0">
       
-The opium poppy was given the name papaver somniferum by Carl Linnaeus in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver) (1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin somnium.
+The opium poppy was given the name papaver somniferum by Swedish naturalist Carl Linnaeus in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver) (1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin somnium. This name differentiates the opium poppy from other varieties of annual flowering plant in the family Papaveraceae.
 <param ve-entity eid="Q1043" title="Linnaeus" aliases="Carolus Linnaeus">
 <param ve-iframe
 src="https://archive.org/embed/speciesplantarum00clin_857/page/508">
 
-## 19th Century: A Household Drug 
-
-The nineteenth century saw a conflict between existing conceptions of the opium poppy as a plant of beauty which provided relief and inspiration and increasingly negative attitudes towards the morality of the trade and use of the drug. Nineteenth century herbals such as Hermann Adolph Köhler's [*Medizinal-Pflanzen*](https://www.biodiversitylibrary.org/page/303420) (1890) continued to categorize the opium poppy as a medicinal plant. Often referred to during this period as laudanum, a tincture of opium with wine or water, the relieving effects of opium in medical terms remained well-known and opium was used in commonplace medicines, even for children, to the extent that it was referred to as ‘the poor child’s nurse’ due to its ability to stop babies crying.
+The nineteenth century saw a conflict between existing conceptions of the opium poppy as a plant of beauty which provided relief and inspiration and increasingly negative attitudes towards the morality of the trade and use of the drug, with the oppositional western and eastern perceptions increasingly overlapping. Nineteenth century herbals such as the physician Hermann Adolph Köhler's [*Medizinal-Pflanzen*](https://www.biodiversitylibrary.org/page/303420) (1890) continued to categorize the opium poppy as a medicinal plant. Often referred to during this period as laudanum, a tincture of opium with wine or water, the relieving effects of opium in medical terms remained well-known and opium was used in commonplace medicines, even for children, to the extent that it was referred to as ‘the poor child’s nurse’ due to its ability to stop babies crying.
 <param ve-entity eid="Q1279282" title="Hermann Adolph Köhler" aliases="Hermann Adolph Köhler's">
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/3/39/%22Poor_child%27s_nurse%22%2C_child_with_opium%2C_Punch%2C_1849_Wellcome_L0003359.jpg"
@@ -124,7 +122,7 @@ The nineteenth century saw a conflict between existing conceptions of the opium 
        
 ## War and Colonialism
 
-The Opium Wars (1839-1842 and 1856-1860) situate the opium poppy within the political conflicts of empire, trade, and regulation in the nineteenth century. Connecting the opium poppy to another primary economic plant of the period, tea, the trade imbalance between Britain and China, with China accepting only silver in exchange for tea, formed the conflict which led to the opium wars. The British response was to illegally smuggle Indian opium into China for payment in silver. Fraught discussions of the ‘Opium Question’ centered on the morality of the trade in light of the addictive properties of the drug, as well as the financial dependence on opium. An 1882 edition of the [*Journal of the Society of Arts*](https://archive.org/details/journalofsociety30soci_0/page/200/mode/2up) records a discussion of this: ‘there was a very painful impression on the minds of some persons as to the morality of this trade [...] many believed that this country [Britain] was not only importing on a large scale a pernicious drug into the most populous country of the world, but also compelling its introduction and use by force of arms.’
+The opium poppy’s role within the political conflicts of empire, trade, and regulation in the nineteenth century is epitomized in The Opium Wars (1839-1842 and 1856-1860). Connecting the opium poppy to another primary economic plant of the period, tea, the trade imbalance between Britain and China, with China accepting only silver in exchange for tea, formed the conflict which led to the opium wars. The British response was to illegally smuggle Indian opium into China for payment in silver. Fraught discussions of the ‘Opium Question’ centered on the morality of the trade in light of the addictive properties of the drug, as well as the financial dependence on opium. An 1882 edition of the [*Journal of the Society of Arts*](https://archive.org/details/journalofsociety30soci_0/page/200/mode/2up) records a discussion of this: ‘there was a very painful impression on the minds of some persons as to the morality of this trade [...] many believed that this country [Britain] was not only importing on a large scale a pernicious drug into the most populous country of the world, but also compelling its introduction and use by force of arms.’
 <param ve-entity eid="Q6097" title="tea">
 <param ve-knightlab-timeline
 	source="15lvYjMlhf6M1xYvad7yTbj54DhRo3Flhi_1GlGm6Fhg"
@@ -137,7 +135,7 @@ This question of morality was heightened by the use of British India to fuel thi
 <param ve-entity eid="Q83164" title="East India Company">
 <param ve-map title="Patna, India, home to one of the East India Company's Opium Factories" center="25.59811319723597, 85.13548677858626" zoom="9" prefer-geojson>
 
-Archival records at the Royal Botanic Gardens, Kew describe ‘Experimental Poppy Gardens’ in India, which sought to examine methods of poppy cultivation, including diseases and soil conditions impacting the plants and the yield of opium they produced.[^ref7] The opium poppy was considered a ‘useful plant’, and a whole volume entitled ‘India: Economic Products: Opium’ is dedicated to it in the Miscellaneous Reports of Kew, which record activities in the network of botanical gardens across the British Empire. As an ‘economic product’ of financial value whose cultivation was regulated by the East India Company, it is clear that the opium poppy was of interest in the context of colonial economic botany in the nineteenth century. 
+Archival records held at The Royal Botanic Gardens, Kew display the role of the institution in this colonial network of trade, describing ‘Experimental Poppy Gardens’ in India, which sought to examine methods of poppy cultivation, including diseases and soil conditions impacting the plants and the yield of opium they produced.[^ref7] The opium poppy was considered a ‘useful plant’, and a whole volume entitled ‘India: Economic Products: Opium’ is dedicated to it in the Miscellaneous Reports of Kew, which record activities in the network of botanical gardens across the British Empire. As an ‘economic product’ of financial value whose cultivation was regulated by the East India Company, it is clear that the opium poppy was of interest in the context of colonial economic botany in the nineteenth century. 
 <param ve-entity eid="Q188617" title="Kew">
 <param ve-image 
        url="MR146_India_Opium_Spine.jpg"
@@ -154,7 +152,7 @@ Joseph Hooker, later director of Kew Gardens between 1865 and 1885, visited the 
 
 ## Literary Inspiration, Dreams, and Addiction
 
-Opium’s reputation as a source of artistic inspiration and creative dreams influenced the work of many poets of the Romantic period. Samuel Taylor Coleridge  described his poem [*Kubla Khan*](https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52) as ‘a fragment [...] composed in a sort of Reverie brought on by two grains of opium’. Recording similar experiences of the inspirational effect of opium, Thomas De Quincey writes in his [*Confessions of an English Opium Eater*](https://books.google.co.uk/books?id=POREAAAAYAAJ&newbks=0&pg=PA3) (1821) that ‘[i]f opium-eating be a sensual pleasure, [...] I am bound to confess that I have indulged in it to an excess, not yet recorded of any other man’. The poppy is also explicitly associated with femininity in J. J. Grandeville’s [*Les Fleurs Animées*](https://www.biodiversitylibrary.org/page/309170) [The Flowers Personified] (1847), which includes an image of a poppy humanized in the form of a woman sprinkling poppy seeds from the seedpods on insects.
+While Britain waged war with China over the trade of the opium poppy’s valuable drug product, within Britain itself, opium’s reputation as a source of artistic inspiration and creative dreams grew to influence the work of many poets of the Romantic period. Samuel Taylor Coleridge  described his poem [*Kubla Khan*](https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52) as ‘a fragment [...] composed in a sort of Reverie brought on by two grains of opium’. Recording similar experiences of the inspirational effect of opium, Thomas De Quincey writes in his [*Confessions of an English Opium Eater*](https://books.google.co.uk/books?id=POREAAAAYAAJ&newbks=0&pg=PA3) (1821) that ‘[i]f opium-eating be a sensual pleasure, [...] I am bound to confess that I have indulged in it to an excess, not yet recorded of any other man’. The poppy is also explicitly associated with femininity in J. J. Grandeville’s [*Les Fleurs Animées*](https://www.biodiversitylibrary.org/page/309170) [The Flowers Personified] (1847), which includes an image of a poppy humanized in the form of a woman sprinkling poppy seeds from the seedpods on insects.
 <param ve-entity eid="Q82409" title="Samuel Taylor Coleridge">
 <param ve-entity eid="Q317160" title="Thomas De Quincey">
 <param ve-image
@@ -171,7 +169,7 @@ Opium’s reputation as a source of artistic inspiration and creative dreams inf
        description="Illustration of humanized poppy by J.J. Grandeville (1847)"
        license="public domain">  
                               
-Later in the century, opium played a role both in the inspiration and content of literary works. ‘A novel written about an experiment with opium written under the influence of opium’, Wilkie Collins’s *The Moonstone* (1868) centers on a mysterious theft unknowingly performed while sleepwalking under the influence of opium and Collins’s own opium addiction reflects that of his character Ezra Jennings.[^ref8] 
+Later in the century, opium continued to play a role both in the inspiration and content of literary works. ‘A novel written about an experiment with opium written under the influence of opium’, Wilkie Collins’s *The Moonstone* (1868) centers on a mysterious theft unknowingly performed while sleepwalking under the influence of opium and Collins’s own opium addiction reflects that of his character Ezra Jennings.[^ref8] 
 <param ve-iframe
 	src="https://archive.org/embed/harpersweeklyv12bonn/page/n466"> 
 
@@ -200,8 +198,9 @@ The nineteenth century saw the opium poppy become intertwined with international
        label="Foliage, Flowers and Seed-Vessel of the Opium Poppy"
        description="Painting by Marianne North"
        license="CC BY-NC 4.0"
-       region="-269,105,1347,1072">			      
-                              			  
+       region="-269,105,1347,1072">	
+
+The nineteenth century opened and closed with significant developments in the production of medicinal and recreational substances from the opium poppy. Morphine, the first drug isolated from the plant, was first produced in 1804, while 1895 saw the first commercial production of heroin from chemically processed morphine by German pharmaceutical company Bayer, who named it thus because it was seen to have ‘heroic effects’ on users.[^ref9] With the peak in opium production occurring around the early twentieth century, the trade came under greater global scrutiny. The International Opium Convention in 1912 led to a worldwide ban on trading opium, morphine and cocaine, and since then morphine and some other opiates have remained in use as pain relievers, but continue to be illegal for recreational use.                             
 
 ## The Cursed Flower in Colombia
 
@@ -246,6 +245,7 @@ Curiously, the eyes of the pilots had to direct their gazes to the beauty of the
 [^ref6]: Julia Lovell. The Opium War: Drugs, Dreams and the Making of China. London: Pan Macmillan, 2011, p. 2.
 [^ref7]: Royal Botanic Gardens Kew Archives, Miscellaneous Reports, MCR/5/1/45, India: Economic Products: Opium, f. 209.
 [^ref8]: Sandra Kemp, Introduction to The Moonstone, by Wilkie Collins, London: Penguin, 1998. 
+[^ref9]: Lack, Andrew. Poppy, London: Reaktion Books, 2016, p. 134-5
 
 
 			  
