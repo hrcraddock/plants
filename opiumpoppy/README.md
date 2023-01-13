@@ -19,7 +19,7 @@ Poppies are known by many names: *papaver somniferum* (the opium poppy), *papave
        [still needs permission]>
 
 ## Prehistory of the Poppy
-Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” Author and practicing gardener William Robinson described Papaver somniferum as able to “grow[ing] in any soil.” [^ref1] However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.
+Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” In [*The Wild Garden; Or, Our Groves & Shrubberies Made Beautiful by the Naturalization of Hardy Exotic Plants*], author and practicing gardener William Robinson described Papaver somniferum as able to “grow[ing] in any soil.” [^ref1] However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.
 <param ve-map
        Title="Origin of Poppy Plant"
        zoom="6"
@@ -29,7 +29,7 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
 	src="https://en.wikipedia.org/w/index.php?title=William_Robinson_(gardener)&oldid=1131934468">
 
 <param ve-iframe
-	src="https://books.google.com/books?id=29jqCZ6nXZIC&newbks=0&dq=george%20birdwood%20the%20drying%20up%20of%20indian%20opium%20revenue&pg=PA765&output=embed">
+	src="https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed">
        
 ## Divine Remedies
  
@@ -88,16 +88,14 @@ While prehistoric and ancient depictions of opium poppies mostly referred to see
 <param ve-image
        url="French_School_Poppy.jpg"
        label="Papaver somniferum"
-       description="Artist unknown, Pencil on paper, circa 18th century"
-       fit="contain"
-       [permission still needed]>
+       description="Artist unknown, Pencil on paper, circa 18th century. Courtesy of Oak Spring Garden Foundation."
+       fit="contain">
        
 <param ve-image
        url="Besler_Poppy_2.jpg"
        label="Papaver flore multiplicipurpura scente"
-       description="Another variety of Papaver somniferum, by Basilius Besler, 1713."
-       fit="contain"
-       [permission still needed]>
+       description="Another variety of Papaver somniferum, by Basilius Besler, 1713. Courtesy of Oak Spring Garden Foundation."
+       fit="contain">
 
 Italian doctor, chemist, and promoter of chemical remedies Angelo Sala discusses the medicinal properties of opium and evaluates existing knowledge about its effects in his 1618 *Opiologia; or a Treatise concerning ... Opium*, primarily its ability to ‘wonderfully and speedily release the body from intolerable pains’. The first chapter is preceded by an image entitled ‘the method of extracting the juice of the poppy’, shown here, depicting a Turkish opium picker using his knife to scratch the poppy seed capsule in order to collect the sap. A similar image, shown behind Sala’s image here, appears on the title page of Georg Wolfgang Wedel's *Opiologia* (1682).
 <param ve-entity eid="Q453933" title="Angelo Sala">
