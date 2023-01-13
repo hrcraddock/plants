@@ -182,7 +182,7 @@ Opium is alluded to, mentioned, and used in the works of a variety of other prom
 			                                
 ## Decadence, Degeneration, and Racism
        
-However, as opium became entwined with the indulgence and decadence of the fin de siècle, the drug was also increasingly being associated with racist concepts of degeneration. In his book [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that ‘[a] race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants’. He adds that the West ‘need not concern ourselves about that, since the chief sufferers from them are Eastern peoples, who play no part in the intellectual development of the white races.’
+However, as opium became entwined with the indulgence and decadence of the fin de siècle, the drug was also increasingly being associated with racist concepts of degeneration. In his book [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that ‘[a] race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants’. 
 <param ve-entity eid="Q265581" title="fin de siècle">
 <param ve-image
        url="EBC_apparatus.jpg"
