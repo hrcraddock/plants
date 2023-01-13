@@ -8,12 +8,19 @@
        
 ## Poppies: An Oscillating Symbol
 Poppies are known by many names: *papaver somniferum* (the opium poppy), *papaver rhoeas*, *papaver hortense* (common poppy), *papaver somniferum laciniatum* (feather poppies). The opium poppy has a long history of man-made cultivation and coevolution. Originally used and revered by humans medicinally and religiously in the Middle East, the opium poppy became an object of aesthetic beauty in Europe, and was later racialized through the Opium Wars in the nineteenth century. As a recreational drug, opium has been a tool for artistic inspiration, but also an addictive substance which has warranted attempts at wholesale eradication of poppy cultivation. Today, opium poppies are still grown for their flowers, but are firmly associated with corruption due to their role in the illegal drug industry in South America and Afghanistan, where the poppies are mass-produced for their seed capsules which hold the drug opium. This condemnation of the opium poppy occurred after centuries of shifting attitudes towards the plant, oscillating between a symbol of beauty and a blight on civilizations in different spaces, time periods, and cultural contexts. Over time, the globalized identity of the poppy changed rapidly, dependent on human-imposed values and its changing functions in different cultures.
+
+<param ve-entity eid="Q4992239" title="William Robinson"
+	src="https://en.wikipedia.org/w/index.php?title=William_Robinson_(gardener)&oldid=1131934468">
+
 <param ve-image
        url="Besler_Poppy3.jpg"
        label="Papaver flor. luteo. Cornicu. latum, or Papaver purpureo color."
        description="Basilius Besler, 1713"
        fit="contain"
        [still needs permission]>
+       
+<param ve-iframe
+	src="https://books.google.com/books?id=29jqCZ6nXZIC&newbks=0&dq=george%20birdwood%20the%20drying%20up%20of%20indian%20opium%20revenue&pg=PA765&output=embed">
 
 ## Prehistory of the Poppy
 Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” Author and practicing gardener William Robinson described Papaver somniferum as able to “grow[ing] in any soil.” [^ref1] However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.
