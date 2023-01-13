@@ -32,12 +32,10 @@ In the 16th century, opium poppies could be found in books about “hardy flower
        
 <param ve-entity eid="Q4992239" title="William Robinson"
 	src="https://en.wikipedia.org/w/index.php?title=William_Robinson_(gardener)&oldid=1131934468">
-
-
        
 ## Divine Remedies
  
-Like most plants used for hallucinogenic effects, opium poppies were first used for ritual and sacrifice purposes. Presence of opium poppies were found as early as the Paleolithic Era. Both seed deposits and representations of the opium poppy seed pod were found in artifacts from western Europe, more specifically the Mediterranean and parts of what is now the Middle East. Many artifacts with representations of the seed pods were found in Greece, Crete, Cyprus, Egypt, Palestine, and Syria.[^ref2]  Poppy seed capsules were precious, magical, and even divine. The poppy flower had yet to make much of an entrance until the Roman empire, when barley and poppy were both associated with [“Persephone and the promise of perpetual rebirth,”](https://jstor.org/stable/community.11658624) the Minoan goddess of poppies and Demeter/Isis, goddess of agriculture. 
+Like most plants used for hallucinogenic effects, opium poppies were first used for ritual and sacrifice purposes. Presence of opium poppies were found as early as the Paleolithic Era. Both seed deposits and representations of the opium poppy seed pod were found in artifacts from western Europe, more specifically the Mediterranean and parts of what is now the Middle East. Many artifacts with representations of the seed pods were found in Greece, Crete, Cyprus, Egypt, Palestine, and Syria. Poppy seed capsules were precious, magical, and even divine. The poppy flower had yet to make much of an entrance until the Roman empire, when barley and poppy were both associated with “Persephone and the promise of perpetual rebirth,” the Minoan goddess of poppies and Demeter/Isis, goddess of agriculture. [^ref2]
 
 <param ve-entity 
        eid="Q194270"
@@ -60,7 +58,8 @@ Like most plants used for hallucinogenic effects, opium poppies were first used 
        
 <param ve-entity
        eid="Q40730"
-       title="Demeter">
+       title="Demeter"
+       aliases="Demeter/Isis">
 
 <param ve-image
        	url="https://upload.wikimedia.org/wikipedia/commons/4/43/Roman_silver_denarius_of_Vespasian_dating_from_AD_73_%28FindID_613177%29.jpg"
@@ -93,7 +92,7 @@ Another notable example of this valorization comes from Anatolia during the Myce
 
 ## New Geographies and Meanings
  
-During the Holy Inquisition, use of anything related to the East was banned including the use of the opium poppy. From the 12th to the 15th century, western Europe opposed any Eastern influence. Meanwhile, India, the Middle East, and China participated in the naturalization of the opium poppy. Arab traders were thought to have spread the opium poppy to Tang Dynasty China, where opium was integrated into various medicinal concoctions and dietary recipes.[^ref3] Integration of opium poppies into diet and medicine originated in Southern China and its countryside, where Buddhist monasteries often concocted remedies for ailments related to the throat and stomach and spread recipes to rural neighborhoods. Despite 17th century European writing on the hardiness of the poppy plant, in 1061 [Su Song](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6733759/) writes that, “[Poppies] are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.”
+During the Holy Inquisition, use of anything related to the East was banned including the use of the opium poppy. From the 12th to the 15th century, western Europe opposed any Eastern influence. Meanwhile, India, the Middle East, and China participated in the naturalization of the opium poppy. Arab traders were thought to have spread the opium poppy to Tang Dynasty China, where opium was integrated into various medicinal concoctions and dietary recipes. Integration of opium poppies into diet and medicine originated in Southern China and its countryside, where Buddhist monasteries often concocted remedies for ailments related to the throat and stomach and spread recipes to rural neighborhoods. Despite 17th century European writing on the hardiness of the poppy plant, in 1061 [Su Song](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6733759/) writes that, “[Poppies] are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.” [^ref3]
 
 <param ve-image
 	url="https://iiif.wellcomecollection.org/image/V0043635ER/full/880%2C/0/default.jpg" 
