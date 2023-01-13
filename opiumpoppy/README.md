@@ -181,16 +181,8 @@ Opium is alluded to, mentioned, and used in the works of a variety of other prom
 			                                
 ## Decadence, Degeneration, and Racism
        
-However, as opium became entwined with the indulgence and decadence of the fin de siècle, the drug was also increasingly being associated with racist concepts of degeneration. In his book [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that ‘[a] race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants’. 
+However, as opium became entwined with the indulgence and decadence of the fin de siècle, the drug was also increasingly being associated with racist concepts of degeneration. In his book [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that ‘[a] race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants’. The opium poppy became intertwined with international wars and racialised concerns about harmful addiction, forewarning of the sharp downturn of its reputation in the twentieth century. Yet the opium poppy continued to be depicted as a flower of beauty, not always directly associated with the drug it produced; Marianne North (1830-1890), a botanical artist whose extensive paintings are displayed in the gallery she built in the Royal Botanic Gardens, Kew, painted the [opium poppy](https://artuk.org/discover/artworks/foliage-flowers-and-seed-vessel-of-the-opium-poppy-87954/search/keyword:marianne-opium--referrer:global-search) with emphasis on a seedpod in the foreground, unscarred and untouched.
 <param ve-entity eid="Q265581" title="fin de siècle">
-<param ve-image
-       url="EBC_apparatus.jpg"
-       label="Apparatus for Opium Smoking, from RBG, Kew's Economic Botany Collection"
-       description="Consists of a tray, knife, scrapers, and pots."
-       license="Image used with permission of the Board of Trustees of the Royal Botanic Gardens, Kew"
-       fit="contain">
-
-The nineteenth century saw the opium poppy become intertwined with international wars and racialised concerns about harmful addiction, forewarning of the sharp downturn of its reputation in the twentieth century. Yet the opium poppy continued to be depicted as a flower of beauty, not always directly associated with the drug it produced; Marianne North (1830-1890), a botanical artist whose extensive paintings are displayed in the gallery she built in the Royal Botanic Gardens, Kew, painted the [opium poppy](https://artuk.org/discover/artworks/foliage-flowers-and-seed-vessel-of-the-opium-poppy-87954/search/keyword:marianne-opium--referrer:global-search) with emphasis on a seedpod in the foreground, unscarred and untouched.
 <param ve-entity eid="Q271648" title="Marianne North">
 <param ve-image
        url="MarianneNorth.jpg"
@@ -200,11 +192,12 @@ The nineteenth century saw the opium poppy become intertwined with international
        region="-269,105,1347,1072">	
 
 The nineteenth century opened and closed with significant developments in the production of medicinal and recreational substances from the opium poppy. Morphine, the first drug isolated from the plant, was first produced in 1804, while 1895 saw the first commercial production of heroin from chemically processed morphine by German pharmaceutical company Bayer, who named it thus because it was seen to have ‘heroic effects’ on users.[^ref9] With the peak in opium production occurring around the early twentieth century, the trade came under greater global scrutiny. The International Opium Convention in 1912 led to a worldwide ban on trading opium, morphine and cocaine, and since then morphine and some other opiates have remained in use as pain relievers, but continue to be illegal for recreational use.
-<param ve-image url="Wellcome_morphine.jpg"
-	label="Clear glass shop round for liquid morphine, from the United States"
-        description="Held at the Science Museum, London. The label is abbreviated Latin for “Solution of morphine” The bottle was originally owned by J A Reid, a chemist in Dumfriesshire, Scotland."
-        license="CC BY-NC 4.0"
-        fit="contain">
+<param ve-image
+       url="EBC_apparatus.jpg"
+       label="Apparatus for Opium Smoking, from RBG, Kew's Economic Botany Collection"
+       description="Consists of a tray, knife, scrapers, and pots."
+       license="Image used with permission of the Board of Trustees of the Royal Botanic Gardens, Kew"
+       fit="contain">
 
 ## The Cursed Flower in Colombia
 
