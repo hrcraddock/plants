@@ -7,7 +7,7 @@
        layout="vertical">
        
 ## Poppies: An Oscillating Symbol
-Poppies are known by many names: papaver somniferum (the opium poppy), papaver rhoeas, papaver hortense (common poppy), papaver somniferum laciniatum (feather poppies). Modern forms of the opium poppy come from a long history of man-made cultivation and coevolution. Cultural values of opium poppies changed with economic ups and downs. Condemnation of the opium poppy occurred after centuries of shifting attitudes towards the plant, oscillating between a symbol of beauty and a blight on civilizations. As sources of medicinal relief, opium poppies have been perceived as functional plants with cultural value both as divine remedies and later commonplace drugs. As a recreational drug, opium has been seen as a tool for artistic inspiration, but also as a dangerously addictive substance which has warranted attempts at wholesale eradication of poppy cultivation. These constant shifts in meaning suggest that beneath these layers of human-imposed value, the poppy has retained some agency as a plant of many purposes. 
+Poppies are known by many names: *papaver somniferum* (the opium poppy), *papaver rhoeas*, *papaver hortense* (common poppy), *papaver somniferum laciniatum* (feather poppies). Modern forms of the opium poppy come from a long history of man-made cultivation and coevolution. Cultural values of opium poppies changed with economic ups and downs. Condemnation of the opium poppy occurred after centuries of shifting attitudes towards the plant, oscillating between a symbol of beauty and a blight on civilizations. As sources of medicinal relief, opium poppies have been perceived as functional plants with cultural value both as divine remedies and later commonplace drugs. As a recreational drug, opium has been seen as a tool for artistic inspiration, but also as a dangerously addictive substance which has warranted attempts at wholesale eradication of poppy cultivation. These constant shifts in meaning suggest that beneath these layers of human-imposed value, the poppy has retained some agency as a plant of many purposes. 
 
 <param ve-image
        url="Besler_Poppy3.jpg"
@@ -106,7 +106,7 @@ Italian doctor, chemist, and promoter of chemical remedies Angelo Sala discusses
 	description="Image from Wedel’s Opiologia"
 	license="CC BY-SA 4.0">
       
-The opium poppy was given the name papaver somniferum by Swedish naturalist Carl Linnaeus in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver) (1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin somnium. This name differentiates the opium poppy from other varieties of annual flowering plant in the family Papaveraceae.
+The opium poppy was given the name *papaver somniferum* by Swedish naturalist Carl Linnaeus in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver) (1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin *somnium*. This name differentiates the opium poppy from other varieties of annual flowering plant in the family Papaveraceae.
 <param ve-entity eid="Q1043" title="Linnaeus" aliases="Carolus Linnaeus">
 <param ve-iframe
 src="https://archive.org/embed/speciesplantarum00clin_857/page/508">
