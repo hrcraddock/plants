@@ -245,7 +245,7 @@ Curiously, the eyes of the pilots had to direct their gazes to the beauty of the
 [^ref6]: Julia Lovell. The Opium War: Drugs, Dreams and the Making of China. London: Pan Macmillan, 2011, p. 2.
 [^ref7]: Royal Botanic Gardens Kew Archives, Miscellaneous Reports, MCR/5/1/45, India: Economic Products: Opium, f. 209.
 [^ref8]: Sandra Kemp, Introduction to The Moonstone, by Wilkie Collins, London: Penguin, 1998. 
-[^ref9]: Lack, Andrew. Poppy, London: Reaktion Books, 2016, p. 134-5
+[^ref9]: Andrew Lack. Poppy. London: Reaktion Books, 2016, p. 134-5
 
 
 			  
