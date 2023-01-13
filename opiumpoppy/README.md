@@ -19,12 +19,14 @@ Poppies are known by many names: *papaver somniferum* (the opium poppy), *papave
        Courtesy of Oak Spring Garden Foundation.>
 
 ## Prehistory of the Poppy
-Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” In [*The Wild Garden; Or, Our Groves & Shrubberies Made Beautiful by the Naturalization of Hardy Exotic Plants*](https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed) (1870), author and practicing gardener William Robinson described Papaver somniferum as able to “grow[ing] in any soil.” [^ref1] However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.
+Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. 
 <param ve-map
        Title="Origin of Poppy Plant"
        zoom="6"
        center="37.88016179341846, 19.156731827963906">
-       
+
+In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” In [*The Wild Garden; Or, Our Groves & Shrubberies Made Beautiful by the Naturalization of Hardy Exotic Plants*](https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed) (1870), author and practicing gardener William Robinson described Papaver somniferum as able to “grow[ing] in any soil.” [^ref1] However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.
+
 <param ve-iframe
 	src="https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed">
        
