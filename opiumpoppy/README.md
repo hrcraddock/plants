@@ -39,7 +39,7 @@ In the 16th century, opium poppies could be found in books about “hardy flower
  
 Like most plants used for hallucinogenic effects, opium poppies were first used for ritual and sacrifice purposes. Presence of opium poppies were found as early as the Paleolithic Era. Both seed deposits and representations of the opium poppy seed pod were found in artifacts from western Europe, more specifically the Mediterranean and parts of what is now the Middle East. Many artifacts with representations of the seed pods were found in Greece, Crete, Cyprus, Egypt, Palestine, and Syria.[^ref2]  Poppy seed capsules were precious, magical, and even divine. The poppy flower had yet to make much of an entrance until the Roman empire, when barley and poppy were both associated with [“Persephone and the promise of perpetual rebirth,”](https://jstor.org/stable/community.11658624) the Minoan goddess of poppies and Demeter/Isis, goddess of agriculture. 
 
-<param ve-entity eid=Q194270 title=Hallucinogens aliases=hallucinogeniceffects>
+<param ve-entity eid=Q194270 title="Hallucinogens" aliases="hallucinogenic effects">
 
 <param ve-image
        	url="https://upload.wikimedia.org/wikipedia/commons/4/43/Roman_silver_denarius_of_Vespasian_dating_from_AD_73_%28FindID_613177%29.jpg"
