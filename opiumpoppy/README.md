@@ -200,7 +200,11 @@ The nineteenth century saw the opium poppy become intertwined with international
        license="CC BY-NC 4.0"
        region="-269,105,1347,1072">	
 
-The nineteenth century opened and closed with significant developments in the production of medicinal and recreational substances from the opium poppy. Morphine, the first drug isolated from the plant, was first produced in 1804, while 1895 saw the first commercial production of heroin from chemically processed morphine by German pharmaceutical company Bayer, who named it thus because it was seen to have ‘heroic effects’ on users.[^ref9] With the peak in opium production occurring around the early twentieth century, the trade came under greater global scrutiny. The International Opium Convention in 1912 led to a worldwide ban on trading opium, morphine and cocaine, and since then morphine and some other opiates have remained in use as pain relievers, but continue to be illegal for recreational use.                             
+The nineteenth century opened and closed with significant developments in the production of medicinal and recreational substances from the opium poppy. Morphine, the first drug isolated from the plant, was first produced in 1804, while 1895 saw the first commercial production of heroin from chemically processed morphine by German pharmaceutical company Bayer, who named it thus because it was seen to have ‘heroic effects’ on users.[^ref9] With the peak in opium production occurring around the early twentieth century, the trade came under greater global scrutiny. The International Opium Convention in 1912 led to a worldwide ban on trading opium, morphine and cocaine, and since then morphine and some other opiates have remained in use as pain relievers, but continue to be illegal for recreational use.
+<param ve-image url="Wellcome_morphine.jpg">
+	label="Clear glass shop round for liquid morphine, from the United States"
+        description="Held at the Science Museum, London. The bottle was originally owned by J A Reid, a chemist in Dumfriesshire, Scotland."
+        license="CC BY-NC 4.0"
 
 ## The Cursed Flower in Colombia
 
