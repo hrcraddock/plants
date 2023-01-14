@@ -7,28 +7,29 @@
        layout="vertical">
        
 ## Poppies: An Oscillating Symbol
-Poppies are known by many names: *papaver somniferum* (the opium poppy), *papaver rhoeas*, *papaver hortense* (common poppy), *papaver somniferum laciniatum* (feather poppies). The opium poppy has a long history of man-made cultivation and coevolution. Originally used and revered by humans medicinally and religiously in the Middle East, the opium poppy became an object of aesthetic beauty in Europe, and was later racialized through the Opium Wars in the nineteenth century. As a recreational drug, opium has been a tool for artistic inspiration, but also an addictive substance which has warranted attempts at wholesale eradication of poppy cultivation. Today, opium poppies are still grown for their flowers, but are firmly associated with corruption due to their role in the illegal drug industry in South America and Afghanistan, where the poppies are mass-produced for their seed capsules which hold the drug opium. This condemnation of the opium poppy occurred after centuries of shifting attitudes towards the plant, oscillating between a symbol of beauty and a blight on civilizations in different spaces, time periods, and cultural contexts. Over time, the globalized identity of the poppy changed rapidly, dependent on human-imposed values and its changing functions in different cultures.
+Poppies are known by many names: *papaver somniferum* (the opium poppy), *papaver rhoeas*, *papaver hortense* (common poppy), *papaver somniferum laciniatum* (feather poppies). The opium poppy has a long history of man-made cultivation and coevolution. Originally used and revered by humans medicinally and religiously in the Middle East, the opium poppy became an object of aesthetic beauty in Europe, and was later racialized through the Opium Wars in the nineteenth century. For thousands of years, people began extracting the liquid from dried seed capsules of the poppy plant. As a recreational drug, opium has been a tool for artistic inspiration, but also an addictive substance which has warranted attempts at wholesale eradication of poppy cultivation. Today, opium poppies are still grown for their flowers, but are firmly associated with corruption due to their role in the illegal drug industry in South America and Afghanistan, where the poppies are mass-produced for their seed capsules which hold the drug opium. This condemnation of the opium poppy occurred after centuries of shifting attitudes towards the plant, oscillating between a symbol of beauty and a blight on civilizations in different spaces, time periods, and cultural contexts. Over time, the globalized identity of the poppy changed rapidly, dependent on human-imposed values and its changing functions in different cultures.
 
 
 
 <param ve-image
        url="Besler_Poppy3.jpg"
        label="Papaver flor. luteo. Cornicu. latum, or Papaver purpureo color."
-       description="Basilius Besler, 1713"
-       fit="contain"
-       Courtesy of Oak Spring Garden Foundation.>
+       description="Basilius Besler, 1713. Courtesy of Oak Spring Garden Foundation."
+       fit="contain">
 
 ## Prehistory of the Poppy
 Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. The (domesticated) opium poppy was initially found in Neolithic sites in western Europe, and mentioned in archaeobotanical literature. [^ref1]
+
 <param ve-map
        Title="Origin of Poppy Plant"
        zoom="6"
        center="37.88016179341846, 19.156731827963906">
+       
 <param ve-entity
        eid="Q36422"
        title="Neolithic">
 
-In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” In [*The Wild Garden; Or, Our Groves & Shrubberies Made Beautiful by the Naturalization of Hardy Exotic Plants*](https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed) (1870), author and practicing gardener William Robinson described Papaver somniferum as able to “grow[ing] in any soil.” [^ref2] However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.
+In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” In [*The Wild Garden; Or, Our Groves & Shrubberies Made Beautiful by the Naturalization of Hardy Exotic Plants*](https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed) (1870), author and practicing gardener William Robinson described Papaver somniferum as able to “grow[ing] in any soil.” However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.[^ref2]
 
 <param ve-iframe
 	src="https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed">
@@ -38,7 +39,7 @@ In the 16th century, opium poppies could be found in books about “hardy flower
        
 ## Divine Remedies
  
-Like most plants used for hallucinogenic effects, opium poppies were first used for ritual and sacrifice purposes. Presence of opium poppies were found as early as the Paleolithic Era. Both seed deposits and representations of the opium poppy seed pod were found in artifacts from western Europe, more specifically the Mediterranean and parts of what is now the Middle East. Many artifacts with representations of the seed pods were found in Greece, Crete, Cyprus, Egypt, Palestine, and Syria. Poppy seed capsules were precious, magical, and even divine. The poppy flower had yet to make much of an entrance until the Roman empire, when barley and poppy were both associated with “Persephone and the promise of perpetual rebirth,” the Minoan goddess of poppies and Demeter/Isis, goddess of agriculture. [^ref3]
+Like most plants used for hallucinogenic effects, opium poppies were first used for ritual and sacrifice purposes. Presence of opium poppies were found as early as the Paleolithic Era. Both seed deposits and representations of the opium poppy seed pod were found in artifacts from western Europe, more specifically the Mediterranean and parts of what is now the Middle East. Many artifacts with representations of the seed pods were found in Greece, Crete, Cyprus, Egypt, Palestine, and Syria. Poppy seed capsules were precious, magical, and even divine. The poppy flower had yet to make much of an entrance until the Roman empire, when barley and poppy were both associated with “Persephone and the promise of perpetual rebirth,” the Minoan goddess of poppies, and Demeter/Isis, goddess of agriculture. [^ref3]
 
 <param ve-entity 
        eid="Q194270"
@@ -108,11 +109,12 @@ During the Holy Inquisition, use of anything related to the East was banned incl
 	description="From Wellcome collection: 'Unripe seed capsules of the opium poppy yield opium. Oil from the seeds is used in artist's paints, salad oil and soap.' Illustration found in book on vegetables and their uses."
 	license="public domain"
        	fit="contain">
+	
 <param ve-entity
        eid="Q1265657"
        title="Su Song">
  
-Century after century, cultural meaning of the opium poppy changed drastically. In the 13th century, Paracelsus, a physician and scholar, repopularized the opium poppy as the drug “laudanum,” and western societies continued their use of the opium poppy as medicine. In the 19th century, author and naturalist George Birdwood writes of Indian opium as, “the luxury of the rich in China, as champagne is in Europe and America." Asian and Middle Eastern use of the morphine content in opium via smoking distinguished opium use from western use of opium with pills and tinctures. In the 16th century, Dutch sailors who smoked opium were considered “primitive people” for partaking [^ref7]
+Century after century, social perception of the opium poppy changed drastically, despite being useful as a medicinal drug throughout history. In the 13th century Paracelsus, a physician and scholar, repopularized the opium poppy as the drug “laudanum,” thus western societies continued their use of the opium poppy as medicine. Meanwhile, both Asia and the Middle East took part in in opium trading during Europe's ban on eastern products. Dutch sailors who smoked opium were considered “primitive people” for partaking. [^ref7] In the 19th century, author and naturalist George Birdwood writes of Indian opium as, “the luxury of the rich in China, as champagne is in Europe and America." Asian and Middle Eastern use of the morphine content in opium via smoking distinguished opium use from western use of opium with pills and tinctures. 
 
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_botanical_atlas_%28Plate_XIII%29_%287349116188%29.jpg"
