@@ -81,7 +81,7 @@ Like most plants used for hallucinogenic effects, opium poppies were first used 
        license="public domain"
        fit="contain">
  
-Another notable example of this valorization comes from Anatolia during the Mycenaean period of two gold pins resembling dried poppy capsules from the Robert Schimmel collection in the Met. While scholars disagree about whether or not these bulbous single-stemmed plants are poppy seed capsules or pomegranates, there is some consensus that both were depicted in ancient reliefs. [^ref3]
+Another notable example of this valorization comes from Anatolia during the Mycenaean period of two gold pins resembling dried poppy capsules from the Robert Schimmel collection in the Metropolitan Museum of Art in New York. While scholars disagree about whether or not these bulbous single-stemmed plants are poppy seed capsules or pomegranates, there is some consensus that both were depicted in ancient reliefs. [^ref3]
        
 <param ve-image
        url="https://images.metmuseum.org/CRDImages/an/original/sd1989_281_14,15.jpg"
@@ -101,7 +101,7 @@ Another notable example of this valorization comes from Anatolia during the Myce
 
 ## New Geographies and Meanings
  
-During the Holy Inquisition, use of anything related to the East was banned including the use of the opium poppy. From the 12th to the 15th century, western Europe opposed any Eastern influence. Meanwhile, India, the Middle East, and China participated in the naturalization of the opium poppy. Arab traders were thought to have spread the opium poppy to Tang Dynasty China, where opium was integrated into various medicinal concoctions and dietary recipes. [^ref4] Integration of opium poppies into diet and medicine originated in Southern China and its countryside, where Buddhist monasteries often concocted remedies for ailments related to the throat and stomach and spread recipes to rural neighborhoods. Despite 17th century European writing on the hardiness of the poppy plant, in 1061 [Su Song](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6733759/) writes that, “[Poppies] are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.” [^ref5]
+During the Holy Inquisition, use of anything related to the East was banned including the use of the opium poppy. From the 12th to the 15th century, western Europe opposed any Eastern influence. Meanwhile, India, the Middle East, and China participated in the naturalization of the opium poppy. Arab traders were thought to have spread the opium poppy to Tang Dynasty China, where opium was integrated into various medicinal concoctions and dietary recipes. [^ref4] Integration of opium poppies into diet and medicine originated in Southern China and its countryside, where Buddhist monasteries often concocted remedies for ailments related to the throat and stomach and spread recipes to rural neighborhoods. Despite 17th century European writing on the hardiness of the poppy plant, in 1061 Su Song writes that, “[Poppies] are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.” [^ref5]
 
 <param ve-image
 	url="https://iiif.wellcomecollection.org/image/V0043635ER/full/880%2C/0/default.jpg" 
@@ -109,14 +109,22 @@ During the Holy Inquisition, use of anything related to the East was banned incl
 	description="From Wellcome collection: 'Unripe seed capsules of the opium poppy yield opium. Oil from the seeds is used in artist's paints, salad oil and soap.' Illustration found in book on vegetables and their uses."
 	license="public domain"
        	fit="contain">
+<param ve-entity
+       eid="Q1265657"
+       title="Su Song"
  
 Century after century, cultural meaning of the opium poppy changed drastically. In the 13th century, Paracelsus, a physician and scholar, repopularized the opium poppy as the drug “laudanum,” and western societies continued their use of the opium poppy as medicine. In 1913, author and naturalist [George Birdwood writes](https://books.google.com/books?id=29jqCZ6nXZIC&pg=PA764&lpg=PA764&dq=george+birdwood+the+drying+up+of+indian+opium+revenue&source=bl&ots=qp88O5DPRL&sig=ACfU3U0Siv-8UvhY3KWY55PFNCEYUaIzqA&hl=en&sa=X&ved=2ahUKEwjP-vbMyr_5AhWgIDQIHTLaBJkQ6AF6BAgCEAM#v=onepage&q&f=false) of Indian opium as, “the luxury of the rich in China, as champagne is in Europe and America." Asian and Middle Eastern use of the morphine content in opium via smoking distinguished opium use from western use of opium with pills and tinctures. In the 16th century, Dutch sailors who smoked opium were considered “primitive people” for partaking.[^ref6]
+
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_botanical_atlas_%28Plate_XIII%29_%287349116188%29.jpg"
        label="Barberry and Poppy Plate"
        description="Barberry and Poppy Plate XIII, from The Botanical Atlas: a guide to the practical study of plants containing representatives of the leading forms of plant life with explanatory letterpress, 1883"
        license="public domain"
        fit="contain">
+       
+<param ve-entity
+       eid="Q83428"
+       title="Paracelsus">
  
 ## Rebranding: From Value in Aesthetics to a Household Drug
 
