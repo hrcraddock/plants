@@ -17,16 +17,12 @@ Poppies are known by many names: *papaver somniferum* (the opium poppy), *papave
 
 ## Prehistory of the Poppy
 Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. The (domesticated) opium poppy was initially found in Neolithic sites in western Europe, and mentioned in archaeobotanical literature. [^ref1]
-       
-<param ve-entity
-	eid="Q31">
-<param ve-map
-         Title="Origin of Poppy Plant: Salavert et al (2020) confirms poppy seed remains were initially found in 'the central and Western Mediterranean, northwestern temperate Europe, and the Western Alps.'"
-	center="Q31"
-       zoom=5
-       prefer-geojson>
 
-       
+<param ve-map
+       Title="Origin of Poppy Plant: Salavert et al (2020) confirms poppy seed remains were initially found in 'the central and Western Mediterranean, northwestern temperate Europe, and the Western Alps.'"
+       zoom="4"
+       center="47.77, 12.98"
+       prefer-geojson>
        
 <param ve-entity
        eid="Q36422"
