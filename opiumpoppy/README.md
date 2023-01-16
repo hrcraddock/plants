@@ -25,7 +25,7 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
        prefer-geojson>
        
 <param ve-map-layer
-       geojson url="opiumpoppy/points.csv">
+       geojson url="https://github.com/leakyMirror/map-of-europe/blob/master/TopoJSON/europe.topojson">
        
        
 <param ve-entity
