@@ -26,7 +26,7 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
        basemap="topographical">
        
   <param ve-map-layer
-  	geojson url= "https://github.com/hrcraddock/plants/blob/main/opiumpoppy/map.geojson">
+  	geojson url="opiumpoppy/map.geojson">
        
        
 <param ve-entity
