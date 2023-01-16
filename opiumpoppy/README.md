@@ -24,6 +24,11 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
        center="47.77, 12.98"
        prefer-geojson>
        
+<param ve-map-layer
+       geo-json
+       encodeURIcomponent(https://geojson.io/#map=3.67/47.77/12.98)>
+       
+       
 <param ve-entity
        eid="Q36422"
        title="Neolithic">
