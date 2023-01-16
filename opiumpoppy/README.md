@@ -9,8 +9,6 @@
 ## Poppies: An Oscillating Symbol
 Poppies are known by many names: *papaver somniferum* (the opium poppy), *papaver rhoeas*, *papaver hortense* (common poppy), *papaver somniferum laciniatum* (feather poppies). The opium poppy has a long history of man-made cultivation and coevolution. Originally used and revered by humans medicinally and religiously in the Middle East, the opium poppy became an object of aesthetic beauty in Europe, and was later racialized through the Opium Wars in the nineteenth century. For thousands of years, people began extracting the liquid from dried seed capsules of the poppy plant. As a recreational drug, opium has been a tool for artistic inspiration, but also an addictive substance which has warranted attempts at wholesale eradication of poppy cultivation. Today, opium poppies are still grown for their flowers, but are firmly associated with corruption due to their role in the illegal drug industry in South America and Afghanistan, where the poppies are mass-produced for their seed capsules which hold the drug opium. This condemnation of the opium poppy occurred after centuries of shifting attitudes towards the plant, oscillating between a symbol of beauty and a blight on civilizations in different spaces, time periods, and cultural contexts. Over time, the globalized identity of the poppy changed rapidly, dependent on human-imposed values and its changing functions in different cultures.
 
-
-
 <param ve-image
        url="Besler_Poppy3.jpg"
        label="Papaver flor. luteo. Cornicu. latum, or Papaver purpureo color."
@@ -21,7 +19,7 @@ Poppies are known by many names: *papaver somniferum* (the opium poppy), *papave
 Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies weren’t always able to live and thrive in just any environments. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies were as cultivated plants. The (domesticated) opium poppy was initially found in Neolithic sites in western Europe, and mentioned in archaeobotanical literature. [^ref1]
 
 <param ve-map
-       Title="Origin of Poppy Plant"
+       Title="Origin of Poppy Plant: Salavert et al (2020) confirms poppy seed remains were initially found in "the central and Western Mediterranean, northwestern temperate Europe, and the Western Alps.""
        zoom="6"
        center="37.88016179341846, 19.156731827963906">
        
