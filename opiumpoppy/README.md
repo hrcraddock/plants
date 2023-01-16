@@ -21,12 +21,8 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
 <param ve-map
        Title="Origin of Poppy Plant. Salavert et al (2020) confirms poppy seed remains were initially found in 'the central and Western Mediterranean, northwestern temperate Europe, and the Western Alps.'"
        zoom="4"
-       center="47.77, 12.98"
-       prefer-geojson>
-       
-<param ve-map-layer
-       geo-json
-       encodeURIcomponent(https://geojson.io/#map=3.67/47.77/12.98)>
+       center="47.77, 12.98">
+  
        
        
 <param ve-entity
