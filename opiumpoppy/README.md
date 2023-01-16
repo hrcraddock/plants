@@ -24,7 +24,7 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
        center="47.77, 12.98"
        prefer-geojson>
        
-<param ve-map-layer
+<param ve-map-layer geojson
        geojson url="points.csv">
        
        
