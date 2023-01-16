@@ -23,9 +23,8 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
        zoom="4"
        center="47.77, 12.98">
        
-  <param ve-map-layer
-  OpenTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
-	maxZoom: 17>
+<param ve-map-layer
+       geojson url="opiumpoppy/points.csv">
        
        
 <param ve-entity
