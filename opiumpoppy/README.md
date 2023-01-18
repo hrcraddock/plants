@@ -261,7 +261,6 @@ At the end of the 20th century in Colombia, the opium poppy went from being an u
 ## Policing, Farmers, Eradication
 
 I will never forget the image of my mother, overwhelmed when she had to unearth the poppy plants in her garden. This constant fear spread throughout the homes of peasants and indigenous peoples, because during the 1990s, they did most of the opium planting, in remote places and on small farms. In the same decade, the Colombian government signed with the United States the "Plan Colombia", a political and economic initiative whose mission was to eradicate illicit crops such as cocaine, marijuana and opium poppy from the country. The exponential increase in poppy cultivation put the country at the top of the world's poppy producers and Colombian heroin became sought after in the foreign market due to its high purity level. In this scenario, the government began a campaign of strong police persecution of both the plant and the people who cultivated it. The eradication was done through the work of many people who dug it up manually and, on the other hand, an intense and ineffective aerial eradication with glyphosate, a potent herbicide. 
-
 <param ve-entity
        eid="Q1702988"
        title="Plan Colombia">
