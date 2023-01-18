@@ -274,12 +274,12 @@ The spread of poppy crops in Colombia was a social and economic phenomenon, espe
           
 Juan Fernando Herrán himself, in his series "papaver somniferum", presents a work entitled "judicial triptych" (tríptico judicial) that evidences this police practice around the plant. In this "installation" he appropriates a photograph that circulated during those years in one of the most important newspapers in Bogota. The image in the center shows two peasants who have been caught. In this case, as it happens with a certain visuality as a police device, the offenders are presented with what they have been arrested for. A table with a delicate tablecloth displays, almost stretching from side to side, a large bouquet of opium poppies. On one side of the table, almost imperceptibly, we can see two blades and two containers can be seen, proof that the two men are guilty even before their trial.
 
-This delicate staging is doubly displayed by the artist who adds two "natural" capsules, one on each side of the image. The two works, both the photograph and the capsules, are manipulated; the artist himself carefully composes the scene and places these two capsules as two portraits that dialogue with the photograph, almost like a traditional triptych in which each of the parts composes a story. The artist himself conceives the scratching action on each of the capsules as the inscription of a "promise": That promise that comes from the plant itself. It is a promise that is to come and at the same time that is being cut off. The plant itself is a promise of a better future for certain impoverished communities, but it quickly becomes in its opposite as a sign of deception, an injustice, and displacement.
-
 <param ve-image 
        url="juanpoppycolombia22.jpg"
        label="Judicial Triptych, Color and Black and White Prints"
        license="Image used with permission of the artist">
+
+This delicate staging is doubly displayed by the artist who adds two "natural" capsules, one on each side of the image. The two works, both the photograph and the capsules, are manipulated; the artist himself carefully composes the scene and places these two capsules as two portraits that dialogue with the photograph, almost like a traditional triptych in which each of the parts composes a story. The artist himself conceives the scratching action on each of the capsules as the inscription of a "promise": That promise that comes from the plant itself. It is a promise that is to come and at the same time that is being cut off. The plant itself is a promise of a better future for certain impoverished communities, but it quickly becomes in its opposite as a sign of deception, an injustice, and displacement.
 
 ## Displacement and Environmental Terror
 
