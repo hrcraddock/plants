@@ -292,7 +292,7 @@ Carlos Uribe's (1999) work entitled Horizons with Glyphosate (Horizonte con glif
 	compare="true"
 url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Horizonte%2C_Francisco_Antonio_Cano%2C_1913.jpg"
 label="Horizontes" 
-description="Horizontes by Antonio Cano"
+description="Horizontes by Antonio Cano">
 <param ve-compare 
 url=https://upload.wikimedia.org/wikipedia/commons/b/b4/Horizontes_%28Horizonts%29_by_Carlos_Uribe_%281997%29_%285083038746%29.jpg"
 label="Horizontes con glifosato" 
