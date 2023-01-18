@@ -250,7 +250,7 @@ The nineteenth century opened and closed with significant developments in the pr
        license="Image used with permission of the Board of Trustees of the Royal Botanic Gardens, Kew"
        fit="contain">
 
-## The Curse Flower in Colombia
+## The Cursed Flower in Colombia
 
 Throughout the twentieth century, the poppy trade and trafficking and smuggling routes became a global business with producers in Asia and Latin America: The Golden Crescent (Afghanistan, Iran and Pakistan), The Golden Triangle (Burma, Thailand, Laos and Vietnam) and in the Americas, Colombia and Mexico. In these regions of the world where most of the world's poppy was produced is also the place where, despite their differences, they shared certain political, social, economic and environmental particularities: good climate and perfect land for production, constant war, political instability, paramilitary personnel, inequality, among other reasons. To illustrate in more depth what the presence of opium poppy has meant in a specific case, we chose to talk about Colombia, and the way in which this plant has generated a clear political, social, economic, and environmental effects for human and non-humans communities. 
 
