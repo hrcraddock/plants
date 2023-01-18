@@ -288,7 +288,7 @@ Carlos Uribe's (1999) work entitled Horizons with Glyphosate (Horizonte con glif
        eid="Q407232"
        title="Glyphosate">
        
-       <param ve-compare 
+<param ve-compare 
        url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Horizonte%2C_Francisco_Antonio_Cano%2C_1913.jpg"
        label="Horizontes" 
        description="Horizontes by Antonio Cano">
