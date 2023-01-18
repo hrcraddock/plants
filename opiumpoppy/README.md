@@ -288,9 +288,7 @@ Carlos Uribe's (1999) work entitled Horizons with Glyphosate (Horizonte con glif
        eid="Q407232"
        title="Glyphosate">
        
-Curiously, the eyes of the pilots had to direct their gazes to the beauty of the opium poppy flower. Wherever they saw red, they had to spray. The plant becomes a translatable sign of its own precariousness and a threat to the vegetation that covers or hides it. Different reports from both the state and organizations warned of the consequences of aerial spraying for both humans and the environment. Artist Maria Elvira Escallon displays the encounter between landscape and herbicide. For 26 days she takes pictures to demonstrate visually the slow and damaging effect of the glyphosate. The art pieces reveal how the opium poppy relates into a small and big scale. The two works of art, both Uribe's and Escallón's, question the relationship that the plant has with the construction of life and of death, with the intimate, the public and the private. The opium poppy becomes an allegory and accumulation of that which is criminal and immoral. Even today we cannot consider the history of Colombia without understanding the agency of these plants, including the opium poppy, and their relationship with the environment, the animals, and the human.
-       
-<param ve-compare curtain 
+       <param ve-compare curtain 
 	compare="true"
 url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Horizonte%2C_Francisco_Antonio_Cano%2C_1913.jpg"
 label="Horizontes" 
@@ -299,7 +297,9 @@ description="Horizontes by Antonio Cano"
 url=https://upload.wikimedia.org/wikipedia/commons/b/b4/Horizontes_%28Horizonts%29_by_Carlos_Uribe_%281997%29_%285083038746%29.jpg"
 label="Horizontes con glifosato" 
 description="Horizontes con glifosato">
-
+       
+Curiously, the eyes of the pilots had to direct their gazes to the beauty of the opium poppy flower. Wherever they saw red, they had to spray. The plant becomes a translatable sign of its own precariousness and a threat to the vegetation that covers or hides it. Different reports from both the state and organizations warned of the consequences of aerial spraying for both humans and the environment. Artist Maria Elvira Escallon displays the encounter between landscape and herbicide. For 26 days she takes pictures to demonstrate visually the slow and damaging effect of the glyphosate. The art pieces reveal how the opium poppy relates into a small and big scale. The two works of art, both Uribe's and Escallón's, question the relationship that the plant has with the construction of life and of death, with the intimate, the public and the private. The opium poppy becomes an allegory and accumulation of that which is criminal and immoral. Even today we cannot consider the history of Colombia without understanding the agency of these plants, including the opium poppy, and their relationship with the environment, the animals, and the human.
+       
 <param ve-image url="Paisajedomestico.jpg"> 
 
 
