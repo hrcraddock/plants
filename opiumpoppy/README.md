@@ -206,7 +206,7 @@ Joseph Hooker, later director of Kew Gardens between 1865 and 1885, visited the 
 While Britain waged war with China over the trade of the opium poppy’s valuable drug product, within Britain itself, opium’s reputation as a source of artistic inspiration and creative dreams grew to influence the work of many poets of the Romantic period. Samuel Taylor Coleridge  described his poem [*Kubla Khan*](https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52) as "a fragment [...] composed in a sort of Reverie brought on by two grains of opium". Recording similar experiences of the inspirational effect of opium, Thomas De Quincey writes in his [*Confessions of an English Opium Eater*](https://books.google.co.uk/books?id=POREAAAAYAAJ&newbks=0&pg=PA3) (1821) that "[i]f opium-eating be a sensual pleasure, [...] I am bound to confess that I have indulged in it to an excess, not yet recorded of any other man". The poppy is also explicitly associated with femininity in J. J. Grandeville’s [*Les Fleurs Animées*](https://www.biodiversitylibrary.org/page/309170) [The Flowers Personified] (1847), which includes an image of a poppy humanized in the form of a woman sprinkling poppy seeds from the seedpods onto insects.
 <param ve-entity eid="Q82409" title="Samuel Taylor Coleridge">
 <param ve-entity eid="Q317160" title="Thomas De Quincey">
-<param ve-entity  eid="Q744442"    title= "J. J. Grandville">
+<param ve-entity eid="Q744442" title= "J. J. Grandville">
 <param ve-image
        url="Coleridge.jpg"
        label="Kubla Khan Manuscript"
@@ -236,6 +236,7 @@ Opium is alluded to, mentioned, and used in the works of a variety of other prom
        
 However, as opium became entwined with the indulgence and decadence of the fin de siècle, the drug was also increasingly being associated with racist concepts of degeneration. In his book [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that "[a] race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants". The opium poppy became intertwined with international wars and racialised concerns about harmful addiction, forewarning of the sharp downturn of its reputation in the twentieth century. Yet the opium poppy continued to be depicted as a flower of beauty, not always directly associated with the drug it produced; Marianne North (1830-1890), a botanical artist whose extensive paintings are displayed in the gallery she built in the Royal Botanic Gardens, Kew, painted the [opium poppy](https://artuk.org/discover/artworks/foliage-flowers-and-seed-vessel-of-the-opium-poppy-87954/search/keyword:marianne-opium--referrer:global-search) with emphasis on a seedpod in the foreground, unscarred and untouched.
 <param ve-entity eid="Q265581" title="fin de siècle">
+<param ve-entity eid="Q472270" title="Max Nordau">
 <param ve-entity eid="Q271648" title="Marianne North">
 <param ve-image
        url="MarianneNorth.jpg"
@@ -245,6 +246,9 @@ However, as opium became entwined with the indulgence and decadence of the fin d
        region="-269,105,1347,1072">	
 
 The nineteenth century opened and closed with significant developments in the production of medicinal and recreational substances from the opium poppy. Morphine, the first drug isolated from the plant, was first produced in 1804, while 1895 saw the first commercial production of heroin from chemically processed morphine by German pharmaceutical company Bayer, who named it thus because it was seen to have "heroic effects" on users.[^ref12] With the peak in opium production occurring around the early twentieth century, the trade came under greater global scrutiny. The International Opium Convention in 1912 led to a worldwide ban on trading opium, morphine and cocaine, and since then morphine and some other opiates have remained in use as pain relievers, but continue to be illegal for recreational use.
+<param ve-entity eid="Q81225" title="Morphine">
+<param ve-entity eid="Q152051" title="Bayer">
+<param ve-entity eid="Q751398" title="International Opium Convention">
 <param ve-image
        url="EBC_apparatus.jpg"
        label="Apparatus for Opium Smoking, from RBG, Kew's Economic Botany Collection"
