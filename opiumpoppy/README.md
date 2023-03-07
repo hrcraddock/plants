@@ -206,7 +206,7 @@ Joseph Hooker, later director of Kew Gardens between 1865 and 1885, visited the 
 While Britain waged war with China over the trade of the opium poppy’s valuable drug product, within Britain itself, opium’s reputation as a source of artistic inspiration and creative dreams grew to influence the work of many poets of the Romantic period. Samuel Taylor Coleridge  described his poem [*Kubla Khan*](https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52) as "a fragment [...] composed in a sort of Reverie brought on by two grains of opium". Recording similar experiences of the inspirational effect of opium, Thomas De Quincey writes in his [*Confessions of an English Opium Eater*](https://books.google.co.uk/books?id=POREAAAAYAAJ&newbks=0&pg=PA3) (1821) that "[i]f opium-eating be a sensual pleasure, [...] I am bound to confess that I have indulged in it to an excess, not yet recorded of any other man". The poppy is also explicitly associated with femininity in J. J. Grandville’s [*Les Fleurs Animées*](https://www.biodiversitylibrary.org/page/309170) [The Flowers Personified] (1847), which includes an image of a poppy humanized in the form of a woman sprinkling poppy seeds from the seedpods onto insects.
 <param ve-entity eid="Q82409" title="Samuel Taylor Coleridge">
 <param ve-entity eid="Q317160" title="Thomas De Quincey">
-<param ve-entity eid="Q744442" title= "J. J. Grandville" aliases="J. J. Grandville's>
+<param ve-entity eid="Q744442" title= "J. J. Grandville" aliases="J. J. Grandville’s>
 <param ve-image
        url="Coleridge.jpg"
        label="Kubla Khan Manuscript"
