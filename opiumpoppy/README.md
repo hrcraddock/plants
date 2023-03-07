@@ -162,7 +162,7 @@ The opium poppy was given the name *papaver somniferum* by Swedish naturalist Ca
 src="https://archive.org/embed/speciesplantarum00clin_857/page/508">
 
 The nineteenth century saw a conflict between existing conceptions of the opium poppy as a plant of beauty which provided relief and inspiration and increasingly negative attitudes towards the morality of the trade and use of the drug, with the oppositional western and eastern perceptions increasingly overlapping. Nineteenth century herbals such as the physician Hermann Adolph Köhler's [*Medizinal-Pflanzen*](https://www.biodiversitylibrary.org/page/303420) (1890) continued to categorize the opium poppy as a medicinal plant. Often referred to during this period as laudanum, a tincture of opium with wine or water, the relieving effects of opium in medical terms remained well-known and opium was used in commonplace medicines, even for children, to the extent that it was referred to as "the poor child’s nurse" due to its ability to stop babies crying.
-<param ve-entity eid="Q6165948" title="herbals">
+<param ve-entity eid="Q6165948" title="herbal" aliases="herbals">
 <param ve-entity eid="Q1279282" title="Hermann Adolph Köhler" aliases="Hermann Adolph Köhler's">
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/3/39/%22Poor_child%27s_nurse%22%2C_child_with_opium%2C_Punch%2C_1849_Wellcome_L0003359.jpg"
@@ -206,7 +206,7 @@ Joseph Hooker, later director of Kew Gardens between 1865 and 1885, visited the 
 While Britain waged war with China over the trade of the opium poppy’s valuable drug product, within Britain itself, opium’s reputation as a source of artistic inspiration and creative dreams grew to influence the work of many poets of the Romantic period. Samuel Taylor Coleridge  described his poem [*Kubla Khan*](https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52) as "a fragment [...] composed in a sort of Reverie brought on by two grains of opium". Recording similar experiences of the inspirational effect of opium, Thomas De Quincey writes in his [*Confessions of an English Opium Eater*](https://books.google.co.uk/books?id=POREAAAAYAAJ&newbks=0&pg=PA3) (1821) that "[i]f opium-eating be a sensual pleasure, [...] I am bound to confess that I have indulged in it to an excess, not yet recorded of any other man". The poppy is also explicitly associated with femininity in J. J. Grandeville’s [*Les Fleurs Animées*](https://www.biodiversitylibrary.org/page/309170) [The Flowers Personified] (1847), which includes an image of a poppy humanized in the form of a woman sprinkling poppy seeds from the seedpods onto insects.
 <param ve-entity eid="Q82409" title="Samuel Taylor Coleridge">
 <param ve-entity eid="Q317160" title="Thomas De Quincey">
-<param ve-entity eid="Q744442" title= "J. J. Grandville" aliases="J. J. Grandeville's>
+<param ve-entity eid="Q744442" title= "Jean Ignace Isidore Gérard Grandville" aliases="J. J. Grandeville's>
 <param ve-image
        url="Coleridge.jpg"
        label="Kubla Khan Manuscript"
