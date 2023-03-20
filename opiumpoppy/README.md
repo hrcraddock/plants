@@ -197,7 +197,7 @@ Joseph Hooker, later director of Kew Gardens between 1865 and 1885, visited the 
 <param ve-entity eid="Q157501" title="Joseph Hooker">
 <param ve-image
        url="https://iiif.wellcomecollection.org/image/V0019156/full/1338%2C/0/default.jpg"
-       label="Opium factory at Patna, India"
+       label="An examining hall in the Opium factory at Patna, India, from a series of seven prints of opium production drawn by Walter Stanhope Sherwill in 1850"
        description="Lithograph after W. S. Sherwill, c. 1850"
        license="public domain">
 
