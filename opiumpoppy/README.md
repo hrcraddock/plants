@@ -256,7 +256,6 @@ The nineteenth century opened and closed with significant developments in the pr
        description="The bottle was originally owned by J A Reid, a chemist in Dumfriesshire, Scotland and is now held in the Science Museum, London."
        license="public domain">
 
-
 ## The Cursed Flower in Colombia
 
 Throughout the twentieth century, the poppy trade and trafficking and smuggling routes became a global business with producers in Asia and Latin America: The Golden Crescent (Afghanistan, Iran and Pakistan), The Golden Triangle (Burma, Thailand, Laos and Vietnam) and in the Americas, Colombia and Mexico. These regions of the world where most of the world's poppies are produced are also places which, despite their differences, share certain political, social, economic and environmental particularities: good climate and perfect land for production, constant war, political instability, paramilitary personnel, inequality, among other reasons. To illustrate in more depth what the presence of opium poppy has meant in a specific case, we chose to talk about Colombia, and the way in which this plant has generated a clear political, social, economic, and environmental effects for human and non-humans communities. 
