@@ -222,7 +222,7 @@ While Britain waged war with China over the trade of the opium poppy’s valuabl
        description="Illustration of humanized poppy by J.J. Grandville (1847)"
        license="public domain">  
                               
-Later in the century, opium continued to play a role both in the inspiration and content of literary works. "A novel written about an experiment with opium written under the influence of opium", Wilkie Collins’s *The Moonstone* (1868) centers on a mysterious theft unknowingly performed while sleepwalking under the influence of opium and Collins’s own opium addiction reflects that of his character Ezra Jennings.[^ref11] 
+Later in the century, opium continued to play a role both in the inspiration and content of literary works. One such example was Wilkie Collins’s bestselling sensationalist novel *The Moonstone* (1868). "A novel written about an experiment with opium written under the influence of opium", it centers on a mysterious theft unknowingly performed while sleepwalking under the influence of opium and Collins’s own opium addiction reflects that of his character Ezra Jennings.[^ref11] 
 <param ve-iframe
 	src="https://archive.org/embed/harpersweeklyv12bonn/page/n466"> 
 
