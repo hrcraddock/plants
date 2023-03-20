@@ -250,6 +250,11 @@ The nineteenth century opened and closed with significant developments in the pr
 <param ve-entity eid="Q81225" title="Morphine">
 <param ve-entity eid="Q152051" title="Bayer">
 <param ve-entity eid="Q751398" title="International Opium Convention">
+<param ve-image
+       url="Wellcome_morphine.jpg"
+       label="Clear glass shop round for liquid morphine, made in the United States, labelled ‘Solution of morphine’ in abbreviated Latin"
+       description="The bottle was originally owned by J A Reid, a chemist in Dumfriesshire, Scotland and is now held in the Science Museum, London."
+       license="public domain">
 
 
 ## The Cursed Flower in Colombia
