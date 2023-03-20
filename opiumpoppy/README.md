@@ -156,7 +156,7 @@ Italian doctor, chemist, and promoter of chemical remedies Angelo Sala discusses
 	description="Image from Wedel’s Opiologia"
 	license="CC BY-SA 4.0">
       
-In the eighteenth century, the opium poppy was given the name *papaver somniferum* by Swedish naturalist Carl Linnaeus in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver) (1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin *somnium*. This name differentiates the opium poppy from other varieties of annual flowering plant in the family Papaveraceae.
+Moving into the eighteenth century, the opium poppy was given the name *papaver somniferum* by Swedish naturalist Carl Linnaeus in his [*Species Plantarum*](https://archive.org/details/speciesplantarum00clin_857/page/508/mode/2up?q=papaver) (1753), the genus coming from the noun for poppy in Greek and the species name acknowledging its sleep and dream-inducing properties in the etymological link to the latin *somnium*. This name differentiates the opium poppy from other varieties of annual flowering plant in the family Papaveraceae.
 <param ve-entity eid="Q1043" title="Linnaeus" aliases="Carolus Linnaeus">
 <param ve-iframe
 src="https://archive.org/embed/speciesplantarum00clin_857/page/508">
