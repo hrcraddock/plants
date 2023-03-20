@@ -173,7 +173,7 @@ The nineteenth century saw a conflict between existing conceptions of the opium 
        
 ## War and Colonialism
 
-The opium poppy’s role within the political conflicts of empire, trade, and regulation in the nineteenth century is epitomized in The Opium Wars (1839-1842 and 1856-1860). Connecting the opium poppy to another primary economic plant of the period, tea, the trade imbalance between Britain and China, with China accepting only silver in exchange for tea, formed the conflict which led to the opium wars. The British response was to illegally smuggle Indian opium into China for payment in silver. Fraught discussions of the ‘Opium Question’ centered on the morality of the trade in light of the addictive properties of the drug, as well as the financial dependence on opium. An 1882 edition of the [*Journal of the Society of Arts*](https://archive.org/details/journalofsociety30soci_0/page/200/mode/2up) records a discussion of this: "there was a very painful impression on the minds of some persons as to the morality of this trade [...] many believed that this country [Britain] was not only importing on a large scale a pernicious drug into the most populous country of the world, but also compelling its introduction and use by force of arms."
+The opium poppy’s role within the political conflicts of empire, trade, and regulation in the nineteenth century is epitomized in The Opium Wars (1839-1842 and 1856-1860). In the context of nineteenth century economic botany, the opium poppy was connected to another primary economic plant of the period, tea, as the trade imbalance between Britain and China, with China accepting only silver in exchange for tea, formed the conflict which led to the opium wars. The British response was to illegally smuggle Indian opium into China for payment in silver. Fraught discussions of the ‘Opium Question’ centered on the morality of the trade in light of the addictive properties of the drug, as well as the financial dependence on opium. An 1882 edition of the [*Journal of the Society of Arts*](https://archive.org/details/journalofsociety30soci_0/page/200/mode/2up) records a discussion of this: "there was a very painful impression on the minds of some persons as to the morality of this trade [...] many believed that this country [Britain] was not only importing on a large scale a pernicious drug into the most populous country of the world, but also compelling its introduction and use by force of arms."
 <param ve-entity eid="Q6097" title="tea">
 <param ve-knightlab-timeline
 	source="15lvYjMlhf6M1xYvad7yTbj54DhRo3Flhi_1GlGm6Fhg"
@@ -196,10 +196,11 @@ Archival records held at The Royal Botanic Gardens, Kew display the role of the 
 Joseph Hooker, later director of Kew Gardens between 1865 and 1885, visited the opium manufactory in Patna in India in 1848. In his [*Himalayan Journals*](https://www.google.co.uk/books/edition/Himalayan_Journals/sCYKAQAAIAAJ?hl=en&gbpv=1&printsec=frontcover) Hooker gives an account of the process of cultivation and labor intensive methods of extraction, from the granting of licenses from the East India Company, the flowering of the poppies in late January and early February, the extraction of latex from the seed pods in February and March, the transportation of the opium jars to stores, and the creation of "balls" of opium by men working "ten hours a day" to be sent to market.
 <param ve-entity eid="Q157501" title="Joseph Hooker">
 <param ve-image
-       url="https://iiif.wellcomecollection.org/image/V0019156/full/1338%2C/0/default.jpg"
-       label="An examining hall in the Opium factory at Patna, India, from a series of seven prints of opium production drawn by Walter Stanhope Sherwill in 1850"
-       description="Lithograph after W. S. Sherwill, c. 1850"
-       license="public domain">
+       url="EBC_apparatus.jpg"
+       label="Apparatus for Opium Smoking, from RBG, Kew's Economic Botany Collection"
+       description="Consists of a tray, knife, scrapers, and pots."
+       license="Image used with permission of the Board of Trustees of the Royal Botanic Gardens, Kew"
+       fit="contain">
 
 ## Literary Inspiration, Dreams, and Addiction
 
@@ -249,12 +250,7 @@ The nineteenth century opened and closed with significant developments in the pr
 <param ve-entity eid="Q81225" title="Morphine">
 <param ve-entity eid="Q152051" title="Bayer">
 <param ve-entity eid="Q751398" title="International Opium Convention">
-<param ve-image
-       url="EBC_apparatus.jpg"
-       label="Apparatus for Opium Smoking, from RBG, Kew's Economic Botany Collection"
-       description="Consists of a tray, knife, scrapers, and pots."
-       license="Image used with permission of the Board of Trustees of the Royal Botanic Gardens, Kew"
-       fit="contain">
+
 
 ## The Cursed Flower in Colombia
 
