@@ -209,7 +209,7 @@ While Britain waged war with China over the trade of the opium poppy’s valuabl
 <param ve-entity eid="Q744442" title= "J. J. Grandville" aliases="J. J. Grandville’s">
 <param ve-image
        url="Coleridge.jpg"
-       label="Kubla Khan Manuscript, Samuel Taylor Coleridge, completed in 1797"
+       label="Kubla Khan manuscript by Samuel Taylor Coleridge, completed in 1797"
        description="Manuscript handwritten by Coleridge describing a 'reverie brought on by two grains of opium.'"
        license="public domain"
        region="140,977,597,475">
