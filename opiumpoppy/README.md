@@ -217,8 +217,8 @@ While Britain waged war with China over the trade of the opium poppy’s valuabl
 	src="https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA55&output=embed">
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Les_fleurs_animees_BHL15481312.jpg"
-       label="'Pavot', illustration of a humanized poppy by J.J. Grandeville, 1847"
-       description="Illustration of humanized poppy by J.J. Grandeville (1847)"
+       label="'Pavot', illustration of a humanized poppy by J.J. Grandville, 1847"
+       description="Illustration of humanized poppy by J.J. Grandville (1847)"
        license="public domain">  
                               
 Later in the century, opium continued to play a role both in the inspiration and content of literary works. "A novel written about an experiment with opium written under the influence of opium", Wilkie Collins’s *The Moonstone* (1868) centers on a mysterious theft unknowingly performed while sleepwalking under the influence of opium and Collins’s own opium addiction reflects that of his character Ezra Jennings.[^ref11] 
