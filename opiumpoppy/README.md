@@ -7,7 +7,7 @@
        layout="vertical">
        
 ## Poppies: An Oscillating Symbol
-Poppies are known by many names: *Papaver somniferum* (the opium poppy), *Papaver rhoeas*, *Papaver hortense* (common poppy), *Papaver somniferum laciniatum* (feather poppies), among others. The opium poppy has a long history of man-made cultivation and coevolution. Originally used and revered by humans medicinally and religiously in the Middle East, the opium poppy became an object of aesthetic beauty in Europe, and was later racialized through the Opium Wars in the 19th century. As a recreational drug, opium has been a tool for artistic inspiration but also an addictive substance that has warranted attempts at wholesale eradication of poppy cultivation. Today, opium poppies are still grown for their flowers, but are firmly associated with corruption due to their role in the illegal drug industry in South America and Afghanistan, where the poppies are mass-produced for their seed capsules which hold the drug opium. This condemnation of the opium poppy occurred after centuries of shifting attitudes towards the plant, oscillating between a symbol of beauty and a blight on civilizations in different spaces, time periods, and cultural contexts. Over time, the globalized identity of the poppy changed frequently, dependent on human-imposed values and its changing functions in different cultures.
+Poppies are known by many names: *Papaver somniferum* (the opium poppy), *Papaver rhoeas*, *Papaver hortense* (common poppy), *Papaver somniferum laciniatum* (feather poppies), among others. The opium poppy has a long history of human cultivation and coevolution. Writers, artists and artisans, horticulturalists, pharmacists, scientists, chefs, and narcotics dealers have engaged with the plant since antiquity. Originally used and revered by humans medicinally and religiously in the Middle East, the opium poppy became an object of aesthetic beauty in Europe, and was later racialized through the Opium Wars in the 19th century. While opium poppies have had a historic relationship with people as a drug, they are also depicted in artwork from the Neolithic era to contemporary art today. As a recreational drug, opium has been a tool for artistic inspiration but also an addictive substance that has warranted attempts at wholesale eradication of poppy cultivation. Today, opium poppies are still grown for their flowers, but are firmly associated with corruption due to their role in the illegal drug industry in South America and Afghanistan, where the poppies are mass-produced for their seed capsules which hold the drug opium. This condemnation of the opium poppy occurred after centuries of shifting attitudes towards the plant, oscillating between a symbol of beauty and a blight on civilizations in different spaces, time periods, and cultural contexts. Over time, the globalized identity of the poppy changed frequently, dependent on human-imposed values and its changing functions in different cultures.
 <param ve-entity eid="Q220984" title="Opium Wars">
 <param ve-image
        url="Besler_Poppy3.jpg"
@@ -15,8 +15,8 @@ Poppies are known by many names: *Papaver somniferum* (the opium poppy), *Papave
        description="Basilius Besler, 1713. Courtesy of Oak Spring Garden Foundation."
        fit="contain">
 
-## Prehistory of the Poppy
-Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies were not always able to live and thrive in just any environment. Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies was as cultivated plants. Salavert et al (2020) confirm that poppy seed remains were initially found in Neolithic sites in "the central and Western Mediterranean, northwestern temperate Europe, and the Western Alps." [^ref1]
+## Prehistory of the Opium Poppy
+Poppies, like most other plants known today, were domesticated and coevolved to meet the needs of human beings. It is not known where poppies are native, as the first mention of poppies was as cultivated plants. Salavert et al (2020) confirm that poppy seed remains were initially found in Neolithic sites in "the central and Western Mediterranean, northwestern temperate Europe, and the Western Alps." [^ref1] Though the use of opium rapidly spread during the 15th and 16th centuries, opium poppies were not always able to live and thrive in just any environment. 
 
 <param ve-map
        Title="Origin of Poppy Plant - Western Europe, Mediterranean, Western Alps"
@@ -27,14 +27,6 @@ Though the use of opium rapidly spread during the 15th and 16th centuries, opium
 <param ve-entity
        eid="Q36422"
        title="Neolithic">
-
-In the 16th century, opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” In [*The Wild Garden; Or, Our Groves & Shrubberies Made Beautiful by the Naturalization of Hardy Exotic Plants*](https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed) (1870), author and practicing gardener William Robinson described *Papaver somniferum* as able to “grow[ing] in any soil.” However, the spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.[^ref2]
-
-<param ve-iframe
-	src="https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed">
-       
-<param ve-entity eid="Q4992239" title="William Robinson"
-	src="https://en.wikipedia.org/w/index.php?title=William_Robinson_(gardener)&oldid=1131934468">
        
 ## Divine Remedies
  
@@ -84,7 +76,7 @@ Like most plants used for hallucinogenic effects, opium poppies were first used 
        license="public domain"
        fit="contain">
  
-Another notable example of this valorization comes from Anatolia during the Mycenaean period of two gold pins resembling dried poppy capsules from the Robert Schimmel collection in the Metropolitan Museum of Art in New York. While scholars disagree about whether these bulbous single-stemmed plants are poppy seed capsules or pomegranates, there is some consensus that both were depicted in ancient reliefs. [^ref4]
+Another notable example of this valorization comes from Anatolia during the Mycenaean period of two gold pins resembling dried poppy capsules from the Robert Schimmel collection in the Metropolitan Museum of Art in New York. While scholars disagree about whether these bulbous single-stemmed plants are poppy seed capsules or pomegranates, there is some consensus that both were depicted in ancient reliefs. [^ref3]
        
 <param ve-image
        url="https://images.metmuseum.org/CRDImages/an/original/sd1989_281_14,15.jpg"
@@ -98,7 +90,17 @@ Another notable example of this valorization comes from Anatolia during the Myce
 	title="Mycenaean Greece"
        	aliases="Mycenaean period">
 
-## New Geographies and Meanings
+Greek culture was significantly influential to Roman life. Within the same worship of deities, the Roman empire continued using poppies in their daily and religious life. Philosophers like Cato the Elder and Pliny the Elder protected Roman traditions like the ritual use of poppies and even included poppies as an ingredient in recipes. During the classic age, statuettes of maidens were found holding the heads of poppies as symbolic of fertility. The same region surrounding the Mediterranean popularized the cultivation and use of poppies.
+
+The spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.[^ref4] It would only be in the 16th century that opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” In [*The Wild Garden; Or, Our Groves & Shrubberies Made Beautiful by the Naturalization of Hardy Exotic Plants*](https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed) (1870), author and practicing gardener William Robinson described *Papaver somniferum* as able to “grow[ing] in any soil.”
+
+<param ve-iframe
+	src="https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed">
+       
+<param ve-entity eid="Q4992239" title="William Robinson"
+	src="https://en.wikipedia.org/w/index.php?title=William_Robinson_(gardener)&oldid=1131934468">
+
+## Movement Across Eurasia 
  
 During the Holy Inquisition, use of anything related to the East was banned including the use of the opium poppy. From the 12th to the 15th century, Western Europe opposed any Eastern influence. Meanwhile, India, the Middle East, and China participated in the naturalization of the opium poppy. Arab traders are thought to have spread the opium poppy to Tang Dynasty China, where opium was integrated into various medicinal concoctions and dietary recipes. [^ref5] Integration of opium poppies into diet and medicine originated in Southern China and its countryside, where Buddhist monasteries often concocted remedies for ailments related to the throat and stomach and spread recipes to rural neighborhoods. Despite 17th-century European writings promoting the hardiness of the poppy plant, in 1061, Su Song writes that, “[Poppies] are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.” [^ref6]
 
@@ -182,11 +184,12 @@ As the opium poppy developed into a household drug, its role within the politica
 	initial-zoom="1"
 	height="750">                            
 
-This question of morality was heightened by the use of British India to fuel this drug trade. The East India Company managed opium poppy plantations across India, but sold off the product to private merchants to transport to China, increasingly disconnecting the opium poppy plant from the drug product it provided.[^ref10] 
+This question of morality was heightened by the drug trade being fueled in British India. The East India Company sought to monopolize opium production in India from the 1770s onwards and by the 19th century managed opium poppy plantations across the country.[^ref10]  THowever, they sold off the product to private merchants to transport to China, increasingly disconnecting the opium poppy plant from the drug product it provided.[^ref11] 
+
 <param ve-entity eid="Q83164" title="East India Company">
 <param ve-map title="Patna, India, home to one of the East India Company's Opium Factories" center="25.59811319723597, 85.13548677858626" zoom="9" prefer-geojson>
 
-Archival records held at The Royal Botanic Gardens, Kew display the role of the institution in this colonial network of trade, describing "Experimental Poppy Gardens" in India, which sought to examine methods of poppy cultivation, including diseases and soil conditions impacting the plants and the yield of opium they produced.[^ref11] The opium poppy was considered a "useful plant", and a whole volume entitled "India: Economic Products: Opium" is dedicated to it in the Miscellaneous Reports of Kew, which record activities in the network of botanical gardens across the British Empire. As an ‘economic product’ of financial value whose cultivation was regulated by the East India Company, it is clear that the opium poppy was of interest in the context of colonial economic botany in the nineteenth century. 
+Archival records held at The Royal Botanic Gardens, Kew display the role of the institution in this colonial network of trade, describing "Experimental Poppy Gardens" in India, which sought to examine methods of poppy cultivation, including diseases and soil conditions impacting the plants and the yield of opium they produced.[^ref12] The opium poppy was considered a "useful plant", and a whole volume entitled "India: Economic Products: Opium" is dedicated to it in the Miscellaneous Reports of Kew, which record activities in the network of botanical gardens across the British Empire. As an ‘economic product’ of financial value whose cultivation was regulated by the East India Company, it is clear that the opium poppy was of interest in the context of colonial economic botany in the nineteenth century. 
 <param ve-entity eid="Q188617" title="Kew">
 <param ve-image 
        url="MR146_India_Opium_Spine.jpg"
@@ -204,7 +207,7 @@ Joseph Hooker, later director of Kew Gardens between 1865 and 1885, visited the 
 
 ## Literary Inspiration, Dreams, and Addiction
 
-While Britain waged war with China over the trade of the opium poppy’s valuable drug product, within Britain itself, opium’s reputation as a source of artistic inspiration and creative dreams grew to influence the work of many poets of the Romantic period. Samuel Taylor Coleridge  described his poem [*Kubla Khan*](https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52) as "a fragment [...] composed in a sort of Reverie brought on by two grains of opium". Recording similar experiences of the inspirational effect of opium, Thomas De Quincey writes in his [*Confessions of an English Opium Eater*](https://books.google.co.uk/books?id=POREAAAAYAAJ&newbks=0&pg=PA3) (1821) that "[i]f opium-eating be a sensual pleasure, [...] I am bound to confess that I have indulged in it to an excess, not yet recorded of any other man". The poppy is also explicitly associated with femininity in J. J. Grandville’s [*Les Fleurs Animées*](https://www.biodiversitylibrary.org/page/309170) (1847), which includes an image of a poppy humanized in the form of a woman sprinkling poppy seeds from the seedpods onto insects.
+While Britain waged war with China over the trade of the opium poppy’s valuable drug product, within Britain itself, opium’s reputation as a source of artistic inspiration and creative dreams grew to influence the work of many poets of the Romantic period. Samuel Taylor Coleridge  described his poem [*Kubla Khan*](https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52) as "a fragment [...] composed in a sort of Reverie brought on by two grains of opium". Recording similar experiences of the inspirational effect of opium, Thomas De Quincey writes in his [*Confessions of an English Opium Eater*](https://books.google.co.uk/books?id=POREAAAAYAAJ&newbks=0&pg=PA3) (1821) that "[i]f opium-eating be a sensual pleasure, [...] I am bound to confess that I have indulged in it to an excess, not yet recorded of any other man". De Quincey’s autobiographical account would later inspire the 1962 American crime film, Confessions of an Opium Eater. This demonstrates the long-lasting mystique of opium in both literature and cinema, with novels such as Amitav Ghosh’s Sea of Poppies (2008) continuing this into the 21st century. The poppy is also explicitly associated with femininity in J. J. Grandville’s [*Les Fleurs Animées*](https://www.biodiversitylibrary.org/page/309170) (1847), which includes an image of a poppy humanized in the form of a woman sprinkling poppy seeds from the seedpods onto insects, with the petals appearing like an upturned dress.
 <param ve-entity eid="Q82409" title="Samuel Taylor Coleridge">
 <param ve-entity eid="Q317160" title="Thomas De Quincey">
 <param ve-entity eid="Q744442" title= "J. J. Grandville" aliases="J. J. Grandville’s">
@@ -233,7 +236,7 @@ Opium is alluded to, mentioned, and used in the works of a variety of other prom
        license="public domain"
        region="-248,113,1778,1414">
 			                                      
-However, as opium became entwined with the indulgence and decadence of the fin de siècle, the drug was also increasingly being associated with racist concepts of degeneration. In his book [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that "[a] race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants". The opium poppy became intertwined with international wars and racialized concerns about harmful addiction, forewarning of the sharp downturn of its reputation in the 20th century. 
+However, as opium became entwined with the indulgence and decadence of the fin de siècle, the drug was also increasingly being associated with racist concepts of degeneration. In his book [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that "[a] race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants". Following The Opium Wars and increased consumption of opium in the West, these racialized stereotypes about harmful addiction in China became widespread, forewarning of the sharp downturn of the opium poppy’s reputation in the 20th century.  
 <param ve-entity eid="Q265581" title="fin de siècle">
 <param ve-entity eid="Q472270" title="Max Nordau">
 <param ve-image
@@ -243,7 +246,7 @@ However, as opium became entwined with the indulgence and decadence of the fin d
        license="Image used with permission of the Board of Trustees of the Royal Botanic Gardens, Kew"
        fit="contain">
 
-Yet the opium poppy continued to be depicted as a flower of beauty, not always directly associated with the drug it produced; Marianne North, a botanical artist whose extensive paintings are displayed in the gallery she built in the Royal Botanic Gardens, Kew, painted the [opium poppy](https://artuk.org/discover/artworks/foliage-flowers-and-seed-vessel-of-the-opium-poppy-87954/search/keyword:marianne-opium--referrer:global-search) with emphasis on a seedpod in the foreground, unscarred and untouched.
+Yet the opium poppy continued to be depicted as a flower of beauty, not always directly associated with the drug it produced; Marianne North, a botanical artist whose extensive paintings are displayed in the gallery she built in the Royal Botanic Gardens, Kew, painted the [opium poppy](https://artuk.org/discover/artworks/foliage-flowers-and-seed-vessel-of-the-opium-poppy-87954/search/keyword:marianne-opium--referrer:global-search) with emphasis on a seedpod in the foreground, unscarred and untouched. Artistic representations of opium poppies continually accentuate the vibrant colors of the petals which form large yet delicate flowers, but also the distinctive shape of the seedpod, all contributing to the association of opium poppies with floral beauty.
 
 <param ve-entity eid="Q271648" title="Marianne North">
 <param ve-image
