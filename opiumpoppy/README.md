@@ -225,7 +225,7 @@ While Britain waged war with China over the trade of the opium poppy’s valuabl
        description="Illustration of humanized poppy by J.J. Grandville (1847)"
        license="public domain">  
                               
-Later in the century, opium continued to play a role both in the inspiration and content of literary works. One such example was Wilkie Collins’s bestselling sensationalist novel *The Moonstone* (1868). "A novel written about an experiment with opium written under the influence of opium", it centers on a mysterious theft unknowingly performed while sleepwalking under the influence of opium, and Collins’s own opium addiction reflects that of his character Ezra Jennings.[^ref12] 
+Later in the century, opium continued to play a role both in the inspiration and content of literary works. One such example was Wilkie Collins’s bestselling sensationalist novel *The Moonstone* (1868). "A novel written about an experiment with opium written under the influence of opium", it centers on a mysterious theft unknowingly performed while sleepwalking under the influence of opium, and Collins’s own opium addiction reflects that of his character Ezra Jennings.[^ref13] 
 <param ve-iframe
 	src="https://archive.org/embed/harpersweeklyv12bonn/page/n466"> 
 
@@ -256,7 +256,7 @@ Yet the opium poppy continued to be depicted as a flower of beauty, not always d
        license="CC BY-NC 4.0"
        region="-269,105,1347,1072">	
 
-The 19th century opened and closed with significant developments in the production of medicinal and recreational substances from the opium poppy. Morphine, the first drug isolated from the plant, was first produced in 1804, while 1895 saw the first commercial production of heroin from chemically processed morphine by German pharmaceutical company Bayer, who named it thus because it was seen to have "heroic effects" on users.[^ref13] With the peak in opium production occurring around the early 20th century, the trade came under greater global scrutiny. The International Opium Convention in 1912 led to a worldwide ban on trading opium, morphine and cocaine, and since then morphine and some other opiates have remained in use as pain relievers, but continue to be illegal for recreational use.
+The 19th century opened and closed with significant developments in the production of medicinal and recreational substances from the opium poppy. Morphine, the first drug isolated from the plant, was first produced in 1804, while 1895 saw the first commercial production of heroin from chemically processed morphine by German pharmaceutical company Bayer, who named it thus because it was seen to have "heroic effects" on users.[^ref14] With the peak in opium production occurring around the early 20th century, the trade came under greater global scrutiny. The International Opium Convention in 1912 led to a worldwide ban on trading opium, morphine and cocaine, and since then morphine and some other opiates have remained in use as pain relievers, but continue to be illegal for recreational use.
 <param ve-entity eid="Q81225" title="Morphine">
 <param ve-entity eid="Q152051" title="Bayer">
 <param ve-entity eid="Q751398" title="International Opium Convention">
@@ -322,21 +322,25 @@ Curiously, the eyes of the pilots had to direct their gazes to the beauty of the
 ## References			  
 
 [^ref1]: Salavert, A., Zazzo, A., Martin, L. et al. Direct dating reveals the early history of opium poppy in western Europe. Sci Rep 10, 20263 (2020). https://doi.org/10.1038/s41598-020-76924-3.
-[^ref2]: See William Robinson, The Wild Garden Or, “Our Grove and Shrubberies Made Beautiful By The Naturalization of Hardy Exotic Plants: With A Chapter On The Garden of British Wild Flowers” (London: John Murray), 1870. 1st edition; See William Robinson, The English Flower Garden and Home Grounds of Hardy Trees and Flowers Only (London: John Murray), 1933. 11th Edition.
+[^ref2]: Eleusis, Journal of Psychoactive Plants and Compounds New Series, 2002-2003. 6/7   Pgs. 71-82. http://www.artepreistorica.com/2010/01/sacred-opium-botany-in-daunia-italy-from-the-7-to-6-centuries-bc/.
 [^ref3]: M. D. Merlin. “Archaeological Evidence for the Tradition of Psychoactive Plant Use in the Old World.” Economic Botany 57, no. 3 (2003): 295–323. http://www.jstor.org/stable/4256701.
-[^ref4]: Eleusis, Journal of Psychoactive Plants and Compounds New Series, 2002-2003. 6/7   Pgs. 71-82. http://www.artepreistorica.com/2010/01/sacred-opium-botany-in-daunia-italy-from-the-7-to-6-centuries-bc/.
-[^ref5]: Derks, Hans. “THE ‘VIOLENT OPIUM COMPANY’ (VOC) IN THE EAST.” In History of the Opium Problem: The Assault on the East, ca. 1600-1950, 105:189–238. Brill, 2012. http://www.jstor.org/stable/10.1163/j.ctv4cbhdf.18.
-[^ref6]: Zheng, Yangwen. “The Social Life of Opium in China, 1483-1999.” Modern Asian Studies 37, no. 1 (2003): 5. http://www.jstor.org/stable/3876550.
+[^ref4]: See William Robinson, The Wild Garden Or, “Our Grove and Shrubberies Made Beautiful By The Naturalization of Hardy Exotic Plants: With A Chapter On The Garden of British Wild Flowers” (London: John Murray), 1870. 1st edition; See William Robinson, The English Flower Garden and Home Grounds of Hardy Trees and Flowers Only (London: John Murray), 1933. 11th Edition.
+[^ref5]: Zheng, Yangwen. “The Social Life of Opium in China, 1483-1999.” Modern Asian Studies 37, no. 1 (2003): 5. http://www.jstor.org/stable/3876550.
+[^ref6]: Derks, Hans. “THE ‘VIOLENT OPIUM COMPANY’ (VOC) IN THE EAST.” In History of the Opium Problem: The Assault on the East, ca. 1600-1950, 105:189–238. Brill, 2012. http://www.jstor.org/stable/10.1163/j.ctv4cbhdf.18.
 [^ref7]: Derks, ‘VIOLENT OPIUM COMPANY.’
 [^ref8]: Basilius Bessler, Hortus Eystettensis, 1713. 2nd Edition.
 [^ref9]: Andrew Lack. Poppy. London: Reaktion Books, 2016, p. 145-6 
-[^ref10]: Julia Lovell. The Opium War: Drugs, Dreams and the Making of China. London: Pan Macmillan, 2011, p. 2.
-[^ref11]: Royal Botanic Gardens Kew Archives, Miscellaneous Reports, MCR/5/1/45, India: Economic Products: Opium, f. 209.
-[^ref12]: Sandra Kemp, Introduction to The Moonstone, by Wilkie Collins, London: Penguin, 1998. 
-[^ref13]: Andrew Lack. Poppy. London: Reaktion Books, 2016, p. 134-5.
-[^ref14]: Jose Roca, Sylvia Suarez. Transpolitico: arte en Colombia 1992-2012, Transpolitical: Art in Colombia 1992-2012 (Bilingual Edition). Barcelona: Lunwerg, 2012. 
-[^ref15]: Kristina Marie Lyons, Decomposition as Life Politics: Soils, Selva, and Small Farmers under the Gun of the U.S.–Colombia War on Drugs.” Cultural Anthropology 31, (2015) no. 1: 56–81.
-[^ref16]: James M Shultz, Angela Milena Gómez Ceballos, Zelde Espinel, Sofia Rios Oliveros, Maria Fernanda Fonseca & Luis Jorge Hernandez Florez (2014) Internal Displacement in Colombia, Disaster Health, 2:1, 13-24.
+[^ref10]: Om Prakash, ‘Opium monopoly in India and Indonesia in the eighteenth century.’ The Indian Economic & Social History Review, 24 (1987) 63–80 (p. 66)
+[^ref11]: Julia Lovell. The Opium War: Drugs, Dreams and the Making of China. London: Pan Macmillan, 2011, p. 2.
+[^ref12]: Royal Botanic Gardens Kew Archives, Miscellaneous Reports, MCR/5/1/45, India: Economic Products: Opium, f. 209.
+[^ref13]: Sandra Kemp, Introduction to The Moonstone, by Wilkie Collins, London: Penguin, 1998. 
+[^ref14]: Andrew Lack. Poppy. London: Reaktion Books, 2016, p. 134-5.
+[^ref15]: Jose Roca, Sylvia Suarez. Transpolitico: arte en Colombia 1992-2012, Transpolitical: Art in Colombia 1992-2012 (Bilingual Edition). Barcelona: Lunwerg, 2012. 
+[^ref16]: Kristina Marie Lyons, Decomposition as Life Politics: Soils, Selva, and Small Farmers under the Gun of the U.S.–Colombia War on Drugs.” Cultural Anthropology 31, (2015) no. 1: 56–81.
+[^ref17]: World Drug Report 2020, Vol. 3 Drug Supply (2020), p. 9.
+[^ref18]: Hermann Kreutzmann, ‘Afghanistan and the Opium World Market: Poppy Production and Trade’, Iranian Studies, 40 (2007), 605-621 (p. 605)
+[^ref19]: ‘Opium Cultivation in Afghanistan: Latests findings and emerging threats’, UNODC Research Brief November 2022
+[^ref20]: James M Shultz, Angela Milena Gómez Ceballos, Zelde Espinel, Sofia Rios Oliveros, Maria Fernanda Fonseca & Luis Jorge Hernandez Florez (2014) Internal Displacement in Colombia, Disaster Health, 2:1, 13-24.
 
 			  
 https://juncture-digital.org/hrcraddock/plants/opiumpoppy/
