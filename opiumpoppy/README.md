@@ -207,10 +207,9 @@ Joseph Hooker, director of Kew Gardens between 1865 and 1885, visited the opium 
 
 ## Literary Inspiration, Dreams, and Addiction
 
-While Britain waged war with China over the trade of the opium poppy’s valuable drug product, within Britain itself, opium’s reputation as a source of artistic inspiration and creative dreams grew to influence the work of many poets of the Romantic period. Samuel Taylor Coleridge  described his poem [*Kubla Khan*](https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52) as "a fragment [...] composed in a sort of Reverie brought on by two grains of opium". Recording similar experiences of the inspirational effect of opium, Thomas De Quincey writes in his [*Confessions of an English Opium Eater*](https://books.google.co.uk/books?id=POREAAAAYAAJ&newbks=0&pg=PA3) (1821) that "[i]f opium-eating be a sensual pleasure, [...] I am bound to confess that I have indulged in it to an excess, not yet recorded of any other man". The poppy is also explicitly associated with femininity in J. J. Grandville’s [*Les Fleurs Animées*](https://www.biodiversitylibrary.org/page/309170) (1847), which includes an image of a poppy humanized in the form of a woman sprinkling poppy seeds from the seedpods onto insects, with the petals appearing like an upturned dress.
+While Britain waged war with China over the trade of the opium poppy’s valuable drug product, within Britain itself, opium’s reputation as a source of artistic inspiration and creative dreams grew to influence the work of many poets of the Romantic period. Samuel Taylor Coleridge  described his poem [*Kubla Khan*](https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA52) as "a fragment [...] composed in a sort of Reverie brought on by two grains of opium". Recording similar experiences of the inspirational effect of opium, Thomas De Quincey writes in his [*Confessions of an English Opium Eater*](https://books.google.co.uk/books?id=POREAAAAYAAJ&newbks=0&pg=PA3) (1821) that "[i]f opium-eating be a sensual pleasure, [...] I am bound to confess that I have indulged in it to an excess, not yet recorded of any other man". 
 <param ve-entity eid="Q82409" title="Samuel Taylor Coleridge">
 <param ve-entity eid="Q317160" title="Thomas De Quincey">
-<param ve-entity eid="Q744442" title= "J. J. Grandville" aliases="J. J. Grandville’s">
 <param ve-image
        url="Coleridge.jpg"
        label="Kubla Khan manuscript by Samuel Taylor Coleridge, completed in 1797"
@@ -218,25 +217,37 @@ While Britain waged war with China over the trade of the opium poppy’s valuabl
        license="public domain"
        region="140,977,597,475">
 <param ve-iframe
-	src="https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA55&output=embed">
-<param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Les_fleurs_animees_BHL15481312.jpg"
-       label="'Pavot', illustration of a humanized poppy by J.J. Grandville, 1847"
-       description="Illustration of humanized poppy by J.J. Grandville (1847)"
-       license="public domain">  
+	src="https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA55&output=embed">         
                               
 Opium continued to play a role both in the inspiration and content of literary works into the late nineteenth century. One such example is Wilkie Collins’s bestselling sensationalist novel *The Moonstone* (1868). "A novel written about an experiment with opium written under the influence of opium", it centers on a mysterious theft unknowingly performed while a sleepwalker is under the influence of opium.[^ref13] 
 <param ve-iframe
 	src="https://archive.org/embed/harpersweeklyv12bonn/page/n466"> 
 
-Opium is alluded to, mentioned, and used in the works of various prominent Victorian novelists, including Oscar Wilde ([*The Picture of Dorian Gray*] (https://www.google.co.uk/books/edition/The_Picture_of_Dorian_Gray/w9A98UIGNMAC?hl=en&gbpv=1&pg=PA238)), Charles Dickens ([*Oliver Twist*](https://books.google.co.uk/books?id=Vz8JAAAAQAAJ&newbks=0&pg=RA2-PA72)), Jules Verne ([*Around the World in Eighty Days*](https://books.google.co.uk/books?id=oqw5AQAAIAAJ&newbks=0&dq=around%20the%20world%20in%2080%20days%20book&pg=PA144)), Bram Stoker ([*Dracula*](https://books.google.co.uk/books?id=3BoZEAAAQBAJ&newbks=0&lpg=PP1&pg=PT193)), and Arthur Conan Doyle ([*Sherlock Holmes*](https://books.google.co.uk/books?id=3BoZEAAAQBAJ&newbks=0&lpg=PP1&pg=PT193)). In Frank Baum’s [*The Wonderful Wizard of Oz*](https://books.google.co.uk/books?id=UzmIDwAAQBAJ&newbks=0&lpg=PP1&dq=the%20wonderful%20wizard%20of%20oz&pg=PP1) (1900), the scent of opium poppies puts Dorothy to sleep in the chapter entitled "The Deadly Poppy Field," with some editions of the text portraying these as vivid red poppies on the front cover. Thomas De Quincey’s nineteenth century autobiographical account inspired the 1962 American crime film, *Confessions of an Opium Eater*. The long-lasting mystique of opium in both literature and cinema has continued into the twenty-first century with novels such as Amitav Ghosh’s *Sea of Poppies* (2008) as well as his more recent history of opium, *Smoke and Ashes* (2024).
+Opium is alluded to, mentioned, and used in the works of many other prominent Victorian novelists, including Oscar Wilde ([*The Picture of Dorian Gray*] (https://www.google.co.uk/books/edition/The_Picture_of_Dorian_Gray/w9A98UIGNMAC?hl=en&gbpv=1&pg=PA238)), Charles Dickens ([*Oliver Twist*](https://books.google.co.uk/books?id=Vz8JAAAAQAAJ&newbks=0&pg=RA2-PA72)), Jules Verne ([*Around the World in Eighty Days*](https://books.google.co.uk/books?id=oqw5AQAAIAAJ&newbks=0&dq=around%20the%20world%20in%2080%20days%20book&pg=PA144)), Bram Stoker ([*Dracula*](https://books.google.co.uk/books?id=3BoZEAAAQBAJ&newbks=0&lpg=PP1&pg=PT193)), and Arthur Conan Doyle ([*Sherlock Holmes*](https://books.google.co.uk/books?id=3BoZEAAAQBAJ&newbks=0&lpg=PP1&pg=PT193)). The poppy is also explicitly associated with femininity in J. J. Grandville’s [*Les Fleurs Animées*](https://www.biodiversitylibrary.org/page/309170) (1847), which includes an image of a poppy humanized in the form of a woman sprinkling poppy seeds from the seedpods onto insects, with the petals appearing like an upturned dress.
+<param ve-entity eid="Q744442" title= "J. J. Grandville" aliases="J. J. Grandville’s">
+<param ve-image
+url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Les_fleurs_animees_BHL15481312.jpg"
+       label="'Pavot', illustration of a humanized poppy by J.J. Grandville, 1847"
+       description="Illustration of humanized poppy by J.J. Grandville (1847)"
+       license="public domain">
+
+Marianne North (1830-1890), a botanical artist whose extensive paintings are displayed in the gallery she built in the Royal Botanic Gardens, Kew, painted the [opium poppy](https://artuk.org/discover/artworks/foliage-flowers-and-seed-vessel-of-the-opium-poppy-87954/search/keyword:marianne-opium--referrer:global-search) with emphasis on a seedpod in the foreground, unscarred and untouched. Artistic representations of opium poppies continually accentuate the vibrant colors of the petals which form large yet delicate flowers, but also the distinctive shape of the seedpod, all contributing to the association of opium poppies with floral beauty.
+<param ve-entity eid="Q271648" title="Marianne North">
+<param ve-image
+       url="MarianneNorth.jpg"
+       label="Foliage, Flowers and Seed-Vessel of the Opium Poppy"
+       description="Painting by Marianne North"
+       license="CC BY-NC 4.0"
+       region="-269,105,1347,1072">
+
+The plant’s influence continued into the twentieth century with Frank Baum’s [*The Wonderful Wizard of Oz*](https://books.google.co.uk/books?id=UzmIDwAAQBAJ&newbks=0&lpg=PP1&dq=the%20wonderful%20wizard%20of%20oz&pg=PP1) (1900), in which the scent of opium poppies puts Dorothy to sleep in the chapter entitled "The Deadly Poppy Field," and the covers of some editions of the text portray vivid red poppies. Thomas De Quincey’s nineteenth century autobiographical account inspired the 1962 American crime film, *Confessions of an Opium Eater*. The long-lasting mystique of opium in both literature and cinema has continued into the twenty-first century with novels such as Amitav Ghosh’s *Sea of Poppies* (2008) as well as his more recent history of opium, *Smoke and Ashes* (2024).
 <param ve-image
        url="Wizard_oz.jpeg"
        label="Cover of The Wonderful Wizard of Oz by Frank Baum"
        license="public domain"
        region="-248,113,1778,1414">
 			                                      
-However, as opium became entwined with the indulgence and decadence of the fin de siècle, the drug was also increasingly being associated with racist concepts of degeneration. In his book [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that "[a] race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants". Following The Opium Wars and increased consumption of opium in the West, these racialized stereotypes about harmful addiction in China became widespread, forewarning of the sharp downturn of the opium poppy’s reputation in the 20th century.  
+However, as opium became entwined with the indulgence and decadence of the fin de siècle, the drug was also increasingly being associated with racist concepts of degeneration. In his book [*Degeneration*](https://books.google.co.uk/books?id=9yWihGl1EFUC&newbks=0&pg=PA34) (1895), Max Nordau writes of the impact of addiction to such substances as opium on the development of societies, suggesting that "[a] race which is regularly addicted, even without excess, to narcotics and stimulants in any form (such as […] opium) […] begets degenerate descendants". Following The Opium Wars and increased consumption of opium in the West, these racialized stereotypes about harmful addiction in China became widespread, forewarning of the sharp downturn of the opium poppy’s reputation in the twentieth century.  
 <param ve-entity eid="Q265581" title="fin de siècle">
 <param ve-entity eid="Q472270" title="Max Nordau">
 <param ve-image
@@ -244,19 +255,9 @@ However, as opium became entwined with the indulgence and decadence of the fin d
        label="Apparatus for Opium Smoking, from RBG, Kew's Economic Botany Collection"
        description="Consists of a tray, knife, scrapers, and pots."
        license="Image used with permission of the Board of Trustees of the Royal Botanic Gardens, Kew"
-       fit="contain">
+       fit="contain">	
 
-Yet the opium poppy continued to be depicted as a flower of beauty, not always directly associated with the drug it produced; Marianne North, a botanical artist whose extensive paintings are displayed in the gallery she built in the Royal Botanic Gardens, Kew, painted the [opium poppy](https://artuk.org/discover/artworks/foliage-flowers-and-seed-vessel-of-the-opium-poppy-87954/search/keyword:marianne-opium--referrer:global-search) with emphasis on a seedpod in the foreground, unscarred and untouched. Artistic representations of opium poppies continually accentuate the vibrant colors of the petals which form large yet delicate flowers, but also the distinctive shape of the seedpod, all contributing to the association of opium poppies with floral beauty.
-
-<param ve-entity eid="Q271648" title="Marianne North">
-<param ve-image
-       url="MarianneNorth.jpg"
-       label="Foliage, Flowers and Seed-Vessel of the Opium Poppy"
-       description="Painting by Marianne North"
-       license="CC BY-NC 4.0"
-       region="-269,105,1347,1072">	
-
-The 19th century opened and closed with significant developments in the production of medicinal and recreational substances from the opium poppy. Morphine, the first drug isolated from the plant, was first produced in 1804, while 1895 saw the first commercial production of heroin from chemically processed morphine by German pharmaceutical company Bayer, who named it thus because it was seen to have "heroic effects" on users.[^ref14] With the peak in opium production occurring around the early 20th century, the trade came under greater global scrutiny. The International Opium Convention in 1912 led to a worldwide ban on trading opium, morphine and cocaine, and since then morphine and some other opiates have remained in use as pain relievers, but continue to be illegal for recreational use.
+The nineteenth century opened and closed with significant developments in the production of medicinal and recreational substances from the opium poppy. Morphine, the first drug isolated from the plant, was first produced in 1804. In 1895, German pharmaceutical company Bayer was responsible for the first commercial production of heroin from chemically processed morphine, and named it thus because it was seen to have "heroic effects" on users.[^ref14] With the peak in opium production occurring around the early twentieth century, the trade came under greater global scrutiny. The International Opium Convention in 1912 led to a worldwide ban on trading opium, morphine, and cocaine. Since then, morphine and some other opiates have remained in use as pain relievers, but continue to be illegal for recreational use.
 <param ve-entity eid="Q81225" title="Morphine">
 <param ve-entity eid="Q152051" title="Bayer">
 <param ve-entity eid="Q751398" title="International Opium Convention">
