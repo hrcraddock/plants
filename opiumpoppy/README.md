@@ -8,6 +8,7 @@
        
 ## Poppies: An Oscillating Symbol
 The opium poppy is one of many species in the poppy family (*Papaveraceae*), including *Papaver somniferum* (opium poppy), *Papaver rhoeas* (common or corn poppy), and *Papaver orientale* (oriental poppy). The opium poppy has a long history of human cultivation and coevolution. Writers, artists and artisans, horticulturalists, pharmacists, scientists, chefs, and narcotics dealers have engaged with the plant since antiquity. Originally used and revered by humans medicinally and religiously in the Middle East, the opium poppy became an object of aesthetic beauty in Europe and was later racialized through the Opium Wars in the 19th century. While opium poppies have had a historic relationship with people as a drug, they have also been a subject of visual culture from the Neolithic era to the present day. As a recreational drug, opium has been a tool for artistic inspiration but also an addictive substance that has warranted attempts at wholesale eradication of poppy cultivation. Today, opium poppies are still grown for their flowers but are firmly associated with corruption due to their role in the illegal drug industry in South America and Afghanistan, where the poppies are mass produced for the seed capsules that hold the drug opium. The condemnation of the opium poppy occurred after centuries of shifting attitudes towards the plant, oscillating between a symbol of beauty and a blight on civilizations in different spaces, time periods, and cultural contexts. 
+
 <param ve-entity eid="Q220984" title="Opium Wars">
 <param ve-image
        url="Besler_Poppy3.jpg"
@@ -30,17 +31,7 @@ Poppies, like most plants we know today, were domesticated and have coevolved to
        
 ## Divine Remedies
  
-During the early Neolithic, the opium poppy was the only oily plant cultivated in the western Mediterranean. The poppy's flower had yet to make much of an entrance into popular culture until the spread of the Roman empire (6 B.C.E. - 473 C.E), when barley and poppy were both associated with “Persephone and the promise of perpetual rebirth,” the Minoan goddess of poppies, and Demeter/Isis, goddess of agriculture. [^ref3] 
-
-<param ve-entity 
-       eid="Q194270"
-       title="Hallucinogens" 
-       aliases="hallucinogenic effects">
-
-<param ve-entity 
-       eid="Q40203"
-       title= "Paleolithic"
-       aliases= "Paleolithic Era">
+During the early Neolithic, the opium poppy was the only oily plant cultivated in the western Mediterranean. The poppy's flower had yet to make much of an entrance into popular culture until the spread of the Roman empire (6 B.C.E. - 473 C.E), when barley and poppy were both associated with “Persephone and the promise of perpetual rebirth,” the Minoan goddess of poppies, and Demeter/Isis, goddess of agriculture.[^ref3] 
        
 <param ve-entity
        eid="Q45967"
@@ -72,7 +63,7 @@ During the early Neolithic, the opium poppy was the only oily plant cultivated i
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/4/45/Terracottas_from_Gazi_in_AM_Heraklion%2C_1300-1100_BC%2C_145278.jpg"
        label="Terracottas from Gazi in AM Heraklion, 1300-1100 BC"
-       description="This collection of terracottas depict iterations of the Minoan Poppy Goddes, as indicated by their crowns covered in upright poppy capsules."
+       description="This collection of terracottas depict iterations of the Minoan Poppy Goddess, as indicated by their crowns covered in upright poppy capsules."
        license="public domain"
        fit="contain">
  
@@ -84,15 +75,36 @@ Another notable example of the plant’s valorization comes from Anatolia during
        description="Hittite Empire (ca. 14-13 century BC), in Central Anatolia. From the Norbert Schimmel Collection on loan to the Metropolitan Museum. Courtesy of the Metropolitan Museum of Art."
        license="public domain"
        region="-138, 1, 690, 700">
-       
+
 <param ve-entity
 	eid="Q181264"
 	title="Mycenaean Greece"
        	aliases="Mycenaean period">
 
-Greek culture heavily influenced Roman life, especially during the classical antiquity period (8 B.C.E-5 A.D). Both Greek and Roman culture followed the same worship of deities and used poppies in daily and religious life. Philosophers like Cato the Elder and Pliny the Elder preserved Roman traditions like the ritual use of poppies and included poppies as an ingredient in recipes. During the classical age (the eighth century B.C.E. to the fifth century C.E.) in and around the Mediterranean sea, statuettes of maidens were found holding poppy capsules as symbolic of fertility. Modern-day Italy was central to the popularization and cultivation of poppies. 
+Greek culture heavily influenced Roman life, especially during the classical antiquity period (8 B.C.E-5 A.D). Both Greek and Roman culture followed the same worship of deities and used poppies in daily and religious life. Ceres, the Roman equivalent to Demeter, is often depicted with poppies, conveying poppies as symbols of agricultural fertility just like the Greeks. [^ref5] Philosophers like Cato the Elder and Pliny the Elder preserved Roman traditions like the ritual use of poppies and included poppies as an ingredient in recipes.[^ref6] In and around the Mediterranean sea, statuettes of maidens were found holding poppy capsules as symbolic of fertility. [^ref7] The area that is now modern-day Italy was central to the popularization and cultivation of poppies. 
 
-The spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.[^ref5] It would only be in the 16th century that opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” In [*The Wild Garden; Or, Our Groves & Shrubberies Made Beautiful by the Naturalization of Hardy Exotic Plants*](https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed) (1870), author and practicing gardener William Robinson described *Papaver somniferum* as able to “grow[ing] in any soil.”[^ref6]
+<param ve-image
+	url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Tellus_-_Ara_Pacis.jpg"
+ 	label="Tellus - Ara Pacis"
+  	description= "Saturnia Tellus is one of four reliefs of Ara Pacis. The central figure is likely Tellus (Earth), Venus Genetrix, or Pax (Peace), a Roman goddess, akin to Mother Earth. To the top right of the figure in low relief form are a bouquet of poppies, in addition to stalks of wheat in the background and a bull and lamb in the foreground."
+   	license="public domain">
+
+<param ve-entity
+	eid="Q486761"
+ 	title="Classical Antiquity"
+  	aliases="the classical antiquity period">
+
+<param ve-entity
+	eid="Q180081"
+ 	title="Cato the Elder"
+  	aliases="Cato the Elder">
+
+<param ve-entity
+	eid="Q82778"
+ 	title="Pliny the Elder"
+  	aliases="Pliny the Elder">
+
+The spread of the poppy itself needed careful monitoring via human intervention in order to naturalize and exist in differing environments, specifically outside of the Mediterranean temperate zones.[^ref8] It would only be in the 16th century that opium poppies could be found in books about “hardy flowers” or existing in “wild gardens.” In [*The Wild Garden; Or, Our Groves & Shrubberies Made Beautiful by the Naturalization of Hardy Exotic Plants*](https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed) (1870), author and practicing gardener William Robinson described *Papaver somniferum* as able to “grow[ing] in any soil.”[^ref9]
 
 <param ve-iframe
 	src="https://books.google.com/books?id=1IdaAAAAYAAJ&newbks=0&dq=wild%20gardens%20%20william%20robinson&pg=PA51&output=embed">
@@ -102,7 +114,7 @@ The spread of the poppy itself needed careful monitoring via human intervention 
 
 ## Movement Across Eurasia 
  
-The use of opium in Europe halted during the Holy Inquisition. Despite that, the opium poppy was transported across Eurasia by traders, merchants, physicians, and travelers. India, the Middle East, and China participated its naturalization; the Silk Road was especially conducive to the poppy’s naturalization, as people held onto poppies for medicine and trade. In 1061, the Chinese scholar Su Song writes that, “[Poppies] are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.”[^ref7] As a result of Arab traders, opium poppies were integrated into diet and medicine in Southern China and its countryside, where Buddhist monasteries concocted recipes for remedies for ailments related to the throat and stomach.[^ref8] During Tang Dynasty China (618–907), the Silk Road reached its zenith and because of its easy-entry and the development of other trading routes, recreational opium smoking rapidly spread.  In the late eighteenth century, opium became a major part of China’s sex industry.  
+The use of opium in Europe halted during the Holy Inquisition. Despite that, the opium poppy was transported across Eurasia by traders, merchants, physicians, and travelers. India, the Middle East, and China participated its naturalization; the Silk Road was especially conducive to the poppy’s naturalization, as people held onto poppies for medicine and trade. In 1061, the Chinese scholar Su Song writes that, “[Poppies] are hard to cultivate. They must be planted during the ninth month, in a piece of land which was manured the year before. If not cultivated in this way, it will never germinate.”[^ref10] Arab traders traveled through the Silk Road, speading opium poppies across Asia. Opium poppies were integrated into diet and medicine in Southern China and its countryside, where Buddhist monasteries concocted recipes for remedies for ailments related to the throat and stomach.[^ref11] During Tang Dynasty China (618–907), the Silk Road reached its zenith and because of its easy-entry and the development of other trading routes, recreational opium smoking rapidly spread.
 
 <param ve-image
 	url="https://iiif.wellcomecollection.org/image/V0043635ER/full/880%2C/0/default.jpg" 
@@ -114,8 +126,13 @@ The use of opium in Europe halted during the Holy Inquisition. Despite that, the
 <param ve-entity
        eid="Q1265657"
        title="Su Song">
+
+<param ve-entity
+	eid="Q9683"
+ 	title="Tang dynasty"
+	aliases="Tang Dynasty China">
  
-Century after century, social perceptions of the opium poppy have changed drastically, despite being useful as a medicinal drug throughout history. Meanwhile, both Asia and the Middle East took part in opium trading when Europe banned the use of Eastern products during the Holy Inquisition. In the sixteenth century, Paracelsus, a physician and scholar, repopularized the opium poppy as the drug “laudanum”, a tincture of opium with wine or water. It was then that European societies returned to using the opium poppy for medicine. In China, opium use became popular across classes, beginning in royal courts and rural regions and spreading to the working class. Other European nations considered Dutch sailors who smoked opium at the time,  “primitive people” for partaking.[^ref9]  By the nineteenth century, certain types of opium were prized commodities once again. Author and naturalist George Birdwood writes of Indian opium as “the luxury of the rich in China, as champagne is in Europe and America."[^ref10] Asian and Middle Eastern use of the morphine content in opium via smoking distinguished opium use from western use of opium through pills and tinctures. 
+Century after century, social perceptions of the opium poppy have changed drastically, despite being useful as a medicinal drug throughout history. Meanwhile, both Asia and the Middle East took part in opium trading when Europe banned the use of Eastern products during the Holy Inquisition. In the sixteenth century, Paracelsus, a physician and scholar, repopularized the opium poppy as the drug “laudanum”, a tincture of opium with wine or water. It was then that European societies returned to using the opium poppy for medicine. In China, opium use became popular across classes, beginning in royal courts and rural regions and spreading to the working class. In the late eighteenth century, opium became a major part of China’s sex industry. European nations considered Dutch sailors who smoked opium at the time,  “primitive people” for partaking.[^ref12]  By the nineteenth century, certain types of opium were prized commodities once again. Author and naturalist George Birdwood writes of Indian opium as “the luxury of the rich in China, as champagne is in Europe and America."[^ref13] Asian and Middle Eastern use of the morphine content in opium via smoking distinguished opium use from western use of opium through pills and tinctures. 
 
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_botanical_atlas_%28Plate_XIII%29_%287349116188%29.jpg"
@@ -123,6 +140,10 @@ Century after century, social perceptions of the opium poppy have changed drasti
        description="Barberry and Poppy Plate XIII, from The Botanical Atlas: a guide to the practical study of plants containing representatives of the leading forms of plant life with explanatory letterpress, 1883"
        license="public domain"
        fit="contain">
+
+<param ve-entity
+	eid="Q898739"
+ 	title="laudanum">
        
 <param ve-entity
        eid="Q83428"
@@ -130,7 +151,7 @@ Century after century, social perceptions of the opium poppy have changed drasti
  
 ## Rebranding: From Value in Aesthetics to a Household Drug
 
-While prehistoric and ancient depictions of opium poppies mostly referred to seed capsules and the dried seed heads of poppies, the poppy flower gained notoriety in the sixteenth and seventeenth centuries in aesthetics, including in botanical illustrations, floral arrangements, still lifes, and textiles. Illustrations of wild poppies, double red poppies, common poppies, feathery poppies, and annual poppies were common. During the Early Modern period (1500–1800), poppies were considered beautiful objects rather than functional tools for human use.[^ref11] Yet, they were still used as medicine, including for their sleep-inducing effects. 
+While prehistoric and ancient depictions of opium poppies mostly referred to seed capsules and the dried seed heads of poppies, the poppy flower gained notoriety in the sixteenth and seventeenth centuries in aesthetics, including in botanical illustrations, floral arrangements, still lifes, and textiles. Illustrations of wild poppies, double red poppies, common poppies, feathery poppies, and annual poppies were common. During the Early Modern period (1500–1800), poppies were considered beautiful objects rather than functional tools for human use.[^ref14] Yet, they were still used as medicine, including for their sleep-inducing effects. 
 <param ve-image
        url="French_School_Poppy.jpg"
        label="Papaver somniferum"
@@ -175,7 +196,7 @@ The nineteenth century saw a conflict between these concepts of the opium poppy:
        
 ## War and Colonialism
 
-As the opium poppy developed into a household drug, its role within the political conflicts of empire, trade, and regulation in the nineteenth century was epitomized in The Opium Wars (1839-1842 and 1856-1860). The opium poppy was connected to another primary economic plant of the period, tea, and the trade imbalance between Britain and China, with China accepting only silver in exchange for tea. The British response was to illegally smuggle Indian opium into China for payment in silver. [^ref12] Fraught discussions of the ‘Opium Question’ centered on the morality of the trade, considering the addictive properties of the drug, as well as Britain's financial dependence on opium. An 1882 edition of the [*Journal of the Society of Arts*](https://archive.org/details/journalofsociety30soci_0/page/200/mode/2up) records a discussion of this among members of the society including former Home Secretary Henry Bruce and doctor Sir John Rutherford Alcock, who lived in China for twenty years: "[T]here was a very painful impression on the minds of some persons as to the morality of this trade [...] many believed that this country [Britain] was not only importing on a large scale a pernicious drug into the most populous country of the world, but also compelling its introduction and use by force of arms."
+As the opium poppy developed into a household drug, its role within the political conflicts of empire, trade, and regulation in the nineteenth century was epitomized in The Opium Wars (1839-1842 and 1856-1860). The opium poppy was connected to another primary economic plant of the period, tea, and the trade imbalance between Britain and China, with China accepting only silver in exchange for tea. The British response was to illegally smuggle Indian opium into China for payment in silver. [^ref15] Fraught discussions of the ‘Opium Question’ centered on the morality of the trade, considering the addictive properties of the drug, as well as Britain's financial dependence on opium. An 1882 edition of the [*Journal of the Society of Arts*](https://archive.org/details/journalofsociety30soci_0/page/200/mode/2up) records a discussion of this among members of the society including former Home Secretary Henry Bruce and doctor Sir John Rutherford Alcock, who lived in China for twenty years: "[T]here was a very painful impression on the minds of some persons as to the morality of this trade [...] many believed that this country [Britain] was not only importing on a large scale a pernicious drug into the most populous country of the world, but also compelling its introduction and use by force of arms."
 <param ve-entity eid="Q6097" title="tea">
 <param ve-knightlab-timeline
 	source="15lvYjMlhf6M1xYvad7yTbj54DhRo3Flhi_1GlGm6Fhg"
@@ -184,19 +205,19 @@ As the opium poppy developed into a household drug, its role within the politica
 	initial-zoom="1"
 	height="750">                            
 
-This question of morality was heightened by the drug trade being fueled in British India. The East India Company sought to monopolize opium production in India from the 1770s onwards and by the nineteenth century managed opium poppy plantations across the country.[^ref13]  However, they sold off the product to private merchants to transport to China, increasingly disconnecting the opium poppy plant from the drug product it provided.[^ref14] 
+This question of morality was heightened by the drug trade being fueled in British India. The East India Company sought to monopolize opium production in India from the 1770s onwards and by the nineteenth century managed opium poppy plantations across the country.[^ref16]  However, they sold off the product to private merchants to transport to China, increasingly disconnecting the opium poppy plant from the drug product it provided.[^ref17] 
 
 <param ve-entity eid="Q83164" title="East India Company">
 <param ve-map title="Patna, India, home to one of the East India Company's Opium Factories" center="25.59811319723597, 85.13548677858626" zoom="9" prefer-geojson>
 
-Archival records and objects held at The Royal Botanic Gardens, Kew display the role of the institution in this colonial network of trade, describing "Experimental Poppy Gardens" in India that sought to examine methods of poppy cultivation, including disease and soil conditions impacting the plants and the yield of opium they produced.[^ref15] The opium poppy was considered a "useful plant", and a volume entitled "India: Economic Products: Opium" is dedicated to it in Kew’s Miscellaneous Reports, an archival collection which records activities in the network of botanical gardens across the British Empire. As an economic product of financial value whose cultivation was regulated by the East India Company, it is clear that the opium poppy was of interest in the context of nineteenth century colonial economic botany.
+Archival records and objects held at The Royal Botanic Gardens, Kew display the role of the institution in this colonial network of trade, describing "Experimental Poppy Gardens" in India that sought to examine methods of poppy cultivation, including disease and soil conditions impacting the plants and the yield of opium they produced.[^ref18] The opium poppy was considered a "useful plant", and a volume entitled "India: Economic Products: Opium" is dedicated to it in Kew’s Miscellaneous Reports, an archival collection which records activities in the network of botanical gardens across the British Empire. As an economic product of financial value whose cultivation was regulated by the East India Company, it is clear that the opium poppy was of interest in the context of nineteenth century colonial economic botany.
 <param ve-entity eid="Q188617" title="Kew">
 <param ve-image 
        url="MR146_India_Opium_Spine.jpg"
        label="India: Economic Products: Opium, from the Miscellaneous Reports of the Royal Botanic Gardens, Kew"
        description="MCR/5/1/45, India: Economic Products: Opium, Miscellaneous Reports, Archives of the Royal Botanic Gardens, Kew"> 
                               
-Joseph Hooker, director of Kew Gardens between 1865 and 1885, visited the opium manufactory in Patna in India in 1848. In his [*Himalayan Journals*](https://www.google.co.uk/books/edition/Himalayan_Journals/sCYKAQAAIAAJ?hl=en&gbpv=1&printsec=frontcover) Hooker gives an account of the process of cultivation and labor-intensive methods of extraction, from the granting of licenses from the East India Company, the flowering of the poppies in late January and early February, and the extraction of latex from the seed pods in February and March, to the transportation of the opium jars to stores and the creation of "balls" of opium by men working "ten hours a day" to be sent to market.[^ref16]
+Joseph Hooker, director of Kew Gardens between 1865 and 1885, visited the opium manufactory in Patna in India in 1848. In his [*Himalayan Journals*](https://www.google.co.uk/books/edition/Himalayan_Journals/sCYKAQAAIAAJ?hl=en&gbpv=1&printsec=frontcover) Hooker gives an account of the process of cultivation and labor-intensive methods of extraction, from the granting of licenses from the East India Company, the flowering of the poppies in late January and early February, and the extraction of latex from the seed pods in February and March, to the transportation of the opium jars to stores and the creation of "balls" of opium by men working "ten hours a day" to be sent to market.[^ref19]
 <param ve-entity eid="Q157501" title="Joseph Hooker">
 <param ve-image
        url="Stacking_room.jpg"
@@ -219,7 +240,7 @@ While Britain waged war with China over the trade of the opium poppy’s valuabl
 <param ve-iframe
 	src="https://books.google.co.uk/books?id=aMkNAAAAQAAJ&newbks=0&dq=christabel&pg=PA55&output=embed">         
                               
-Opium continued to play a role both in the inspiration and content of literary works into the late nineteenth century. One such example is Wilkie Collins’s bestselling sensationalist novel *The Moonstone* (1868). "A novel written about an experiment with opium written under the influence of opium", it centers on a mysterious theft unknowingly performed while a sleepwalker is under the influence of opium.[^ref17] 
+Opium continued to play a role both in the inspiration and content of literary works into the late nineteenth century. One such example is Wilkie Collins’s bestselling sensationalist novel *The Moonstone* (1868). "A novel written about an experiment with opium written under the influence of opium", it centers on a mysterious theft unknowingly performed while a sleepwalker is under the influence of opium.[^ref20] 
 <param ve-iframe
 	src="https://archive.org/embed/harpersweeklyv12bonn/page/n466"> 
 
@@ -257,7 +278,7 @@ However, as opium became entwined with the indulgence and decadence of the fin d
        license="Image used with permission of the Board of Trustees of the Royal Botanic Gardens, Kew"
        fit="contain">	
 
-The nineteenth century opened and closed with significant developments in the production of medicinal and recreational substances from the opium poppy. Morphine, the first drug isolated from the plant, was first produced in 1804. In 1895, German pharmaceutical company Bayer was responsible for the first commercial production of heroin from chemically processed morphine, and named it thus because it was seen to have "heroic effects" on users.[^ref18] With the peak in opium production occurring around the early twentieth century, the trade came under greater global scrutiny. The International Opium Convention in 1912 led to a worldwide ban on trading opium, morphine, and cocaine. Since then, morphine and some other opiates have remained in use as pain relievers, but continue to be illegal for recreational use.
+The nineteenth century opened and closed with significant developments in the production of medicinal and recreational substances from the opium poppy. Morphine, the first drug isolated from the plant, was first produced in 1804. In 1895, German pharmaceutical company Bayer was responsible for the first commercial production of heroin from chemically processed morphine, and named it thus because it was seen to have "heroic effects" on users.[^ref21] With the peak in opium production occurring around the early twentieth century, the trade came under greater global scrutiny. The International Opium Convention in 1912 led to a worldwide ban on trading opium, morphine, and cocaine. Since then, morphine and some other opiates have remained in use as pain relievers, but continue to be illegal for recreational use.
 <param ve-entity eid="Q81225" title="Morphine">
 <param ve-entity eid="Q152051" title="Bayer">
 <param ve-entity eid="Q751398" title="International Opium Convention">
@@ -273,7 +294,7 @@ Throughout the twentieth century, the poppy trade and trafficking and smuggling 
 
 At the end of the 20th century in Colombia, the opium poppy went from being an unknown plant to a metaphor for beauty, the hidden and the forbidden, as well as for consumption, excess and precariousness. Once it flourishes in the mountain ranges, the seeds spread avidly in humid and tropical forest. The plant grows, reproduces and becomes an object of desire for its precious "honey", as the peasants call the latex that oozes from its fruit. This same plant that has been admired for its beauty suddenly transforms and begins to be called “the cursed flower” (La flor maldita). Strangely, after its flower fades, the capsule emerges as a sign of a fortune that needs to be revealed.
 
-In a photograph by a contemporary colombian artist Juan Fernando Herrán from 2000, we see the precise moment when the head of the poppy has been delicately cut off, and liquid surges from it. In this artwork, the presence of the plant is transformed into a powerful image that distances itself from certain previous visual representations; on the contrary, the photograph shows the opium poppy capsule as a question between the human and the vegetal, the visual and the sensorial, the material and the spiritual.[^ref19]
+In a photograph by a contemporary colombian artist Juan Fernando Herrán from 2000, we see the precise moment when the head of the poppy has been delicately cut off, and liquid surges from it. In this artwork, the presence of the plant is transformed into a powerful image that distances itself from certain previous visual representations; on the contrary, the photograph shows the opium poppy capsule as a question between the human and the vegetal, the visual and the sensorial, the material and the spiritual.[^ref22]
 
 <param ve-image 
        url="juanpoppycolombia1.jpg"
@@ -283,10 +304,10 @@ In a photograph by a contemporary colombian artist Juan Fernando Herrán from 20
 ## Policing, Farmers, Eradication
 
  
-The spread of poppy crops in Colombia was a social and economic phenomenon, especially for small farmers who saw it as a unique opportunity to cultivate and trade a plant that had been recently introduced into the country. This rapid acceleration of trafficking and consumption of heroin also resulted in the emergence of policies to persecute growers and exterminate the plant. This resulted in a constant fear spread throughout the homes of peasants and indigenous peoples, who they did most of the opium planting in remote places and on small farms. [^ref20] In the same decade, the Colombian government signed with the United States the Plan Colombia, a political and economic initiative whose mission was to eradicate illicit crops such as cocaine, marijuana, and opium poppy from the country. The exponential increase in poppy cultivation put the country at the top of the world's poppy producers and Colombian heroin became sought after in the foreign market due to its high purity level. In this scenario, the government began a campaign of strong police persecution of both the plant and the people who cultivated it. The eradication was done through the work of many people who dug it up manually and, on the other hand, an intense and ineffective aerial eradication with glyphosate, a potent herbicide. In this state of emergency, the police and the military went after the plant and arrested whomever they oversaw taking care of it. Uncertainty and paranoia seemed to be in the air all the time. The government created a battleground that translated into a metaphor for a vigilante state. 
+The spread of poppy crops in Colombia was a social and economic phenomenon, especially for small farmers who saw it as a unique opportunity to cultivate and trade a plant that had been recently introduced into the country. This rapid acceleration of trafficking and consumption of heroin also resulted in the emergence of policies to persecute growers and exterminate the plant. This resulted in a constant fear spread throughout the homes of peasants and indigenous peoples, who they did most of the opium planting in remote places and on small farms. [^ref23] In the same decade, the Colombian government signed with the United States the Plan Colombia, a political and economic initiative whose mission was to eradicate illicit crops such as cocaine, marijuana, and opium poppy from the country. The exponential increase in poppy cultivation put the country at the top of the world's poppy producers and Colombian heroin became sought after in the foreign market due to its high purity level. In this scenario, the government began a campaign of strong police persecution of both the plant and the people who cultivated it. The eradication was done through the work of many people who dug it up manually and, on the other hand, an intense and ineffective aerial eradication with glyphosate, a potent herbicide. In this state of emergency, the police and the military went after the plant and arrested whomever they oversaw taking care of it. Uncertainty and paranoia seemed to be in the air all the time. The government created a battleground that translated into a metaphor for a vigilante state. 
 <param ve-entity eid="Q1702988" title="Plan Colombia">
 
-This phenomenon of eradication and the intervention of other governments did not only occur in Colombia, for instance, Afghanistan.  Over 80 percent of global opium production occurs in Afghanistan,[^ref22] where illicit poppy production has benefited from both the Taliban’s and U.S. government's war on drugs. One of the reasons that poppy production flourished in Afghanistan is because it is a rural country where long-standing wars and political conflicts have benefited poppy agriculture. As in Colombia, persecution and eradication became government policy, leading to April 2022, when the Taliban supreme leader Haibatullah Akhundzada decreed that poppy cultivation be prohibited; this led to increased insecurity, displacement, and uncertainties for farmers. At the same time, it appears that opium production has increased under Taliban rule.[^ref23]
+This phenomenon of eradication and the intervention of other governments did not only occur in Colombia, for instance, Afghanistan.  Over 80 percent of global opium production occurs in Afghanistan,[^ref24] where illicit poppy production has benefited from both the Taliban’s and U.S. government's war on drugs. One of the reasons that poppy production flourished in Afghanistan is because it is a rural country where long-standing wars and political conflicts have benefited poppy agriculture.[^ref25] As in Colombia, persecution and eradication became government policy, leading to April 2022, when the Taliban supreme leader Haibatullah Akhundzada decreed that poppy cultivation be prohibited; this led to increased insecurity, displacement, and uncertainties for farmers. At the same time, it appears that opium production has increased under Taliban rule.[^ref26]
           
 Juan Fernando Herrán himself, in his series "papaver somniferum", presents a work entitled "judicial triptych" (tríptico judicial) that evidences this police practice around the plant. In this "installation" he appropriates a photograph that circulated during those years in one of the most important newspapers in Bogota. The image in the center shows two peasants who have been caught. In this case, as it happens with a certain visuality as a police device, the offenders are presented with what they have been arrested for. A table with a delicate tablecloth displays, almost stretching from side to side, a large bouquet of opium poppies. On one side of the table, almost imperceptibly, we can see two blades and two containers can be seen, proof that the two men are guilty even before their trial.
 
@@ -299,7 +320,7 @@ This delicate staging is doubly displayed by the artist who adds two "natural" c
 
 ## Displacement and Environmental Terror
 
-The displacement of peasants and indigenous people was considerably accentuated during the war against the "cursed flower". Entire populations had to flee due to police persecution and the structures of the drug production; for some scholars, displacement should not be understood as an effect but as a weapon of war, a capitalist strategy of accumulation in which both the state and the insurgent groups empty land as a reason to expropriate, to appropriate both the territories and their resources. The truth is that, in these politics of domination, the whole landscape was being transformed. Not only was violence being wrought on the human, but also on the plant and the other organisms that coexisted with the opium poppy. The aerial spraying fell from the air and reached every corner of the surface. Those Edenic scenes of an almost virginal landscape of the mountains began to change into a codified space where the machine with its noise and its poison began to become an integral part of that new colonizing gaze.[^ref24]
+The displacement of peasants and indigenous people was considerably accentuated during the war against the "cursed flower". Entire populations had to flee due to police persecution and the structures of the drug production; for some scholars, displacement should not be understood as an effect but as a weapon of war, a capitalist strategy of accumulation in which both the state and the insurgent groups empty land as a reason to expropriate, to appropriate both the territories and their resources. The truth is that, in these politics of domination, the whole landscape was being transformed. Not only was violence being wrought on the human, but also on the plant and the other organisms that coexisted with the opium poppy. The aerial spraying fell from the air and reached every corner of the surface. Those Edenic scenes of an almost virginal landscape of the mountains began to change into a codified space where the machine with its noise and its poison began to become an integral part of that new colonizing gaze.[^ref27]
 
 Carlos Uribe's (1999) work entitled Horizons with Glyphosate (Horizonte con glifosato) makes direct reference to these political and environmental issues that were amid a broad public and private debate about the increasingly notorious presence of drug money in Colombian society. The work is a quotation and an extension of a 1913 painting of the same name made by Antonio Cano, already considered emblematic for regional visuality in Colombia. On the one hand, Cano shows a peasant family extending their hand in an act of promise in front of the immensity of a territory that as an act of creation needs to be occupied. The religious, patriarchal and dominion over the territory allusions made the work an unsurpassable example of a certain identity that was beginning to be defined and defended in the region of Antioquia in Colombia, one of the most prosperous and richest regions of the country and at the same time one of the most violent and most marked by drug trafficking. On the other hand, in Uribe's work, in addition to making an artistic appropriation, he also makes a historical reference to an environmental situation that was happening once the airplanes spilled glyphosate.
 
@@ -328,26 +349,29 @@ Curiously, the eyes of the pilots had to direct their gazes to the beauty of the
 [^ref2]: Maria Laura Leone, “Sacred Opium Botany in Daunia (Italy) from the VII – VI Cent. BC,” Eleusis, *Journal of Psychoactive Plants and Compounds New Series*, 2002–2003, 71–82 https://www.artepreistorica.com/2010/01/sacred-opium-botany-in-daunia-italy-from-the-7-to-6-centuries-bc
 [^ref3]: Leone, 73.
 [^ref4]: M. D. Merlin, “Archaeological Evidence for the Tradition of Psychoactive Plant Use in the Old World,” *Economic Botany* 57, no. 3 (2003): 295–323. http://www.jstor.org/stable/4256701.
-[^ref5]: See William Robinson, *The Wild Garden Or, “Our Grove and Shrubberies Made Beautiful By The Naturalization of Hardy Exotic Plants: With A Chapter On The Garden of British Wild Flowers” (London: John Murray), 1870.* 1st edition; see William Robinson, *The English Flower Garden and Home Grounds of Hardy Trees and Flowers Only*, 11th Edition (London: John Murray), 1933, 700.
-[^ref6]: Robinson, The Wild Garden, 52. 
-[^ref7]: Zheng, Yangwen, “The Social Life of Opium in China, 1483-1999.” *Modern Asian Studies* 37, no. 1 (2003): 5. http://www.jstor.org/stable/3876550.
-[^ref8]: Hans Derks,  “The ‘Violent Opium Company’ (VOC) in the East,” in *History of the Opium Problem: The Assault on the East, ca. 1600-1950* 105 (Leiden, Netherlands: Brill, 2012), 189–238. http://www.jstor.org/stable/10.1163/j.ctv4cbhdf.18
-[^ref9]: Derks, 194.
-[^ref10]: George Birdwood, “The Drying Up of the Indian Opium Revenue,” *Journal of the Royal Society of Arts* (June 20, 1913), Vol 61, No, 3161, 766.
-[^ref11]: Basilius Bessler, *Hortus Eystettensis*,2nd Edition. Nuremberg, 1713.
-[^ref12]: Andrew Lack, *Poppy*. (London: Reaktion Books, 2016), 145-146. 
-[^ref13]: Om Prakash, ‘Opium monopoly in India and Indonesia in the eighteenth century.’ *The Indian Economic & Social History Review*, 24 (1987): 66.
-[^ref14]: Julia Lovell, *The Opium War: Drugs, Dreams and the Making of China* (London: Pan Macmillan, 2011), 2.
-[^ref15]: Royal Botanic Gardens Kew Archives, Miscellaneous Reports, MCR/5/1/45, India: Economic Products: Opium, f. 209.
-[^ref16]:  Joseph Dalton Hooker, *Himalayan Journals, Or, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, &c.* (London: Ward, Lock, Bowden, 1891), 59. 
-[^ref17]: Sandra Kemp, Introduction to *The Moonstone*, by Wilkie Collins, (London: Penguin, 1998). 
-[^ref18]: Lack, 134-135.
-[^ref19]:  Jose Roca, Sylvia Suarez, *Transpolitico: arte en Colombia 1992-2012, Transpolitical: Art in Colombia 1992-2012* (Bilingual Edition)(Barcelona: Lunwerg, 2012).
-[^ref20]: Kristina Marie Lyons, "Decomposition as Life Politics: Soils, Selva, and Small Farmers under the Gun of the U.S.–Colombia War on Drugs.” *Cultural Anthropology* 31, (2015) no. 1: 56–81.
-[^ref21]: *World Drug Report 2020*, Vol. 3 Drug Supply (2020), p. 9.
-[^ref22]: Hermann Kreutzmann, ‘Afghanistan and the Opium World Market: Poppy Production and Trade’, *Iranian Studies*, 40 (2007), 605-621 (p. 605)
-[^ref23]:‘Opium Cultivation in Afghanistan: Latests findings and emerging threats’, UNODC Research Brief November 2022
-[^ref24]: James M Shultz, Angela Milena Gómez Ceballos, Zelde Espinel, Sofia Rios Oliveros, Maria Fernanda Fonseca & Luis Jorge Hernandez Florez (2014) Internal Displacement in Colombia, *Disaster Health*, 2:1 (2014), 13-24.
+[^ref5]: Paolo Nencini (1997), "Social Pharmacology the Rules of Drug Taking: Wine and Poppy Derivatives in the Ancient World. VI. Poppies as a Source of Food and Drug, Substance Use & Misuse," 32:6, 763, DOI: 10.3109/10826089709039375
+[^ref6]: Paolo Nencini, "Facts and Factoids in the Early History of the Opium Poppy, The Social History of Alcohol and Drugs," Volume 36, Number 1 (Spring 2022), March 11 2022, 66, https://doi.org/10.1086/718481. Accessed 23 June 2023.
+[^ref7]: Nencini, "Facts and Factoids," 61.
+[^ref8]: See William Robinson, *The Wild Garden Or, “Our Grove and Shrubberies Made Beautiful By The Naturalization of Hardy Exotic Plants: With A Chapter On The Garden of British Wild Flowers” (London: John Murray), 1870.* 1st edition; see William Robinson, *The English Flower Garden and Home Grounds of Hardy Trees and Flowers Only*, 11th Edition (London: John Murray), 1933, 700.
+[^ref9]: Robinson, The Wild Garden, 52. 
+[^ref10]: Zheng, Yangwen, “The Social Life of Opium in China, 1483-1999.” *Modern Asian Studies* 37, no. 1 (2003): 5. http://www.jstor.org/stable/3876550.
+[^ref11]: Hans Derks,  “The ‘Violent Opium Company’ (VOC) in the East,” in *History of the Opium Problem: The Assault on the East, ca. 1600-1950* 105 (Leiden, Netherlands: Brill, 2012), 189–238. http://www.jstor.org/stable/10.1163/j.ctv4cbhdf.18
+[^ref12]: Derks, 194.
+[^ref13]: George Birdwood, “The Drying Up of the Indian Opium Revenue,” *Journal of the Royal Society of Arts* (June 20, 1913), Vol 61, No, 3161, 766.
+[^ref14]: Basilius Bessler, *Hortus Eystettensis*,2nd Edition. Nuremberg, 1713.
+[^ref15]: Andrew Lack, *Poppy*. (London: Reaktion Books, 2016), 145-146. 
+[^ref16]: Om Prakash, ‘Opium monopoly in India and Indonesia in the eighteenth century.’ *The Indian Economic & Social History Review*, 24 (1987): 66.
+[^ref17]: Julia Lovell, *The Opium War: Drugs, Dreams and the Making of China* (London: Pan Macmillan, 2011), 2.
+[^ref18]: Royal Botanic Gardens Kew Archives, Miscellaneous Reports, MCR/5/1/45, India: Economic Products: Opium, f. 209.
+[^ref19]:  Joseph Dalton Hooker, *Himalayan Journals, Or, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, &c.* (London: Ward, Lock, Bowden, 1891), 59. 
+[^ref20]: Sandra Kemp, Introduction to *The Moonstone*, by Wilkie Collins, (London: Penguin, 1998). 
+[^ref21]: Lack, 134-135.
+[^ref22]:  Jose Roca, Sylvia Suarez, *Transpolitico: arte en Colombia 1992-2012, Transpolitical: Art in Colombia 1992-2012* (Bilingual Edition)(Barcelona: Lunwerg, 2012).
+[^ref23]: Kristina Marie Lyons, "Decomposition as Life Politics: Soils, Selva, and Small Farmers under the Gun of the U.S.–Colombia War on Drugs.” *Cultural Anthropology* 31, (2015) no. 1: 56–81.
+[^ref24]: *World Drug Report 2020*, Vol. 3 Drug Supply (2020), p. 9.
+[^ref25]: Hermann Kreutzmann, ‘Afghanistan and the Opium World Market: Poppy Production and Trade’, *Iranian Studies*, 40 (2007), 605-621 (p. 605)
+[^ref26]:‘Opium Cultivation in Afghanistan: Latests findings and emerging threats’, UNODC Research Brief November 2022
+[^ref27]: James M Shultz, Angela Milena Gómez Ceballos, Zelde Espinel, Sofia Rios Oliveros, Maria Fernanda Fonseca & Luis Jorge Hernandez Florez (2014) Internal Displacement in Colombia, *Disaster Health*, 2:1 (2014), 13-24.
 
 			  
 https://juncture-digital.org/hrcraddock/plants/opiumpoppy/
