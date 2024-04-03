@@ -188,7 +188,7 @@ The nineteenth century saw a conflict between these concepts of the opium poppy:
 <param ve-entity eid="Q6165948" title="herbal" aliases="herbals">
 <param ve-entity eid="Q1279282" title="Hermann Adolph Köhler" aliases="Hermann Adolph Köhler's">
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/3/39/%22Poor_child%27s_nurse%22%2C_child_with_opium%2C_Punch%2C_1849_Wellcome_L0003359.jpg"
+url="https://upload.wikimedia.org/wikipedia/commons/3/39/%22Poor_child%27s_nurse%22%2C_child_with_opium%2C_Punch%2C_1849_Wellcome_L0003359.jpg"
        label="The Poor Child's Nurse, from 1849 edition of Punch magazine"
        description="Image from 1849 edition of Punch magazine"
        license="public domain"
